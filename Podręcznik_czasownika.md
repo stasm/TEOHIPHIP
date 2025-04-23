@@ -14,18 +14,20 @@ Czy jesteś gotów uruchomić swój chronocykl?
 
 ## Rozdział 1: Witajcie w Poprawionej (Gorzej) Historii
 
-„Dzieje powszechne wyreguluje się, oczyści, naprawi, wyrówna i udoskonali, zgodnie z zasadami humanitaryzmu, racjonalizmu i ogólnej estetyczności; rozumiesz chyba, że mając taką masarnię i jatkę w rodowodzie, wstyd pchać się pomiędzy wysokie kosmiczne cywilizacje\!”  
+> „Dzieje powszechne wyreguluje się, oczyści, naprawi, wyrówna i udoskonali, zgodnie z zasadami humanitaryzmu, racjonalizmu i ogólnej estetyczności; rozumiesz chyba, że mając taką masarnię i jatkę w rodowodzie, wstyd pchać się pomiędzy wysokie kosmiczne cywilizacje\!”  
 
 Ten rozdział to Twój bilet (w jedną stronę?) do świata przyszłości, która postanowiła majstrować przy przeszłości. Zanim stworzysz postać, musisz zrozumieć, w jakim absurdalnym przedsięwzięciu bierzesz udział.
 
 ### 1.1. Czas Korekt i Katastrof: Instytut i TEOHIPHIP
 
 Wkroczyliśmy w świetlaną przyszłość – powiedzmy, okolice XXVII wieku 1 . Ludzkość opanowała podróże w czasie. Powstał wszechmocny **Instytut Temporystyki (INT)** 2 , dysponujący niewyobrażalnymi środkami i technologią: od indywidualnych **chronocykli**  3  przypominających skrzyżowanie roweru z miotłą, przez większe **chronotraki, czasowce i tempobile** 4 , aż po gigantyczne instalacje jak generatory **GENEZIS, BREKEKEK, KOAKS czy KWAK** 5 . Wszystko to miało służyć szczytnemu celowi: **TEOHIPHIP – Telechronicznej Optymalizacji Historii Powszechnej Hyperputerem** 6 . Chodziło o to, by wyczyścić historię z wojen, cierpienia i błędów, czyniąc ją estetyczną i racjonalną wizytówką ludzkości 7 .  
+
 Problem w tym, że operacja zakończyła się... cóż, delikatnie mówiąc, umiarkowanym sukcesem. Każda próba "naprawy" prowadziła do kolejnych, często jeszcze gorszych katastrof.
 
 ### 1.2. Świat Lema: Pomiędzy Nauką a Absurdem
 
 Świat TEOHIPHIP RPG to świat twardej (choć absurdalnej) science-fiction w stylu Stanisława Lema. Zapomnij o magii – tu rządzi **chronotechnologia**, ze wszystkimi jej błędami, awariami i paradoksami. Logika czasu jest naginana, łamana i zapętlana. Spotkanie samego siebie to niemal rutyna. Przyczynowość to raczej luźna sugestia. A wszystko to podlane jest sosem **biurokratycznego chaosu, niekompetencji, rywalizacji, nepotyzmu** i czarnego humoru.  
+
 Skutki działań Instytutu są widoczne na każdym kroku (i w każdej epoce):
 
 * Planety Układu Słonecznego zostały zrujnowane (Mars zamieniony w pustynię z zacementowanymi "kanałami", Wenus otoczona trującą atmosferą).  
@@ -72,11 +74,13 @@ Wasze cele mogą być różne: wierna służba Instytutowi (powodzenia\!), prób
 ### 1.6. Czego spodziewać się po grze?
 
 Spodziewajcie się przygód pełnych czarnego humoru, absurdalnych sytuacji, biurokratycznych przepychanek i nieoczekiwanych konsekwencji. Wasze misje mogą obejmować próby (nie)subtelnego wpływania na historię, ratowanie innych agentów (lub siebie) z tarapatów, badanie dziwacznych anomalii czasowych, unikanie paradoksów (lub ich tworzenie), a także radzenie sobie z niekompetentnymi przełożonymi i złośliwymi kolegami. Walka może się zdarzyć, ale często większym zagrożeniem jest logika czasu, wadliwy sprzęt lub podpisanie niewłaściwego formularza. Pamiętajcie, że najważniejsza jest opowieść, absurd i wspólne śmianie się z kosmicznego bałaganu, jaki sami tworzycie.  
+
 *Teraz, gdy wiesz już, że historia to farsa napisana przez dyletantów, jesteś gotów poznać zasady, które pozwolą Ci (być może) nie stać się jej kolejnym przypisem dolnym...*
 
 ## Rozdział 2: Mechanika Chaosu, czyli jak działa tinyd6 w Czasie
 
-„Nonsens\! Zachowujże się jak człowiek inteligentny\! Jakże się chcesz ze mną rachować? Przecież każdy mój teraźniejszy siniec będzie potem twoim\!”  
+> „Nonsens\! Zachowujże się jak człowiek inteligentny\! Jakże się chcesz ze mną rachować? Przecież każdy mój teraźniejszy siniec będzie potem twoim\!”  
+
 System tinyd6 jest prosty i elastyczny, idealny do obsługi chaosu podróży w czasie bez grzęźnięcia w skomplikowanych regułach. Koncentrujemy się na narracji, szybkich decyzjach i nieprzewidywalnych (często komicznych) wynikach rzutów kośćmi.
 
 ### 2.1. Kości w Pętli Czasowej: Podstawy rzutów
@@ -159,11 +163,13 @@ Zbierz wszystkie informacje na **Karcie Agenta Czasu**. Powinna zawierać:
 * Krótki opis (może zawierać drobne anachronizmy?)
 
 Przykładowy wzór karty znajdziesz w **Dodatku B**.  
+
 *Gratulacje\! Twój agent chaosu jest gotów... a przynajmniej tak mu się wydaje. Czas ruszać w czas\!*
 
 ## Rozdział 3: Prowadzenie Postaci – Akcja, Reakcja i Paradoks
 
-„To, co się dzieje, zależy teraz wyłącznie od ciebie, bo nie ode mnie...” (Albo od zepsutego chronocykla.)  
+> „To, co się dzieje, zależy teraz wyłącznie od ciebie, bo nie ode mnie...” (Albo od zepsutego chronocykla.)  
+
 Stworzyłeś postać, poznałeś zasady rzutów. Zobaczmy, jak wygląda rozgrywka w praktyce – od rutynowych misji po radzenie sobie z temporalnymi katastrofami.
 
 ### 3.1. Jak to (nie) działa? Podstawy rozgrywki
@@ -228,7 +234,8 @@ Wasze wybory wpływają na Waszą reputację w INT (jeśli kogoś to obchodzi), 
 
 ## Rozdział 4: Porady dla Agentów Czasu – Jak nie zniknąć w paradoksie
 
-„Technologia Chronomocyjna, jak Kosmonautyczna, wymaga olbrzymiego przemysłu, kolosalnych inwestycji, planowania... ale z tym też sam się zapoznasz na miejscu, tj. w swoim czasie.” (Albo i nie.)  
+> „Technologia Chronomocyjna, jak Kosmonautyczna, wymaga olbrzymiego przemysłu, kolosalnych inwestycji, planowania... ale z tym też sam się zapoznasz na miejscu, tj. w swoim czasie.” (Albo i nie.)  
+
 Świat TEOHIPHIP jest absurdalny, chaotyczny i pełen pułapek. Oto kilka rad, jak czerpać z niego radość (i może nawet przeżyć):
 
 ### 4.1. Myśl jak Lem (albo przynajmniej jak jego postacie)
