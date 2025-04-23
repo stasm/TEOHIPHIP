@@ -20,7 +20,7 @@ Ten rozdział to Twój bilet (w jedną stronę?) do świata przyszłości, któr
 
 ### 1.1. Czas Korekt i Katastrof: Instytut i TEOHIPHIP
 
-Wkroczyliśmy w świetlaną przyszłość – powiedzmy, okolice XXVII wieku 1 . Ludzkość opanowała podróże w czasie. Powstał wszechmocny **Instytut Temporystyki (INT)** 2 , dysponujący niewyobrażalnymi środkami i technologią: od indywidualnych **chronocykli**  3  przypominających skrzyżowanie roweru z miotłą, przez większe **chronotraki, czasowce i tempobile** 4 , aż po gigantyczne instalacje jak generatory **GENEZIS, BREKEKEK, KOAKS czy KWAK** 5 . Wszystko to miało służyć szczytnemu celowi: **TEOHIPHIP – Telechronicznej Optymalizacji Historii Powszechnej Hyperputerem** 6 . Chodziło o to, by wyczyścić historię z wojen, cierpienia i błędów, czyniąc ją estetyczną i racjonalną wizytówką ludzkości 7 .  
+Wkroczyliśmy w świetlaną przyszłość – powiedzmy, okolice XXVII wieku. Ludzkość opanowała podróże w czasie. Powstał wszechmocny **Instytut Temporystyki (INT)**, dysponujący niewyobrażalnymi środkami i technologią: od indywidualnych **chronocykli** przypominających skrzyżowanie roweru z miotłą, przez większe **chronotraki, czasowce i tempobile**, aż po gigantyczne instalacje jak generatory **GENEZIS, BREKEKEK, KOAKS czy KWAK**. Wszystko to miało służyć szczytnemu celowi: **TEOHIPHIP – Telechronicznej Optymalizacji Historii Powszechnej Hyperputerem**. Chodziło o to, by wyczyścić historię z wojen, cierpienia i błędów, czyniąc ją estetyczną i racjonalną wizytówką ludzkości.  
 
 Problem w tym, że operacja zakończyła się... cóż, delikatnie mówiąc, umiarkowanym sukcesem. Każda próba "naprawy" prowadziła do kolejnych, często jeszcze gorszych katastrof.
 
@@ -240,10 +240,10 @@ Wasze wybory wpływają na Waszą reputację w INT (jeśli kogoś to obchodzi), 
 
 ### 4.1. Myśl jak Lem (albo przynajmniej jak jego postacie)
 
-* **Embrace the Absurd:** To świat, gdzie logika często zawodzi, a najbardziej nieprawdopodobne rzeczy są na porządku dziennym. Śmiejcie się z tego. Im bardziej absurdalne rozwiązanie, tym większa szansa, że zadziała (albo przynajmniej będzie zabawnie).  
-* **Biurokracja jest Potworem:** Regulaminy, formularze, pieczątki i hierarchia służbowa są równie realnym zagrożeniem co paradoksy czasowe. Nauczcie się lawirować w biurokracji lub ją ignorować (na własne ryzyko).  
-* **Czarny Humor to Twój Przyjaciel:** Setting jest pełen mrocznych sytuacji (katastrofy, zepsuta historia), ale podanych w satyryczny sposób. Nie bójcie się czarnego humoru.  
-* **Technologia jest Zawodna:** Nie ufajcie swojemu sprzętowi. Zawsze miejcie plan B (i C, i D). Kopanie chronocykla czasem pomaga.
+* **Absurd od rzeczy samej:** To świat, gdzie logika często zawodzi, a najbardziej nieprawdopodobne rzeczy są na porządku dziennym. Śmiejcie się z tego. Im bardziej absurdalne rozwiązanie, tym większa szansa, że zadziała (albo przynajmniej będzie zabawnie).  
+* **Biurokracja jest potworem:** Regulaminy, formularze, pieczątki i hierarchia służbowa są równie realnym zagrożeniem co paradoksy czasowe. Nauczcie się lawirować w biurokracji lub ją ignorować (na własne ryzyko).  
+* **Czarny humor to Twój przyjaciel:** Setting jest pełen mrocznych sytuacji (katastrofy, zepsuta historia), ale podanych w satyryczny sposób. Nie bójcie się czarnego humoru.  
+* **Technologia jest zawodna:** Nie ufajcie swojemu sprzętowi. Zawsze miejcie plan B (i C, i D). Kopanie chronocykla czasem pomaga.
 
 ### 4.2. Grajcie Razem (przeciwko Instytutowi?)
 
@@ -252,8 +252,8 @@ Wasze wybory wpływają na Waszą reputację w INT (jeśli kogoś to obchodzi), 
 
 ### 4.3. Bądź Kreatywny (bo plan A na pewno zawiedzie)
 
-* **Myśl Nieszablonowo:** Jak wykorzystać zepsuty toster z XXI wieku do przekonania Attyli, że jesteś bogiem piorunów? Jak użyć regulaminu przeciwko przełożonemu? Kreatywność jest kluczem.  
-* **Narracja ponad Wszystko:** Opisujcie swoje działania barwnie. Tinyd6 wspiera narracyjne podejście. „Próbuję przekonać strażnika, machając mu przed nosem formularzem T-47b, mamrocząc coś o pilnej inspekcji temporalnej” jest lepsze niż „Robię test perswazji”.
+* **Myśl nieszablonowo:** Jak wykorzystać zepsuty toster z XXI wieku do przekonania Attyli, że jesteś bogiem piorunów? Jak użyć regulaminu przeciwko przełożonemu? Kreatywność jest kluczem.  
+* **Narracja ponad wszystko:** Opisujcie swoje działania barwnie. Tinyd6 wspiera narracyjne podejście. „Próbuję przekonać strażnika, machając mu przed nosem formularzem T-47b, mamrocząc coś o pilnej inspekcji temporalnej” jest lepsze niż „Robię test perswazji”.
 
 ### 4.4. Kilka Zasad Przetrwania w Czasie
 
@@ -264,40 +264,40 @@ Wasze wybory wpływają na Waszą reputację w INT (jeśli kogoś to obchodzi), 
 * **Miej zawsze przy sobie odpowiedni formularz.** (Nawet jeśli nie wiesz, do czego służy).  
 * **Pamiętaj: to tylko gra.** Nawet jeśli Twoja postać właśnie wymazała z historii renesans.
 
-## Dodatek A: Cechy Pozytywne i Negatywne (Wersja Beta \- Wymaga Balansowania\!)
+## Dodatek A: Cechy pozytywne i negatywne (Wersja Beta \- Wymaga Balansowania\!)
 
 Poniżej znajduje się **przykładowa, robocza lista cech** dla TEOHIPHIP RPG. Koszty i zyski punktowe są orientacyjne i wymagają dopracowania podczas gry. Zachęcamy do tworzenia własnych cech zgodnych z duchem settingu\!
 
-### Cechy Pozytywne (Kosztują Punkty Cech)
+### Cechy pozytywne (kosztują punkty cech)
 
-* **Pilot Chronocykla (-3 pkt):** Przewaga na testy pilotowania standardowych chronocykli, zwłaszcza lądowania i startu.  
-* **Techniczny Fachowiec (-4 pkt):** Przewaga na testy naprawy chronotechnologii i innego sprzętu Instytutu.  
-* **Odporność na Paradoksy (-5 pkt):** Przewaga na testy Woli/Odporności przeciwko dezorientacji, utracie pamięci lub szaleństwu wywołanemu przez paradoksy czasowe.  
-* **Intuicja Temporalna (-3 pkt):** Przewaga na testy związane z wyczuwaniem anomalii czasowych, oszacowaniem właściwej epoki lub przewidywaniem bezpośrednich skutków ubocznych zmian w czasie.  
-* **Biurokratyczny Spryt (-3 pkt):** Przewaga na testy związane z nawigacją w biurokracji INT, zdobywaniem pozwoleń, fałszowaniem dokumentów lub wykorzystywaniem regulaminów na własną korzyść.  
-* **Poliglota Historyczny (-2 pkt):** Przewaga na testy związane z szybkim zrozumieniem i nauką języków z różnych epok historycznych.  
-* **Zmysł Historyczny (-2 pkt):** Przewaga na testy wiedzy o historii (tej "oficjalnej" i tej "poprawionej"), co pozwala unikać rażących anachronizmów lub wykorzystywać wiedzę o przyszłych wydarzeniach.  
-* **Kamuflaż Doskonały (-3 pkt):** Przewaga na testy związane z wtopieniem się w tłum w różnych epokach historycznych (ubiór, zachowanie).  
+* **Pilot chronocykla (-3 pkt):** Przewaga na testy pilotowania standardowych chronocykli, zwłaszcza lądowania i startu.  
+* **Techniczny fachowiec (-4 pkt):** Przewaga na testy naprawy chronotechnologii i innego sprzętu Instytutu.  
+* **Odporność na paradoksy (-5 pkt):** Przewaga na testy Woli/Odporności przeciwko dezorientacji, utracie pamięci lub szaleństwu wywołanemu przez paradoksy czasowe.  
+* **Intuicja temporalna (-3 pkt):** Przewaga na testy związane z wyczuwaniem anomalii czasowych, oszacowaniem właściwej epoki lub przewidywaniem bezpośrednich skutków ubocznych zmian w czasie.  
+* **Biurokratyczny spryt (-3 pkt):** Przewaga na testy związane z nawigacją w biurokracji INT, zdobywaniem pozwoleń, fałszowaniem dokumentów lub wykorzystywaniem regulaminów na własną korzyść.  
+* **Poliglota historyczny (-2 pkt):** Przewaga na testy związane z szybkim zrozumieniem i nauką języków z różnych epok historycznych.  
+* **Zmysł historyczny (-2 pkt):** Przewaga na testy wiedzy o historii (tej "oficjalnej" i tej "poprawionej"), co pozwala unikać rażących anachronizmów lub wykorzystywać wiedzę o przyszłych wydarzeniach.  
+* **Kamuflaż doskonały (-3 pkt):** Przewaga na testy związane z wtopieniem się w tłum w różnych epokach historycznych (ubiór, zachowanie).  
 * **Koneksje w INT (-2 pkt):** Masz "znajomego" w jakimś departamencie, który może czasem udzielić informacji lub przysługi (oczywiście nie za darmo).  
-* **Szczęście Idioty (-5 pkt):** Raz na sesję możesz przerzucić dowolny swój nieudany rzut. Musisz zaakceptować drugi wynik. Fortuna sprzyja niekompetentnym.  
-* **Zimna Krew (-3 pkt):** Przewaga na testy odporności na strach, panikę i stres wywołany absurdalnymi lub niebezpiecznymi sytuacjami.  
+* **Szczęście idioty (-5 pkt):** Raz na sesję możesz przerzucić dowolny swój nieudany rzut. Musisz zaakceptować drugi wynik. Fortuna sprzyja niekompetentnym.  
+* **Zimna krew (-3 pkt):** Przewaga na testy odporności na strach, panikę i stres wywołany absurdalnymi lub niebezpiecznymi sytuacjami.  
 * **Mistrz Improwizacji (-4 pkt):** Przewaga na testy, gdy próbujesz użyć posiadanego sprzętu (nawet uszkodzonego lub nieadekwatnego) w zupełnie nieprzewidziany, kreatywny sposób.
 
-### Cechy Negatywne (Dają Punkty Cech)
+### Cechy negatywne (dają punkty cech)
 
-* **Podatność na Paradoksy (+4 pkt):** Utrudnienie na testy Woli/Odporności przeciwko efektom paradoksów czasowych. Łatwo wpadasz w pętle, tracisz pamięć lub mylisz epoki.  
+* **Podatność na paradoksy (+4 pkt):** Utrudnienie na testy Woli/Odporności przeciwko efektom paradoksów czasowych. Łatwo wpadasz w pętle, tracisz pamięć lub mylisz epoki.  
 * **Chronochoroba (+3 pkt):** Cierpisz na silne mdłości, bóle głowy lub dezorientację po każdym skoku w czasie. Utrudnienie na pierwszy test po podróży.  
-* **Piętno Czasowe (+3 pkt):** Masz jakiś subtelny, ale zauważalny anachronizm (w mowie, wyglądzie, zachowaniu), który utrudnia kamuflaż. Utrudnienie na testy ukrywania swojej natury w przeszłości.  
+* **Piętno czasowe (+3 pkt):** Masz jakiś subtelny, ale zauważalny anachronizm (w mowie, wyglądzie, zachowaniu), który utrudnia kamuflaż. Utrudnienie na testy ukrywania swojej natury w przeszłości.  
 * **Wróg w Instytucie (+3 pkt):** Ktoś wpływowy w INT aktywnie stara się uprzykrzyć Ci życie lub pozbyć się Ciebie.  
-* **Zgubiony w Czasie (+4 pkt):** Masz tendencję do lądowania w niewłaściwej epoce lub miejscu. MG może modyfikować cel Twoich podróży.  
-* **Nieregulaminowy/Uszkodzony Sprzęt (+2 pkt):** Twój podstawowy sprzęt (np. chronocykl) jest zawodny. MG może częściej zarządzać testy jego działania lub awarie.  
-* **Pesymizm Dziejowy (+2 pkt):** Nie wierzysz w sens TEOHIPHIP i uważasz, że każda interwencja tylko pogarsza sprawę. Utrudnienie na testy wymagające entuzjazmu, inicjatywy lub wiary w sukces misji.  
-* **Biurokratyczny Koszmar (+3 pkt):** Jesteś na bakier z regulaminami, gubisz formularze, zawsze czegoś brakuje. Utrudnienie na interakcje z biurokracją INT.  
+* **Zgubiony w czasie (+4 pkt):** Masz tendencję do lądowania w niewłaściwej epoce lub miejscu. MG może modyfikować cel Twoich podróży.  
+* **Uszkodzony sprzęt (+2 pkt):** Twój podstawowy sprzęt (np. chronocykl) jest zawodny. MG może częściej zarządzać testy jego działania lub awarie.  
+* **Pesymizm dziejowy (+2 pkt):** Nie wierzysz w sens TEOHIPHIP i uważasz, że każda interwencja tylko pogarsza sprawę. Utrudnienie na testy wymagające entuzjazmu, inicjatywy lub wiary w sukces misji.  
+* **Biurokratyczny koszmar (+3 pkt):** Jesteś na bakier z regulaminami, gubisz formularze, zawsze czegoś brakuje. Utrudnienie na interakcje z biurokracją INT.  
 * **Technofobia (+2 pkt):** Nie ufasz technologii, szczególnie tej czasowej. Utrudnienie na testy używania skomplikowanego sprzętu.  
 * **Ścigany przez MOIRĘ (+5 pkt):** Z jakiegoś powodu MOIRA poluje na Ciebie (lub grupę). Są kompetentni (czasem) i nieustępliwi.  
-* **Przywiązanie do Epoki (+1 pkt):** Masz sentyment do konkretnej epoki historycznej i źle znosisz podróże do innych.  
-* **Notoryczny Spóźnialski (Temporalny) (+2 pkt):** Zawsze przybywasz trochę za późno (lub za wcześnie), co komplikuje plany.  
-* **Paniczny Strach przed... (+2 pkt):** Wybierz coś absurdalnego lub specyficznego dla podróży w czasie (np. dinozaury, paradoksy, własne sobowtóry, Rzymian). Zasady jak standardowa Fobia.
+* **Przywiązanie do epoki (+1 pkt):** Masz sentyment do konkretnej epoki historycznej i źle znosisz podróże do innych.  
+* **Notoryczny spóźnialski (Temporalny) (+2 pkt):** Zawsze przybywasz trochę za późno (lub za wcześnie), co komplikuje plany.  
+* **Paniczny strach przed... (+2 pkt):** Wybierz coś absurdalnego lub specyficznego dla podróży w czasie (np. dinozaury, paradoksy, własne sobowtóry, Rzymian). Zasady jak standardowa Fobia.
 
 ## Dodatek B: Przykładowa Karta Agenta Czasu
 
@@ -312,7 +312,7 @@ Technik Zenon Kowalski (Numer Akt: 734-Zeta-K)
 **Cechy Negatywne (+11 punktów):**
 
 1.  **Chronochoroba (+3 pkt):** Zenon źle znosi skoki czasowe. Po każdej podróży czuje się przez chwilę fatalnie (mdłości, zawroty głowy), co daje mu `Utrudnienie` na pierwszy test wykonywany zaraz po przybyciu do nowej epoki.
-2.  **Nieregulaminowy/Uszkodzony Sprzęt (+2 pkt):** Jego przydziałowy chronocykl to grat, który wiecznie wymaga napraw w najmniej odpowiednich momentach. MG może częściej zarządzać testy jego działania lub po prostu ogłaszać awarie.
+2.  **Uszkodzony Sprzęt (+2 pkt):** Jego przydziałowy chronocykl to grat, który wiecznie wymaga napraw w najmniej odpowiednich momentach. MG może częściej zarządzać testy jego działania lub po prostu ogłaszać awarie.
 3.  **Biurokratyczny Koszmar (+3 pkt):** Zenon notorycznie gubi formularze, myli pieczątki i ma problemy z wypełnianiem nawet najprostszych wniosków. Otrzymuje `Utrudnienie` na wszelkie interakcje z biurokracją INT, co często prowadzi do opóźnień, reprymend lub przydziału jeszcze gorszego sprzętu.
 4.  **Piętno Czasowe (+3 pkt):** Zenon nieświadomie nuci pod nosem melodie z przyszłości (np. z XXVII wieku), co brzmi skrajnie dziwacznie w większości epok historycznych i może zwrócić na niego niepożądaną uwagę. Daje mu to `Utrudnienie` na testy ukrywania swojej prawdziwej natury lub wtapiania się w tłum.
 
