@@ -1,4 +1,4 @@
-## Dokument projektowy: Modyfikacja tinyd6 - Pula kości inicjatywy
+## Modyfikacja tinyd6 - Pula kości inicjatywy
 
 ### 1. Kontekst i cel
 
