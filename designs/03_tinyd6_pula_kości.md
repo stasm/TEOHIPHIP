@@ -82,13 +82,22 @@
 
 - **Wątłe zdrowie:** Maksymalne PŻ zmniejszone o 1 (zysk: +3 punkty)
 - **Nieostrożny:** Nie możesz zostawiać kości na kolejną turę (zysk: +2 punkty)
-- **Niepewny:** Musisz użyć pierwszej kości z Puli na pierwszy test (zysk: +2 punkty)
+- **Niepewny:** Jeśli w puli masz kość o wartości 1 lub 2, musisz ją wykorzystać przy pierwszej wymianie w turze (zysk: +3 punkty)
 - **Roztrzepany:** Raz na sesję MG może zmusić cię do użycia najgorszej kości z Puli (zysk: +1 punkt)
 - **Pechowiec:** Zawsze gdy wyrzucisz 1 w puli, nie możesz jej użyć (zysk: +2 punkty)
 - **Zmęczliwy:** Za każdym razem, gdy odzyskujesz PŻ, dostajesz o 1 mniej (zysk: +3 punkty)
 - **Chaotyczny:** Na początku tury musisz przerzucić jedną losową kość z puli (zysk: +1 punkt)
 - **Ostrożny:** Nie możesz korzystać z kości z puli, jeśli masz mniej niż 3 PŻ (zysk: +2 punkty)
 - **Chwiejny:** Po każdej wymianie kości z puli, następny test wykonujesz z Utrudnieniem (zysk: +3 punkty)
+- **Nadwrażliwy:** Otrzymujesz o 1 więcej obrażeń z każdego źródła (zysk: +4 punkty)
+- **Impulsywny:** Przy pierwszym teście w turze musisz wymienić jedną ze swoich kości na kość o najwyższej wartości z puli, nawet jeśli to oznacza stratę 1 PŻ bez gwarancji sukcesu (zysk: +3 punkty)
+- **Nerwowy:** Jeśli masz w puli więcej szóstek niż jedynek, jedna szóstka zamienia się w jedynkę (zysk: +3 punkty)
+- **Ślepy w ciemności:** Podczas scen w ciemności/nocy odejmij 1 od każdej kości w puli (zysk: +2 punkty)
+- **Uzależniony:** Na początku każdego dnia przygody tracisz 1 PŻ, jeśli nie zażyjesz swojej używki (zysk: +3 punkty)
+- **Rozrzutny:** Nie możesz zachować niewykorzystanych kości o wartości 6 (zysk: +2 punkty)
+- **Przesądny:** Gdy w puli pojawią się dwie kości o tej samej wartości, jedna z nich musi zostać przerzucona (zysk: +2 punkty)
+- **Oportunista:** W pierwszym teście w turze musisz wymienić kość o wyższej wartości z testu na kość z puli; ta wymiana jest darmowa, bo kość z testu wędruje do puli (zastępując użytą) (zysk: +2 punkty)
+- **Powolny Refleks:** Nie możesz korzystać z puli w swoim pierwszym teście w turze (zysk: +2 punkty)
 
 ### 6. Konsekwencje i dyskusja nad balansem
 
