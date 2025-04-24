@@ -26,9 +26,11 @@
 2. **System Punktów Kreacji (PK):**  
    * Każdy gracz otrzymuje **12 Punktów Kreacji (PK)** do wydania na swoją bandę.
    * **Konwersja Punktów Kreacji:**
-     * **1 PK = 1 Punkt Życia (PŻ)** dla dowolnej postaci w bandzie (maksymalnie 8 PŻ na postać).
+     * **1 PK = 1 Punkt Życia (PŻ)** dla dowolnej postaci w bandzie (minimum 4 PŻ, maksimum 8 PŻ na postać).
      * **1 PK = 3 Punkty Cech (PC)** do wydania na Cechy Pozytywne dla dowolnej postaci w bandzie.
-   * **Bazowa zasada:** Każda stworzona postać musi mieć co najmniej 1 PŻ.
+   * **Ograniczenia projektowe:**
+     * **Zakres PŻ:** Dla utrzymania balansu i prostoty, każda postać musi mieć między 4 a 8 PŻ.
+     * **Maksymalne PC z PK:** Postać nie może mieć więcej niż 24 PC pochodzących z konwersji PK.
    * **Dodatkowe Punkty Cech:** Niezależnie od wydanych PK, każda postać może dodatkowo zdobywać Punkty Cech poprzez wybór Cech Negatywnych zgodnie ze standardowym systemem tinyd6.
 3. **Opcje Tworzenia Bandy:**  
    * **Opcja A (Pełna Banda - 3 Postacie):** Gracz może rozdzielić swoje 12 PK pomiędzy 3 postacie, np.:
@@ -67,6 +69,8 @@
   * **Duet specjalistów** (2×4 PŻ, 12 PC) - standardowa wytrzymałość, ale więcej zdolności
   * **Wytrzymały solista** (8 PŻ, 12 PC) - maksymalna indywidualna wytrzymałość
   * **Solista-strateg** (6 PŻ, 18 PC) lub **Solista-ekspert** (4 PŻ, 24 PC) - mniejsza wytrzymałość, ale nadzwyczajne zdolności
+* **Elastyczność i ograniczenia w punkcie kreacji:** 
+  * **Pytanie do rozważenia:** Czy w przyszłych wersjach systemu warto dopuścić możliwość schodzenia poniżej 4 PŻ za cenę dodatkowych PC? Pozwoliłoby to na tworzenie bardzo specjalistycznych postaci typu "szklana armata" (np. 2 PŻ i więcej PC), ale mogłoby też prowadzić do problemów z balansem (zbyt szybka eliminacja takich postaci) i komplikować system. Obecny zakres [4-8] PŻ wydaje się zapewniać dobrą równowagę między prostotą a elastycznością.
 * **Przywiązanie gracza i śmiertelność:** System PK umożliwia graczom inwestowanie w postacie zgodnie z ich własnym stylem gry. Utrata postaci z wieloma PC będzie znacznie bardziej dotkliwa, co może wpływać na decyzje taktyczne i emocjonalne przywiązanie do postaci.
 * **Przywiązanie gracza:** Czy gracz będzie równie przywiązany do 3 postaci co do jednej? Czy nie będzie traktował ich bardziej jak pionki na planszy?
 * **Śmiertelność:** Utrata jednej z trzech postaci jest mniej dotkliwa niż utrata jedynego bohatera, ale nadal bardziej znacząca niż utrata uproszczonego "pomocnika". Zwiększone PŻ w opcjach 1 i 2 postaci czynią je znacznie trudniejszymi do wyeliminowania, co może być pożądane dla balansu i satysfakcji graczy wybierających te opcje.  
