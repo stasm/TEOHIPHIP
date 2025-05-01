@@ -39,8 +39,8 @@ TEOHIPHIP Skirmish jest idealny dla graczy, którzy:
 * **Rdzeń tinyd6:** Testy 2k6 (standard), 3k6 (Przewaga), 1k6 (Utrudnienie), sukces na 5+.
 * **System Band i Punktów Kreacji (PK):** Gracz kontroluje 1-3 postaci; 12 PK na start bandy (1 PK = 1 PŻ lub 3 PC).
 * **System Cech:** Rozbudowana lista Cech Pozytywnych i Negatywnych definiujących postacie.
-* **System Punktów Akcji (AP):** Każda postać ma 2 AP na turę do wydania na Ruch, Atak (max 1/turę), Celowanie, Krycie się, Interakcję itp.
-* **Pula Inicjatywy:** Mechanika zarządzania ryzykiem; kości = aktualne PŻ (max 6), wymiana kości testu na kość z puli kosztuje 1 PŻ.
+* **System Punktów Akcji (AP):** Każda postać ma 2 AP na turę do wydania na Ruch, Atak, Celowanie, Krycie się, Interakcję itp.
+* **Pula Inicjatywy:** Mechanika zarządzania ryzykiem; kości = aktualne PŻ, wymiana kości testu na kość z puli kosztuje 1 PŻ.
 * **Zasady Skirmishowe:** Proste reguły Ruchu, Linii Wzroku (LoS), Ukrycia (Utrudnienie) i Osłony (ignorowanie 1 sukcesu).
 * **Automatyzacja BN:** Przeciwnicy działają według prostych algorytmów, minimalizując obciążenie MG/Arbitra.
 * **Progresja Kampanii:** Zdobywanie PK (3 za wygraną, 1 za przegraną) i wydawanie ich na nowe Cechy lub Postacie; reset PŻ i ekwipunku między misjami.
