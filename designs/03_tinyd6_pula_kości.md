@@ -21,7 +21,6 @@
 ### 3. Proponowane rozwiązanie
 
 1.  **Pula Inicjatywy:** Na początku "tury" (np. sceny, rundy walki, dnia w grze - do ustalenia) gracz rzuca pulą kości k6. Liczba kości w puli jest równa **aktualnej liczbie Punktów Życia (PŻ)** postaci.
-    * *Ograniczenie:* Maksymalna liczba PŻ brana pod uwagę do tej puli to 6 (nawet jeśli postać, dzięki Cechom, ma więcej PŻ). Minimalna to 1.
 
 2.  **Przechowywanie Puli:** Wyniki tych kości są odkładane na bok i pozostają dostępne dla gracza przez całą "turę".
 

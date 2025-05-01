@@ -1,4 +1,4 @@
-# TEOHIPHIP RPG: Podręcznik czasownika
+# TEOHIPHIP: Podręcznik czasownika
 
 *Na podstawie „Podróży dwudziestej” Stanisława Lema oraz systemu tinyd6.*  
 
@@ -129,7 +129,7 @@ To esencja tworzenia postaci. Zaczynasz z **0 Punktami Cech**.
 1. **Zdobywanie Punktów:** Wybierasz **Cechy Negatywne** – wady charakteru, fobie, niekompetencje, problemy ze sprzętem, piętna czasowe, wrogów w Instytucie. Każda Cecha Negatywna **dodaje** punkty do Twojej puli (im bardziej uprzykrza życie, tym więcej punktów). Musisz wybrać przynajmniej jedną.  
 2. **Wydawanie Punktów:** Zdobyte punkty wydajesz na **Cechy Pozytywne** – talenty, specjalistyczną wiedzę, odporność na paradoksy, umiejętności techniczne, spryt biurokratyczny. Każda Cecha Pozytywna **kosztuje** punkty.
 
-Celem jest stworzenie postaci z unikalną mieszanką zdolności i problemów, która pasuje do absurdalnego świata gry. **Przykładowa lista Cech znajduje się w Dodatku A.** Posiadanie Cechy Pozytywnej zazwyczaj daje **Przewagę (3k6)** w odpowiednich Testach, a Negatywnej narzuca **Utrudnienie (1k6)**.
+Celem jest stworzenie postaci z unikalną mieszanką zdolności i problemów, która pasuje do absurdalnego świata gry. **Przykładowa lista Cech znajduje się w pliku Cechy_postaci.md.** Posiadanie Cechy Pozytywnej zazwyczaj daje **Przewagę (3k6)** w odpowiednich Testach, a Negatywnej narzuca **Utrudnienie (1k6)**.
 
 #### Krok 4: Ekwipunek – Co zabrałeś (legalnie lub nie)?
 
@@ -162,7 +162,7 @@ Zbierz wszystkie informacje na **Karcie Agenta Czasu**. Powinna zawierać:
 * Motywacje, Cele, Stosunek do INT  
 * Krótki opis (może zawierać drobne anachronizmy?)
 
-Przykładowy wzór karty znajdziesz w **Dodatku B**.  
+Przykładowy wzór karty znajdziesz w **Dodatku A**.  
 
 *Gratulacje\! Twój agent chaosu jest gotów... a przynajmniej tak mu się wydaje. Czas ruszać w czas\!*
 
@@ -264,67 +264,7 @@ Wasze wybory wpływają na Waszą reputację w INT (jeśli kogoś to obchodzi), 
 * **Miej zawsze przy sobie odpowiedni formularz.** (Nawet jeśli nie wiesz, do czego służy).  
 * **Pamiętaj: to tylko gra.** Nawet jeśli Twoja postać właśnie wymazała z historii renesans.
 
-## Dodatek A: Cechy pozytywne i negatywne (Wersja Beta \- Wymaga Balansowania\!)
-
-Poniżej znajduje się **przykładowa, robocza lista cech** dla TEOHIPHIP RPG. Koszty i zyski punktowe są orientacyjne i wymagają dopracowania podczas gry. Zachęcamy do tworzenia własnych cech zgodnych z duchem settingu\!
-
-### Cechy pozytywne (kosztują punkty cech)
-
-* **Pilot chronocykla (-3 pkt):** `Przewaga` na testy pilotowania standardowych chronocykli, zwłaszcza lądowania i startu.
-    > *Niektórzy rodzą się z darem do omijania temporalnych dziur, nawet jeśli Instytut daje im do ręki rozklekotany złom.*
-* **Techniczny fachowiec (-4 pkt):** `Przewaga` na testy naprawy chronotechnologii i innego sprzętu Instytutu.
-    > *Gdy taśma temporalna i kopniak nie wystarczą, potrzebny jest ktoś, kto naprawdę wie, który kabelek odpowiada za *nie*rozpadnięcie się na kwarki.*
-* **Odporność na paradoksy (-5 pkt):** `Przewaga` na testy Woli/Odporności przeciwko dezorientacji, utracie pamięci lub szaleństwu wywołanemu przez paradoksy czasowe.
-    > *Widziałeś swoje narodziny, własną śmierć i rozmawiałeś ze swoim pra-pra-wnukiem wczoraj – co może cię jeszcze zdziwić?*
-* **Intuicja temporalna (-3 pkt):** `Przewaga` na testy związane z wyczuwaniem anomalii czasowych, oszacowaniem właściwej epoki lub przewidywaniem bezpośrednich skutków ubocznych zmian w czasie.
-    > *Czasem czujesz swędzenie w lewym uchu tuż przed tym, jak historia postanawia zrobić fikołka.*
-* **Biurokratyczny spryt (-3 pkt):** `Przewaga` na testy związane z nawigacją w biurokracji INT, zdobywaniem pozwoleń, fałszowaniem dokumentów lub wykorzystywaniem regulaminów na własną korzyść.
-    > *Wiesz, że odpowiedni formularz, złożony w trzech kopiach z właściwą pieczątką, potrafi zatrzymać nawet inwazję mongolską... przynajmniej na czas procedowania wniosku.*
-* **Poliglota historyczny (-2 pkt):** `Przewaga` na testy związane z szybkim zrozumieniem i nauką języków z różnych epok historycznych.
-    > *Gdy musisz wytłumaczyć Rzymianinowi, że nie jesteś bogiem, a tylko twoja maszyna czasu się zepsuła, znajomość łaciny bardzo się przydaje.*
-* **Zmysł historyczny (-2 pkt):** `Przewaga` na testy wiedzy o historii (tej "oficjalnej" i tej "poprawionej"), co pozwala unikać rażących anachronizmów lub wykorzystywać wiedzę o przyszłych wydarzeniach.
-    > *Pamiętasz, że w tej epoce lepiej nie wspominać o antybiotykach, chyba że chcesz skończyć na stosie jako czarownik.*
-* **Kamuflaż doskonały (-3 pkt):** `Przewaga` na testy związane z wtopieniem się w tłum w różnych epokach historycznych (ubiór, zachowanie).
-    > *Potrafisz wmieszać się w tłum zarówno na średniowiecznym jarmarku, jak i podczas rewolucji francuskiej, udając odpowiednio tępą minę.*
-* **Koneksje w INT (-2 pkt):** Masz "znajomego" w jakimś departamencie, który może czasem udzielić informacji lub przysługi (oczywiście nie za darmo).
-    > *Znasz kogoś w dziale zaopatrzenia, kto za butelkę dobrej brandy z XX wieku potrafi "zgubić" twój wniosek o zesłanie.*
-* **Szczęście idioty (-5 pkt):** Raz na sesję możesz przerzucić dowolny swój nieudany rzut. Musisz zaakceptować drugi wynik. Fortuna sprzyja niekompetentnym.
-    > *Wszechświat zdaje się chronić tych, którzy nie do końca rozumieją, jak wielkie niebezpieczeństwo na siebie ściągają.*
-* **Zimna krew (-3 pkt):** `Przewaga` na testy odporności na strach, panikę i stres wywołany absurdalnymi lub niebezpiecznymi sytuacjami.
-    > *Gdy twój chronocykl zaczyna płonąć tuż nad gniazdem pterodaktyli, panika jest ostatnią rzeczą, na którą masz czas.*
-* **Mistrz improwizacji (-4 pkt):** `Przewaga` na testy, gdy próbujesz użyć posiadanego sprzętu (nawet uszkodzonego lub nieadekwatnego) w zupełnie nieprzewidziany, kreatywny sposób.
-    > *Spinacz biurowy z XXVII wieku? W rękach eksperta to wytrych, broń, a nawet tymczasowy stabilizator strumienia czasowego!*
-
-### Cechy negatywne (dają punkty cech)
-
-* **Podatność na paradoksy (+4 pkt):** `Utrudnienie` na testy Woli/Odporności przeciwko efektom paradoksów czasowych. Łatwo wpadasz w pętle, tracisz pamięć lub mylisz epoki.
-    > *Spotkanie samego siebie z przyszłego wtorku wywołuje u ciebie nie tylko egzystencjalny niepokój, ale i silną migrenę.*
-* **Chronochoroba (+3 pkt):** Cierpisz na silne mdłości, bóle głowy lub dezorientację po każdym skoku w czasie. `Utrudnienie` na pierwszy test po podróży.
-    > *Twój żołądek protestuje przeciwko łamaniu podstawowych praw fizyki głośniej niż Rada Naukowa przeciwko zdrowemu rozsądkowi.*
-* **Piętno czasowe (+3 pkt):** Masz jakiś subtelny, ale zauważalny anachronizm (w mowie, wyglądzie, zachowaniu), który utrudnia kamuflaż. `Utrudnienie` na testy ukrywania swojej natury w przeszłości.
-    > *Nawet nie wiesz, kiedy zaczynasz nucić ten irytujący dżingiel z reklam syntetycznej wołowiny, ale wszyscy w wiosce neolitycznej już patrzą na ciebie dziwnie.*
-* **Wróg w Instytucie (+3 pkt):** Ktoś wpływowy w INT aktywnie stara się uprzykrzyć Ci życie lub pozbyć się Ciebie.
-    > *Podobno dyrektor Rosenbeisser wciąż pamięta, jak przez przypadek użyłeś jego ulubionego kubka jako części zamiennej do chronocykla.*
-* **Zgubiony w czasie (+4 pkt):** Masz tendencję do lądowania w niewłaściwej epoce lub miejscu. MG może modyfikować cel Twoich podróży.
-    > *Celowałeś w renesansową Florencję, a wylądowałeś na koncercie rockowym w późnym XX wieku – znowu.*
-* **Nieregulaminowy/uszkodzony sprzęt (+2 pkt):** Twój podstawowy sprzęt (np. chronocykl) jest zawodny. MG może częściej zarządzać testy jego działania lub po prostu ogłaszać awarie.
-    > *Twój chronocykl był składany w poniedziałek po długim weekendzie temporalnym z części znalezionych za szafą w magazynie.*
-* **Pesymizm dziejowy (+2 pkt):** Nie wierzysz w sens TEOHIPHIP i uważasz, że każda interwencja tylko pogarsza sprawę. `Utrudnienie` na testy wymagające entuzjazmu, inicjatywy lub wiary w sukces misji.
-    > *Po co naprawiać historię? I tak zepsuje się ponownie, prawdopodobnie w jeszcze bardziej spektakularny sposób.*
-* **Biurokratyczny koszmar (+3 pkt):** Jesteś na bakier z regulaminami, gubisz formularze, zawsze czegoś brakuje. `Utrudnienie` na interakcje z biurokracją INT.
-    > *Formularz Z-17b czy Z-17c? Czy potrzebna jest pieczątka z departamentu paradoksów wtórnych? Och, wszystko jedno...*
-* **Technofobia (+2 pkt):** Nie ufasz technologii, szczególnie tej czasowej. `Utrudnienie` na testy używania skomplikowanego sprzętu.
-    > *Te wszystkie migające światełka i brzęczące kabelki na pewno spiskują, żeby wysłać cię do ery kambryjskiej bez kombinezonu.*
-* **Ścigany przez MOIRĘ (+5 pkt):** Z jakiegoś powodu MOIRA poluje na Ciebie (lub grupę). Są kompetentni (czasem) i nieustępliwi.
-    > *Podobno złamałeś paragraf 7, podpunkt 12b regulaminu podróży czasowych, używając chronocykla do podgrzania sobie obiadu.*
-* **Przywiązanie do epoki (+1 pkt):** Masz sentyment do konkretnej epoki historycznej i źle znosisz podróże do innych.
-    > *Tęsknisz za zapachem spalin i neonów XX wieku, a te wszystkie rycerskie zbroje i zamki wydają ci się takie... niehigieniczne.*
-* **Notoryczny spóźnialski (temporalny) (+2 pkt):** Zawsze przybywasz trochę za późno (lub za wcześnie), co komplikuje plany.
-    > *Miałeś zapobiec zamachowi na arcyksięcia, ale utknąłeś w korku temporalnym nad plejstocenem.*
-* **Paniczny strach przed... (+2 pkt):** Wybierz coś absurdalnego lub specyficznego dla podróży w czasie (np. dinozaury, paradoksy, własne sobowtóry, Rzymian). Zasady jak standardowa Fobia.
-    > *Kiedy widzisz własnego sobowtóra z przyszłości, jedyne o czym myślisz, to gdzie tu jest najbliższa szafa, żeby się w niej schować.*
-
-## Dodatek B: Przykładowa Karta Agenta Czasu
+## Dodatek A: Przykładowa Karta Agenta Czasu
 
 Technik Zenon Kowalski (Numer Akt: 734-Zeta-K)
 
@@ -363,69 +303,3 @@ Technik Zenon Kowalski (Numer Akt: 734-Zeta-K)
 * **Stosunek do INT:** Uważa Instytut za jeden wielki, chaotyczny bałagan, ale jest zbyt przestraszony (i zależny od pensji), by otwarcie się zbuntować. Wykonuje polecenia, ale bez entuzjazmu i z dużą dozą sceptycyzmu.
 
 **Opis:** Zenon jest mężczyzną w bliżej nieokreślonym wieku średnim, o nieco zmęczonym spojrzeniu i wiecznie zatroskanej minie. Ma przerzedzone włosy i tendencję do nerwowego poprawiania okularów (które też są lekko przestarzałym modelem). Często mamrocze coś pod nosem o regulaminach i częściach zamiennych. Mimo wszystko, w jego oczach czasem błyska iskierka determinacji, gdy trzeba naprawić coś, co *naprawdę* nie powinno działać.
-
-## Dodatek C: Słowniczek Terminów Temporalnych (Rozszerzony)
-
-* **Adl:** Funkcjonariusz nadzoru INT, zesłany 65 000 lat wstecz za porwanie dziewczyny z XII wieku; uznawany za protoplastę neandertalczyków. W grze: Przykład agenta, którego nieodpowiedzialne działania miały daleko idące skutki.
-* **AMOREK (Amortyzator Energii Kinechronicznej):** System zabezpieczający, który miał chronić przed awariami generatorów czasowych; niestety, nie zawsze działał. W grze: Symbol zawodności zaawansowanej technologii INT.
-* **Ankieter Historyczny:** Agent INT wysyłany w przeszłość w celu badania "opinii publicznej" lub zbierania danych przed planowanymi (i zwykle katastrofalnymi) interwencjami. W grze: Potencjalna rola dla postaci graczy, często na pierwszej linii temporalnego chaosu.
-* **Atena:** Planeta, która miała istnieć między Ziemią a Marsem, ale została zniszczona przez nieudaną operację INT, tworząc Pas Asteroidów. W grze: Przestroga przed niekompetencją Instytutu i potencjalne źródło dziwnych artefaktów.
-* **Astroianni:** Inżynier czasu INT współodpowiedzialny za zniszczenie Ateny i masakrę powierzchni Księżyca.
-* **Bosković, R.:** Szef technologów INT, później zesłany do XVII wieku (jako historyczny Ruđer Josip Bošković). W grze: Przykład wysokiego rangą zesłańca.
-* **Bosch, H.:** Projektant ewolucyjny z zespołu Goodlaya, znany z tworzenia dziwacznych stworzeń; zesłany do średniowiecza (jako historyczny Hieronim Bosch). W grze: Jego obrazy mogą zawierać ukryte wskazówki lub ostrzeżenia.
-* **BREKEKEK:** Jeden z typów generatorów Zespołu Izochronicznego (GENEZIS), którego awaria doprowadziła do powstania planet Układu Słonecznego.
-* **Betterpart, N.:** Szef MOIRY, który uciekł w XVIII wiek i został Napoleonem Bonaparte; ostatecznie pokonany pod Waterloo. W grze: Główny antagonista potencjalnej kampanii lub przykład agenta, który wymknął się spod kontroli.
-* **Bummeland:** Inżynier czasu, współtwórca systemu HAMUŁA, którego awaria doprowadziła do zagłady dinozaurów.
-* **Chronocykl:** Podstawowy, indywidualny wehikuł czasu, przypominający metalowy drąg z siodełkiem, kierownicą rowerową i lejkowatym wylotem; często mylony ze średniowieczną miotłą. W grze: Standardowy środek transportu postaci graczy, często zawodny.
-* **Chronoklazm:** Gwałtowna katastrofa lub zaburzenie czasoprzestrzenne, wynikające z błędów w obliczeniach, awarii sprzętu lub paradoksów. W grze: Poważne zagrożenie podczas podróży w czasie.
-* **Chronomocja:** Ogólna nazwa technologii i praktyki podróżowania w czasie.
-* **Chronomutacja:** Zmiany wywołane przez interwencje w czasie.
-* **Chronotrak, Czasowiec, Tempobil:** Większe, prawdopodobnie bardziej zaawansowane (choć niekoniecznie mniej awaryjne) wehikuły czasu niż chronocykl.
-* **Czasochroniarze (Chronoszutyści):** Elitarne oddziały INT do zadań specjalnych w czasie, podległe MOIRZE. W grze: Potencjalni sojusznicy lub (częściej) przeciwnicy.
-* **Czasownik:** Ogólne określenie specjalisty od podróży w czasie w INT, często technika lub pilota. W grze: Najczęstszy archetyp postaci graczy.
-* **Dziejoczyniec:** Agent lub naukowiec INT, którego zadaniem jest aktywne modyfikowanie (czyt. psucie) historii.
-* **Donnai, A.:** Wynalazca monoteizmu jako metody kryptochronii; jego działania w Azji Mniejszej (w tym zrzut pękaku i użycie napalmu) doprowadziły do uznania plemienia Judy za naród wybrany. Zesłany na Półwysep Synajski.
-* **DRAB (Doskonalenie Racjonalne Antropogenezą Binarną):** Projekt Goodlaya mający na celu stworzenie dwóch rozumnych gatunków (lądowego i wodnego – delfiny); zatrzymany przez dyrekcję.
-* **DUPKI (Dyssypatory Układowe Powolnej Kompensacji):** Kolejny zawodny system zabezpieczający generatory czasowe, którego awaria doprowadziła do zniszczenia atmosfery Wenus.
-* **Dyndall:** Inżynier czasu, szwagier Rosenbeissera, współtwórca HAMUŁY.
-* **Einstein, Albert:** Wybrany przez Tichego (wbrew sugestiom Rosenbeissera) jako "bezpieczniejszy" kandydat do odkrycia E=mc², aby uniknąć jeszcze gorszych kataklizmów.
-* **Errod, H.:** Chronicjant zaproponowany przez Rosenbeissera do "profilaktycznego ogołocenia Ziemi z dzieci", zesłany przez Tichego do Azji Mniejszej (jako historyczny Herod?).
-* **Eyck, v.:** Członek zespołu ewolucyjnego Goodlaya, zesłany do średniowiecza (jako historyczny Jan van Eyck?).
-* **GENEZIS (Generatory Zespołu Izochronicznego):** Ogólna nazwa programu i potężnych urządzeń mających na celu "naprawę" Układu Słonecznego; seria spektakularnych awarii.
-* **Gestirner:** Inżynier czasu INT, współodpowiedzialny za zniszczenie Ateny i powstanie "kraterów wulkanicznych" na Księżycu.
-* **Goodlay, O.:** Inżynier ciał, szef Resortu Nieludzkiego, odpowiedzialny za katastrofalny przebieg "optymalizacji" ewolucji, w tym stworzenie człowieka w akcie sabotażu. Zesłany (razem z Rosenbeisserem).
-* **HAMUŁA (Hamulcowy Układ Łagodzący):** System mający przekształcać energię chronoklazmu w promieniowanie; jego awaria spowodowała wymarcie dinozaurów.
-* **HAREM (Harmonogramy Edukacji Melioryzacyjnej):** Plany "naprawy" ludzkich społeczeństw, opracowywane przez Resort Ludzki.
-* **Hemdreisser:** Inżynier dziejoczyńca odpowiedzialny za nieudany projekt akceleracji urbanizacyjnej w Egipcie (skończyło się na piramidach), zesłany na Kretę (jako Minotaur?).
-* **Histomandosi:** Oddziały specjalne INT do interwencji w historii.
-* **HOPSA (Homo Perfectus Sapiens):** Pierwotny cel projektu ewolucyjnego Goodlaya; nigdy nie zrealizowany z powodu sabotażu i niekompetencji.
-* **Hyperputer:** Superkomputer INT, używany do obliczeń, prognozowania i (rzekomo) wyboru kandydatów na dyrektora TEOHIPHIP.
-* **Instytut Temporystyki (INT):** Organizacja z przyszłości (ok. XXVII w.) odpowiedzialna za rozwój podróży w czasie i katastrofalny projekt TEOHIPHIP.
-* **KOAKS:** Jeden z typów generatorów GENEZIS (pracujący koaksjalnie), odpowiedzialny za zniszczenie atmosfery Wenus.
-* **KWAK (Kwantowa Korekcja):** Jeden z typów generatorów GENEZIS, którego awaria zniszczyła Marsa.
-* **Kryptochronia:** Strategia działania w czasie polegająca na ukrywaniu interwencji INT przed mieszkańcami danej epoki (w przeciwieństwie do jawnego protektoratu).
-* **Latton, P.:** Szef pionu historycznego INT, radykalny zwolennik narzucania historii idealnego modelu państwa; zesłany do Syrakuz (jako historyczny Platon).
-* **Leonardo da Vinci:** W świecie TEOHIPHIP to zesłany profesor Nardeau de Vince, który przez resztę życia próbował bezskutecznie zbudować wehikuł czasu, by uciec z zesłania.
-* **McLuhan:** Tajny agent MOIRY w XX wieku, którego zadaniem było zdyskredytowanie prawdziwych przecieków o przyszłości przez rozpowszechnianie absurdalnych "prognoz" (jak "globalna wieś").
-* **MOIRA (Mobilna Inspekcja Ratunkowa):** Jednostka specjalna INT mająca pilnować porządku w czasie i łapać "chronoliganów" oraz zbuntowanych agentów; często sama powodowała problemy (np. wędrówki ludów, romantyzm).
-* **Nardeau de Vince, L.:** Profesor czasoznawca INT, zesłany do XVI wieku (jako historyczny Leonardo da Vinci).
-* **Ohmer, H.:** Członek zespołu ewolucyjnego Goodlaya, parodiujący temat HOPSA (stworzył m.in. człekonia i kobietę-rybę); zesłany do starożytnej Tracji (jako historyczny Homer).
-* **Pętla Czasowa:** Sytuacja, w której podróżnik w czasie (lub grupa) zostaje uwięziony w powtarzającym się odcinku czasu; według Tichego, powtórzenia nie muszą być idealne, a pętla może zostać przerwana przez podjęcie odpowiedniej akcji (np. przyjęcie propozycji). W grze: Mechanika fabularna lub potencjalne zagrożenie.
-* **PIONTEK (Pion Techniczno-Kalendarzowy):** Dział INT odpowiedzialny za technologię czasową.
-* **Plötzlich, Hansjacob:** Inżynier INT odpowiedzialny za nieudane próby wyprostowania osi Ziemi, które spowodowały epoki lodowcowe, niezgodność biegunów i powstanie krateru w Arizonie oraz "meteorytu" tunguskiego.
-* **Rada Naukowa:** Organ doradczy i nadzorczy INT, często wchodzący w konflikty z dyrekcją, wstawiający się za swoimi protegowanymi i intrygujący.
-* **Reichplatz:** Agent wysłany przez Lattona do kontroli kardynała Richelieu; okazało się, że sam został Richelieu.
-* **Resort Ludzki / Nieludzki:** Dwa główne działy Pionu Historycznego INT, odpowiedzialne odpowiednio za "optymalizację" ludzkiej historii i cywilizacji oraz prehistorii i ewolucji.
-* **Rosenbeisser:** Dyrektor naukowy INT, kluczowa postać w intrygach Instytutu, tymczasowy cesarz bizantyjski (jako Julian Apostata), główny oponent (a czasem sojusznik) Tichego. W grze: Potencjalny patron, wróg lub źródło absurdalnych misji.
-* **Starshit:** Inżynier czasu INT, współodpowiedzialny za zniszczenie Ateny.
-* **System Babel:** Taktyka MOIRY polegająca na wysyłaniu własnych agentów udających zesłańców lub dysydentów w celu sabotażu działań prawdziwych buntowników lub zdyskredytowania przecieków o przyszłości (np. przez tworzenie sprzecznych "przepowiedni" lub SF).
-* **TEOHIPHIP (Telechroniczna Optymalizacja Historii Powszechnej Hyperputerem):** Główny, niezwykle ambitny i kompletnie nieudany projekt Instytutu Temporystyki mający na celu "naprawienie" i "upiększenie" całej historii Wszechświata. W grze: Rama fabularna i źródło niekończących się problemów.
-* **Telechronia:** Zaawansowana forma technologii czasowej, pozwalająca na operacje na dużą skalę.
-* **Temporalne Wtyczki:** Określenie agentów INT wysyłanych w przeszłość w celu wykonania konkretnych zadań (np. dostarczenia materiałów budowlanych do Egiptu).
-* **Totteles, Harry S.:** Szef Resortu Ludzkiego, zwolennik kryptochronii, zesłany do Macedonii (jako historyczny Arystoteles).
-* **TUMAN (Telechroniczny Układ Mimośrodowej Automatyki Nawodzenia):** System nawigacyjny INT, którego awaria przyczyniła się do zniszczenia Ateny.
-* **Tylla, A.:** Następca Betterparta na stanowisku szefa MOIRY, twórca taktyki "Systemu Babel"; zesłany do Mongolii (jako Czyngis-chan?).
-* **Wadenlecker:** Inżynier INT odpowiedzialny za zniszczenie Marsa i Wenus oraz przypadkowe stworzenie planet Układu Słonecznego.
-* **Yobb, H.:** Pomocnik A. Donnaia przy projekcie monoteizmu; ich konflikt mógł być źródłem legendy Hioba.
-* **ZADEK (Zabezpieczenie Dekolizyjne):** Kolejny system bezpieczeństwa INT, który zawiódł podczas operacji "Atena".
-* **Zesłaniec:** Pracownik INT karnie wysłany w przeszłość i tam pozostawiony; wielu historycznych geniuszy i tyranów to w rzeczywistości zesłańcy. W grze: Potencjalna rola postaci graczy lub źródło NPC.
