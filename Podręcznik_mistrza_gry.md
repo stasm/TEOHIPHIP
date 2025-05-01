@@ -179,66 +179,24 @@ Dobry scenariusz skirmishowy powinien zawierać:
 * **Asymetria:** Nie bój się scenariuszy asymetrycznych (np. obrona przed przeważającą liczbą wrogów, eskorta słabego NPC).
 * **Prostota Zasad Specjalnych:** Unikalne zasady scenariusza powinny być łatwe do zrozumienia i zastosowania.
 
-### 3.3. Przykładowe Scenariusze Skirmishowe
+### 3.3. Przykładowy Scenariusz
 
-Chociaż TEOHIPHIP RPG świetnie nadaje się do dłuższych, narracyjnych kampanii pełnych biurokracji i absurdu, jego świat można również z powodzeniem wykorzystać do szybkich, taktycznych rozgrywek skirmishowych, koncentrujących się na walce i realizacji konkretnych celów w ograniczonym czasie (np. 5-6 rund). Poniższe scenariusze są zaprojektowane z myślą o takim formacie, wykorzystując mechaniki tinyd6 (w tym Pulę Inicjatywy i System Band) do dynamicznych starć małych zespołów.
+Poniżej znajdziesz przykładowy scenariusz skirmishowy, który możesz wykorzystać lub zmodyfikować według własnych potrzeb. Więcej gotowych scenariuszy znajdziesz w pliku [Scenariusze.md](Scenariusze.md).
 
-#### "Precyzyjna" Korekta Historyczna
-
-* **Fabuła:** Według najnowszych (i prawdopodobnie błędnych) obliczeń Hyperputera, kluczowy moment w historii wymaga natychmiastowej "drobnej korekty", by uniknąć... no cóż, czegoś niepożądanego (albo po prostu spełnić kaprys dyrektora Rosenbeissera). Wasz zespół zostaje wysłany, by dokonać tej "subtelnej" interwencji w samym środku historycznego zamieszania.
-* **Cel:** W ciągu 6 rund dotrzeć do wyznaczonego Punktu Interwencji (może to być konkretna lokalizacja, obiekt lub osoba) i wykonać tam specyficzną akcję "korekty". Przykłady akcji:
-	* **Umieszczenie Urządzenia:** Podłożyć "Rezonator Zgodności Narracyjnej" w pobliżu historycznego przywódcy (wymaga dotarcia do celu i np. 1-2 akcji z Testem Technicznym/Zręczności).
-	* **Neutralizacja "Anomalii":** Wyeliminować "historycznie nieistotnego" świadka, posłańca lub zwierzę (np. gołębia pocztowego), którego działania (według INT) doprowadziły do niekorzystnego rozwoju wydarzeń.
-	* **Obrona/Zniszczenie:** Obronić przed zniszczeniem przez siły historyczne obiekt, który INT tam wcześniej podrzuciło (i teraz jest potrzebny do innego planu) LUB zniszczyć obiekt historyczny, który psuje "estetykę epoki" (np. wyjątkowo brzydką, ale skuteczną machinę oblężniczą).
-	* **Dostarczenie "Inspiracji":** Podrzucić kluczowej postaci historycznej (np. wynalazcy, artyście) "anonimowy" przedmiot lub wiadomość z przyszłości (wymaga dotarcia do celu i Testu Społecznego/Zręczności).
-* **Przeciwnicy:**
-	* **Siły Historyczne:** Strażnicy miejsca, żołnierze broniący ważnej osoby, gapie reagujący na pojawienie się dziwnie ubranych ludzi z dziwnym sprzętem.
-	* **Rywalizujący Zespół INT/MOIRA:** Inna grupa może mieć sprzeczne rozkazy ("Nie korygować! Obserwować!") lub próbować przeprowadzić własną, konkurencyjną "korektę".
-	* **Konsekwencje Czasowe:** Sama próba interwencji może wywołać lokalne paradoksy, przyciągnąć temporalne drapieżniki lub spowodować nieprzewidziane zmiany w otoczeniu (np. budynek zaczyna znikać).
-* **Zasady Specjalne:** Punkt Interwencji jest zwykle silnie strzeżony lub trudno dostępny. Wykonanie akcji "korekty" może wymagać więcej niż jednej postaci współpracującej lub utrzymania pozycji przez 1-2 rundy. Co rundę rzut k6 – na 1-2 komplikacja (przybycie historycznych posiłków, awaria kluczowego sprzętu graczy, nieoczekiwany zwrot akcji – np. osoba, którą mieli chronić, nagle atakuje).
-* **Zwycięstwo:** Gracze wygrywają, jeśli pomyślnie wykonają akcję "korekty" w ciągu 6 rund i przynajmniej jedna postać przetrwa/zdoła się ewakuować (zależnie od briefingu misji). Przegrywają, jeśli zostaną wyeliminowani lub nie wykonają zadania w terminie. Możliwy "sukces" z poważnymi, nieprzewidzianymi konsekwencjami historycznymi (co w INT może nawet zostać uznane za dobrze wykonaną robotę).
-
-#### Eskorta "Zaginionego" Zasobu
-
-* **Fabuła:** Wasz zespół INT musi eskortować ważną osobę (naukowca, świadka, a może nawet samego siebie z przyszłości?) lub cenny/niebezpieczny artefakt temporalny przez niebezpieczny teren do Strefy Ekstrakcji, zanim będzie za późno.
-* **Cel:** Dostań eskortowany zasób (NPC lub znacznik) z punktu startowego A do Strefy Ekstrakcji B w ciągu 6 rund.
-* **Przeciwnicy:** Druga banda graczy (rywalizujący zespół INT), agenci MOIRY, lokalne siły wrogie technologii INT (np. fanatyczni tubylcy, zmutowana fauna).
-* **Zasady Specjalne:** Eskortowany NPC ma własne statystyki (np. 3 PŻ, Ruch 4", brak ataku) i musi być aktywowany przez gracza (wymaga postaci w kontakcie). Może panikować (test Woli postaci eskortującej, by go zmusić do ruchu). Co rundę rzut k6 – na 1-2 pojawia się losowa komplikacja (anomalia spowalniająca ruch, pojawienie się dodatkowego przeciwnika, awaria broni gracza).
-* **Zwycięstwo:** Eskortujący wygrywają, jeśli zasób dotrze do strefy B w 6 rund. Przeciwnicy wygrywają, jeśli zasób zostanie wyeliminowany lub nie dotrze do strefy w terminie.
-
-#### Misja Neutralizacyjna: Serce Czasowej Ciemności
-
-* **Fabuła:** Agent INT (lub cały zespół) zbuntował się, zabarykadował w jakiejś epoce (np. prehistorycznej jaskini, średniowiecznym zamku, bazie na Marsie przed katastrofą) i ogłosił się władcą/bogiem tubylców. Waszym zadaniem jest go zneutralizować, zanim jego działania wywołają nieodwracalny paradoks (lub zanim centrala wyśle kogoś bardziej... radykalnego).
-* **Cel:** Zinfiltruj obóz/bazę Zesłańca i zneutralizuj go (wyeliminuj lub obezwładnij znacznik reprezentujący cel) w ciągu 6 rund.
-* **Przeciwnicy:** Zesłaniec (BN z mocnymi statystykami, Cechami INT, może działającym sprzętem), jego lojalni poplecznicy (liczniejsi, ale słabsi – np. tubylcy, przeprogramowane roboty).
-* **Zasady Specjalne:** Teren może zawierać pułapki (ukryte zapadnie, proste alarmy). Zesłaniec może używać zdolności specjalnych (np. wezwać posiłki, aktywować pole siłowe na 1 rundę). Możliwe pojawienie się losowych zagrożeń środowiskowych (np. lokalna megafauna, burza piaskowa).
-* **Zwycięstwo:** Gracze wygrywają, jeśli zneutralizują Zesłańca w 6 rund. Przegrywają, jeśli zostaną wyeliminowani lub Zesłaniec przetrwa limit rund.
-
-#### Ostatni Bastion na Krawędzi Czasu
-
-* **Fabuła:** Wasz mały zespół utknął przy uszkodzonym punkcie pomiarowym INT (lub wraku chronowozu) w wyjątkowo nieprzyjaznej epoce. Musicie go bronić za wszelką cenę przez kilka kluczowych rund, odpierając kolejne fale atakujących, zanim przybędzie spóźniona ewakuacja lub zakończy się krytyczny transfer danych.
-* **Cel:** Przetrwaj 6 rund, broniąc centralnego obiektu (znacznika), który ma określoną liczbę Punktów Wytrzymałości (np. 10 PW).
-* **Przeciwnicy:** Kolejne fale wrogów pojawiające się co rundę z określonych punktów wejścia na mapie. Typ wrogów zależy od epoki (wściekli Hunowie, horda zmutowanych jaszczurów, rój nanorobotów, paradoksalne cienie). Liczebność i siła fal rośnie z każdą rundą.
-* **Zasady Specjalne:** Gracze mogą mieć 1 rundę na przygotowanie obrony (proste barykady dające osłonę). Broniony obiekt może być atakowany przez wrogów – traci PW. Co rundę na rzut k6 – na 1-2 następuje losowa awaria (np. chwilowe wyłączenie oświetlenia/systemu wsparcia dające Utrudnienie, eksplozja raniąca wszystkich w pobliżu).
-* **Zwycięstwo:** Gracze wygrywają, jeśli przetrwają 6 rund, a obiekt ma co najmniej 1 PW. Przegrywają, jeśli zostaną wyeliminowani lub obiekt zostanie zniszczony.
-
-#### Wyścig po Artefakt Temporalny
-
-* **Fabuła:** W okolicy pojawił się niestabilny artefakt czasowy – źródło potężnej energii lub klucz do jakiejś tajemnicy. Niestety, wykryły go też inne zespoły (lub lokalne siły). Musicie dotrzeć do artefaktu jako pierwsi i zabezpieczyć go, zanim się zdestabilizuje lub wpadnie w niepowołane ręce.
-* **Cel:** Zdobądź kontrolę nad znacznikiem Artefaktu i utrzymaj ją na koniec 6 rundy.
-* **Przeciwnicy:** Druga banda graczy (rywalizujący zespół INT lub MOIRA) i/lub lokalne zagrożenia (strażnicy artefaktu, fauna przyciągnięta energią, inne anomalie).
-* **Zasady Specjalne:** Lokalizacja Artefaktu jest ujawniana na początku gry (lub losowo w 2-3 rundzie). Przebywanie w pobliżu Artefaktu może być niebezpieczne (np. co rundę Test Odporności lub otrzymanie 1 PŻ obrażeń). Interakcja z Artefaktem (podniesienie/zabezpieczenie) wymaga akcji i udanego Testu (np. technicznego lub Woli). Artefakt eksploduje na koniec 6 rundy, jeśli nie jest kontrolowany.
-* **Zwycięstwo:** Wygrywa banda, która ma postać w kontakcie z Artefaktem na koniec 6 rundy. Remis, jeśli nikt nie kontroluje Artefaktu lub eksploduje on wcześniej.
-
-#### Sabotaż Bazy Konkurencji
-
-* **Fabuła:** Centrala (lub Wasz ambitny przełożony) zleciła Wam dyskretne zinfiltrowanie placówki rywalizującego działu INT (lub bazy Zesłańca/MOIRY) i sabotowanie ich kluczowego projektu (np. nowego typu chronocykla, generatora paradoksów, maszyny do "optymalizacji" pogody). Czasu jest mało, a ochrona czujna (względnie).
-* **Cel:** Dotrzyj do oznaczonego celu (np. generatora) w bazie wroga, wykonaj akcję sabotażu (wymaga np. 2-3 sukcesów w Testach Technicznych lub Walki Wręcz w kontakcie z celem) i ucieknij z mapy przez wyznaczoną strefę ewakuacji – wszystko w ciągu 6 rund.
-* **Przeciwnicy:** Strażnicy patrolujący bazę (BN), systemy alarmowe (wykrycie może przywołać posiłki), ewentualnie dowódca placówki jako silniejszy BN.
-* **Zasady Specjalne:** Gracze mogą próbować cichej eliminacji lub omijania strażników (Testy Skradania/Zręczności). Uruchomienie alarmu (np. przez głośną walkę, nieudany test) powoduje pojawienie się dodatkowych strażników w kolejnych rundach. Akcja sabotażu wymaga czasu (np. 1-2 akcji na Test) i może być ryzykowna.
-* **Zwycięstwo:** Gracze wygrywają, jeśli cel zostanie sabotowany i przynajmniej jedna postać ucieknie z mapy w ciągu 6 rund. Przegrywają, jeśli zostaną wyeliminowani, nie sabotują celu lub nie zdążą uciec.
-
-Te scenariusze można dowolnie modyfikować, zmieniając epokę, przeciwników i konkretne cele, aby dopasować je do preferencji grupy i dostępnych figurek/terenu. Pamiętaj, by nawet w szybkiej rozgrywce skirmishowej zachować odrobinę absurdu i chaosu typowego dla TEOHIPHIP – niech sprzęt czasem zawodzi, niech pojawiają się dziwne anomalie, a cele misji niech zawsze będą podszyte niekompetencją lub ukrytymi motywami Instytutu.
+* **1. Tytuł i Kontekst Fabularny:** "Operacja: Detronizacja Króla Jaskiniowców". Agent INT Zefiryn Kłopotek zesłany do Plejstocenu nie tylko przetrwał, ale i podporządkował sobie lokalne plemię, ogłaszając się "Władcą Ognia". Centrala obawia się, że jego "ulepszenia" kultury (np. nauka rzucania oszczepem z przyspieszeniem temporalnym) zaburzą linię czasu. Wasz zespół ma go po cichu (lub nie) zneutralizować.
+* **2. Cele Misji:**
+    * **Zwycięstwo Graczy:** Zneutralizować (wyeliminować lub obezwładnić - np. zredukować PŻ do 1) Agenta Kłopotka (Cel Z) przed końcem Rundy 6.
+    * **Przegrana Graczy:** Kłopotek nie został zneutralizowany w 6 rundach LUB cała banda graczy została wyeliminowana.
+* **3. Mapa i Teren:** Mapa ok. **3x3 stopy**, przedstawiająca **obozowisko jaskiniowe** u podnóża skał. Kilka **namiotów/szałasów** (Ukrycie/Osłona), centralne **ognisko** (może lekko zasłaniać LoS), **skały** (Osłona/Blokują LoS), **wejście do jaskini** (gdzie może być Kłopotek). Teren wokół obozu może być Trudny (śnieg, błoto).
+* **4. Rozstawienie:** Banda graczy startuje na jednej krawędzi mapy, na skraju obozowiska. Kłopotek **(Z)** startuje w jaskini lub centralnym szałasie. Jego poplecznicy **(W)** są rozstawieni wokół ogniska i wejść do szałasów. Start *in medias res* – gracze zostali zauważeni lub właśnie rozpoczynają infiltrację.
+* **5. Siły Przeciwników (BN):**
+    * **Agent Kłopotek** (Cel Z - BN 'Boss'): Statystyki np. 'Doświadczony Agent INT' (R4), PŻ 6-7, Cechy np. *Techniczny Fachowiec*, *Mistrz Improwizacji*, *Paranoja* (nowa wada?). Może mieć działający pistolet energetyczny lub zmodyfikowaną broń historyczną. Algorytm: **"Obrona Pozycji/Przetrwanie"** (używa osłon, wzywa pomocników, atakuje najgroźniejszych graczy).
+    * **4-8 x Wojownik Plemienny** (BN Historyczny): Statystyki np. 'Wojownik Prehistoryczny' (R4). Algorytm: **"Ochrona Celu (Kłopotka)"** lub **"Agresywny Szturmowiec (Wręcz)"**. *Skalowanie: Zmień liczbę wojowników.*
+* **6. Zasady Specjalne:**
+    * Kłopotek może próbować aktywować jakiś stary sprzęt INT (np. pole siłowe na 1 rundę - wymaga akcji Interakcji i Testu Technicznego).
+    * W jaskini/szałasach mogą być proste pułapki (Test Percepcji/Zręczności, by uniknąć).
+    * *Komplikacja (Rzut k6 co rundę na 1-2):* Pojawia się lokalna megafauna (np. Tygrys Szablozębny - BN Bestia, R4), atakuje losowo najbliższą postać (gracza lub BN).
+* **7. Limit Czasu:** 6 Rund.
 
 ### 3.4. Balansowanie Scenariuszy
 
@@ -292,7 +250,7 @@ Profil BN-a powinien zawierać:
 
 ### 4.3. Biblioteka Algorytmów BN
 
-Algorytm to lista priorytetów. Wykonaj pierwszą akcję, której warunki są spełnione.
+Algorytm to lista priorytetów. Podczas aktywacji BN-a, wykonaj pierwszą akcję z listy, której warunki są spełnione. Jeśli akcja kosztuje 1 AP i BN ma jeszcze 1 AP, sprawdź listę ponownie dla drugiego AP.
 
 * **Algorytm: "Agresywny Szturmowiec"**
     1.  Jeśli wróg w zasięgu Ataku (preferowany wręcz, jeśli możliwe) -> **Atakuj** (1 AP). Użyj drugiego AP, by **Kryć się** lub **Celować** (jeśli planujesz strzelać w nast. turze).
@@ -320,6 +278,65 @@ Algorytm to lista priorytetów. Wykonaj pierwszą akcję, której warunki są sp
     1.  Jeśli wróg w zasięgu Ataku wręcz LUB w zasięgu szarży (Ruch) -> **Atakuj** wręcz (1 AP) lub **Rusz** (1 AP), by zaatakować wręcz. Drugi AP: Użyj Cechy *Formacja* (jeśli dotyczy) lub spróbuj utrzymać pozycję.
     2.  Jeśli wróg w zasięgu broni miotanej (np. Pilum) -> **Atakuj** bronią miotaną (1 AP). Drugi AP: **Rusz** w stronę wroga lub przygotuj się do walki wręcz.
     3.  Jeśli brak bezpośredniego zagrożenia -> **Rusz** (1 AP) powoli w formacji z innymi sojusznikami w kierunku celu/wroga. Drugi AP: **Kryj się** (za tarczą) lub utrzymaj pozycję.
+
+* **Algorytm: "Unikanie Walki / Chowanie Się"** (Dla NPC typu Cel/Cywil)
+    1.  Jeśli w zasięgu Ruchu (SPD) znajduje się Osłona (Cover) poza LoS od najbliższego wroga -> **Rusz** (1 lub 2 AP), by się za nią schować.
+    2.  Jeśli brak takiej Osłony, ale jest Osłona w LoS wroga -> **Rusz** (1 AP), by się za nią schować, a drugi AP użyj na **Krycie się (Hunker Down)**.
+    3.  Jeśli brak Osłon lub jest otoczony -> **Kryj się (Hunker Down)** (1 AP) i/lub **Rusz** (1 AP) jak najdalej od najbliższego wroga.
+    4.  *Nigdy nie wykonuje akcji Ataku, chyba że zasady specjalne scenariusza stanowią inaczej.*
+
+* **Algorytm: "Realizacja Celu (Specyficzny)"** (Np. podłożenie ładunku, hakowanie)
+    1.  Jeśli w kontakcie bazowym z Celem Misji (np. punktem do sabotowania) -> Wykonaj akcję **Interakcji** wymaganą przez scenariusz (np. Test Techniczny, by podłożyć ładunek) (1 lub 2 AP).
+    2.  Jeśli Cel Misji jest w zasięgu Ruchu (SPD lub 2xSPD) -> **Rusz** (1 lub 2 AP) najkrótszą drogą do Celu Misji.
+    3.  Jeśli na drodze do Celu Misji stoi wróg -> Spróbuj go ominąć LUB (jeśli niemożliwe) **Atakuj** (1 AP), by utorować sobie drogę. Drugi AP wykorzystaj na **Ruch** w stronę Celu.
+    4.  Jeśli Cel Misji nieosiągalny (np. zablokowany) -> Działaj jak "Agresywny Szturmowiec" przeciwko najbliższemu wrogowi blokującemu dostęp.
+
+* **Algorytm: "Neutralizacja Wszystkich"** (Np. dla MOIRY interweniującej w chaosie)
+    1.  Jeśli jakakolwiek postać (gracza LUB inny BN niebędący sojusznikiem) jest w zasięgu Ataku -> **Atakuj** najbliższą postać (1 AP). Drugi AP: **Celuj** w kolejny cel lub **Kryj się**.
+    2.  Jeśli widoczne są postacie, ale poza zasięgiem -> **Rusz** (1 lub 2 AP) w kierunku najbliższej grupy postaci, starając się zakończyć ruch za Osłoną z dobrym polem ostrzału.
+    3.  Jeśli brak widocznych postaci -> **Rusz** (1 lub 2 AP) w kierunku centrum walki lub ostatniej znanej pozycji jakiejkolwiek postaci.
+
+* **Algorytm: "Największy Głodomór"** (Np. dla T-Rexa, wielkiej bestii)
+    1.  Jeśli jakakolwiek postać (gracza lub BN) jest w zasięgu Ataku wręcz -> **Atakuj** najbliższą (1 AP). Drugi AP: **Atakuj** ponownie (jeśli możliwe) lub **Rusz** w stronę kolejnej najbliższej postaci.
+    2.  Jeśli brak postaci w zasięgu wręcz -> **Rusz** (1 lub 2 AP) najkrótszą drogą w kierunku **najbliższej** postaci na mapie, ignorując przynależność frakcyjną.
+    3.  *Zazwyczaj ignoruje ataki dystansowe i Osłony, chyba że otrzyma bardzo dużo obrażeń w jednej rundzie (Test Woli MG?).*
+
+* **Algorytm: "Obrona Pozycji / Przetrwanie"** (Dla 'Bossa' lub ważnego BN)
+    1.  Jeśli wróg w zasięgu Ataku z obecnej pozycji -> **Atakuj** najgroźniejszego wroga (np. tego, który zadał najwięcej obrażeń lub jest najbliżej) (1 AP). Drugi AP: **Kryj się** lub użyj zdolności specjalnej (jeśli dostępna i możliwa).
+    2.  Jeśli wróg widoczny, ale poza zasięgiem LUB BN jest na otwartym terenie -> **Rusz** (1 AP) do najbliższej dobrej Osłony. Drugi AP: **Kryj się** lub **Celuj**.
+    3.  Jeśli brak widocznych wrogów -> **Kryj się** (1 AP) i **Celuj** (1 AP) w kierunku, z którego spodziewa się ataku lub **użyj zdolności specjalnej** (np. leczenie, wezwanie pomocy, jeśli ma taką opcję).
+    4.  *Unika niepotrzebnego ryzyka, preferuje walkę zza osłony.*
+
+* **Algorytm: "Zniszczyć Cel (Obiekt)"** (Np. dla hordy atakującej generator)
+    1.  Jeśli w zasięgu Ruchu (SPD lub 2xSPD) znajduje się Cel Misji (obiekt) -> **Rusz** (1 lub 2 AP) najkrótszą drogą w kierunku Celu.
+    2.  Jeśli w kontakcie bazowym z Celem Misji -> **Atakuj** Cel (1 AP). Drugi AP: **Atakuj** Cel ponownie.
+    3.  Jeśli na drodze do Celu stoi postać gracza -> Spróbuj ją ominąć LUB (jeśli niemożliwe) **Atakuj** ją (1 AP), by przejść dalej. Drugi AP: Kontynuuj **Ruch** w stronę Celu.
+    4.  *Ignoruje inne zagrożenia, chyba że bezpośrednio uniemożliwiają dotarcie do Celu.*
+
+* **Algorytm: "Atak na Najbliższego Gracza"** (Prostszy agresywny algorytm)
+    1.  Jeśli postać gracza w zasięgu Ataku -> **Atakuj** najbliższą postać gracza (1 AP). Drugi AP: **Rusz** w stronę kolejnej postaci gracza lub **Kryj się**.
+    2.  Jeśli postać gracza widoczna, ale poza zasięgiem -> **Rusz** (1 lub 2 AP) w kierunku najbliższej postaci gracza.
+    3.  Jeśli brak widocznych postaci graczy -> **Rusz** (1 lub 2 AP) w kierunku ostatniej znanej pozycji gracza lub najbliższego celu misji graczy.
+
+* **Algorytm: "Przejąć Artefakt / Cel"** (Dla rywalizujących zespołów)
+    1.  Jeśli Artefakt/Cel (znacznik) jest w zasięgu Ruchu (SPD lub 2xSPD) i nie jest kontrolowany przez wroga -> **Rusz** (1 lub 2 AP), by wejść w kontakt bazowy z Artefaktem. Jeśli to możliwe, wykonaj akcję **Interakcji** (1 AP), by go podnieść/zabezpieczyć.
+    2.  Jeśli Artefakt jest kontrolowany przez wroga LUB wróg blokuje drogę do Artefaktu -> **Atakuj** tego wroga (1 AP). Drugi AP: **Rusz** w stronę Artefaktu lub **Kryj się/Celuj**.
+    3.  Jeśli Artefakt jest daleko -> **Rusz** (1 lub 2 AP) najszybszą drogą w kierunku Artefaktu.
+    4.  Jeśli BN kontroluje Artefakt -> **Rusz** (1 lub 2 AP) w kierunku swojej strefy startowej lub punktu ewakuacji, atakując wrogów na drodze.
+
+* **Algorytm: "Obrabować Wszystkich"** (Np. dla bandytów)
+    1.  Jeśli postać (gracza lub BN) posiadająca Artefakt/cenny przedmiot (jeśli dotyczy) jest w zasięgu Ataku -> **Atakuj** tę postać (1 AP). Drugi AP: Spróbuj **Interakcji**, by zabrać przedmiot (jeśli cel wyeliminowany) lub **Atakuj** ponownie.
+    2.  Jeśli brak celu z pkt 1, ale wróg w zasięgu Ataku -> **Atakuj** najbliższego wroga (1 AP). Drugi AP: **Rusz** w stronę kolejnego wroga lub **Kryj się**.
+    3.  Jeśli brak wrogów w zasięgu -> **Rusz** (1 lub 2 AP) w kierunku najbliższej postaci (gracza lub BN), preferując te, które wyglądają na "bogatsze" lub słabsze.
+
+* **Algorytm: "Patrol / Reakcja na Alarm"** (Dla standardowej ochrony)
+    1.  **Stan Spokoju (Brak alarmu, brak widocznych wrogów):** **Rusz** (1 AP) wzdłuż ustalonej trasy patrolu. Drugi AP: **Obserwuj** (brak efektu mechanicznego, chyba że MG przyzna Przewagę na Percepcję).
+    2.  **Wykryto Wroga / Alarm:**
+        * Jeśli wróg w zasięgu Ataku -> **Atakuj** (1 AP). Drugi AP: **Kryj się** lub **Rusz** w stronę osłony.
+        * Jeśli wróg widoczny, ale poza zasięgiem -> **Rusz** (1 lub 2 AP) w kierunku wroga, szukając osłony.
+        * Jeśli słychać alarm/walkę, ale wróg niewidoczny -> **Rusz** (1 lub 2 AP) ostrożnie w kierunku źródła hałasu/alarmu.
+
+Pamiętaj, że te algorytmy to szablony. Możesz je modyfikować lub tworzyć własne, aby lepiej pasowały do konkretnych BN-ów i scenariuszy. Kluczem jest prostota i przewidywalność, która odciąży Cię podczas prowadzenia potyczki.
 
 ## Rozdział 5: Prowadzenie Kampanii Skirmishowej
 
