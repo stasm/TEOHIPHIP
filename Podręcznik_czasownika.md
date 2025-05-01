@@ -216,7 +216,7 @@ Potyczki w świecie TEOHIPHIP to dynamiczne, intensywne starcia, w których grac
 
 Dostępne akcje (koszt 1 AP, chyba że zaznaczono inaczej):
 * **Ruch:** Jak opisano w punkcie 3.3.
-* **Atak (dystansowy lub wręcz):** Wykonaj jeden atak. Wymaga LoS (dystansowy) lub kontaktu/bliskości (wręcz). Przeprowadź Test Ataku. **Max 1 akcja Ataku na turę na postać.**
+* **Atak (dystansowy lub wręcz):** Wykonaj jeden atak. Wymaga LoS (dystansowy) lub kontaktu/bliskości (wręcz). Przeprowadź Test Ataku.
 * **Celowanie:** Następna akcja Ataku w tej turze otrzymuje **przewagę**.
 * **Krycie się:** Postać zyskuje korzyść osłony (ignoruje 1 sukces) do początku swojej następnej aktywacji. Korzyść znika, jeśli postać wykona akcję Ruchu lub Ataku.
 * **Interakcja:** Użycie obiektu, realizacja celu scenariusza (np. podłożenie ładunku). Często wymaga **Testu**. Czasem może kosztować 2 AP.

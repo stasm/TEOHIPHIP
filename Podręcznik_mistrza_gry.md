@@ -1,31 +1,14 @@
-# TEOHIPHIP: Podręcznik Mistrza Gry
+# TEOHIPHIP: Podręcznik mistrza gry
 
-## Wprowadzenie dla Mistrza Gry
+Witaj, Arbitrze Temporalny! Zostałeś oddelegowany (lub zesłany, to w INT nigdy nie jest do końca jasne) do nadzorowania operacji terenowych w ramach **Telechronicznej Optymalizacji Historii Powszechnej Hyperputerem (TEOHIPHIP)**. Oznacza to, że od teraz jesteś odpowiedzialny za przygotowanie, przeprowadzenie i rozstrzyganie **taktycznych potyczek skirmishowych**, w których bandy mniej lub bardziej kompetentnych agentów INT próbują realizować (zazwyczaj absurdalne) cele w najróżniejszych epokach.
 
-Witaj, Mistrzu Gry, w najbardziej absurdalnej i prawdopodobnie najgorzej zarządzanej operacji w historii czasoprzestrzeni – witaj w świecie TEOHIPHIP RPG! Jeśli tu trafiłeś, to znaczy, że albo masz w sobie żyłkę do czarnego humoru i satyry na biurokrację, albo po prostu podpisałeś niewłaściwy formularz i teraz musisz poprowadzić sesję w tym chaosie. Tak czy inaczej, gratulujemy (i współczujemy).
+TEOHIPHIP Skirmish to gra, w której **szybka akcja i taktyczne decyzje** na mapie z figurkami/znacznikami spotykają się z **unikalnymi postaciami** z własnymi Cechami, **zarządzaniem ryzykiem** poprzez Pulę Inicjatywy oraz (jeśli gracie w kampanii) **rozwojem bandy między misjami**. Twoja rola jako Arbitra (lub Mistrza Gry w kampanii) ulega zmianie w stosunku do tradycyjnego RPG. W pojedynczych potyczkach będziesz przede wszystkim **organizatorem, sędzią zasad i zarządcą chaosu** (w tym automatycznych zachowań przeciwników). W kampanii dojdzie do tego rola **narratora łączącego misje i menedżera progresji** band graczy.
 
-Twoja rola w tym przedsięwzięciu wykracza daleko poza standardowe obowiązki Mistrza Gry. Nie jesteś tu tylko po to, by rzucać kośćmi za potwory (choć czasem zdarzy się jakiś zbłąkany dinozaur lub produkt uboczny nieudanej ewolucji). Jesteś przede wszystkim **Narratorem Absurdu**, **Sędzią Czasowego Chaosu** i **Kustoszem Lemowskiego Klimatu**. Twoim zadaniem jest tchnąć życie w ten świat pełen sprzecznych dyrektyw, psującej się technologii, paradoksów logicznych i niekompetentnych urzędników Instytutu Temporystyki (INT).
+Ten podręcznik dostarczy Ci narzędzi niezbędnych do pełnienia tej funkcji: szczegółowe zasady prowadzenia potyczek, wskazówki dotyczące projektowania scenariuszy pełnych lemowskiego absurdu i temporalnych komplikacji, profile przeciwników wraz z algorytmami ich zachowań, zasady kampanii oraz generatory losowe, które pomogą Ci utrzymać chaos na odpowiednim, grywalnym poziomie.
 
-Pamiętaj, TEOHIPHIP RPG to gra, której filozofia opiera się na **narracji ponad mechaniką**, na **humorze (często czarnym)** wynikającym z absurdalnych sytuacji i na **nieprzewidywalnych (zazwyczaj katastrofalnych) konsekwencjach** działań postaci. Twoim celem nie jest stworzenie epickiej sagi o bohaterach ratujących wszechświat (bo ten wszechświat jest już i tak koncertowo popsuty przez INT), ale raczej wspólne z graczami opowiadanie tragikomicznej historii o ludziach próbujących (zwykle bezskutecznie) zaprowadzić porządek w chaosie, który sami pomogli stworzyć. Albo przynajmniej próbujących przetrwać do następnej wypłaty bez przypadkowego wymazania z historii wynalazku koła.
+Pamiętaj: w TEOHIPHIP sukces jest często przypadkowy, porażka spektakularna, a najważniejsza jest dobra zabawa w odkrywaniu kolejnych warstw niekompetencji Instytutu. Przygotuj swoje kości, wydrukuj formularze (na pewno się przydadzą jako rekwizyty!) i ruszaj zarządzać tym temporalnym bałaganem. Powodzenia – i nie ufaj Hyperputerowi.
 
-Ten rozdział podręcznika i wszystkie kolejne są Twoim niezbędnikiem w tej niewdzięcznej pracy. Znajdziesz tu głębsze spojrzenie na działanie Instytutu, porady dotyczące oddania specyficznego klimatu gry, wskazówki, jak radzić sobie z paradoksami i podróżami w czasie bez bólu głowy (przynajmniej nie większego niż zwykle), narzędzia do tworzenia przygód pełnych biurokratycznych pułapek i temporalnych wpadek, a także galerię postaci niezależnych, które urozmaicą (lub dodatkowo skomplikują) życie Twoich graczy.
-
-Zatem weź głęboki oddech, popraw okulary (nawet jeśli ich nie nosisz – to dodaje biurokratycznego sznytu), odpal swój metaforyczny chronocykl i przygotuj się na podróż. Pamiętaj: cokolwiek się wydarzy, prawdopodobnie będzie to czyjaś wina. Najpewniej Twoja. Powodzenia! (Będzie Ci potrzebne).
-
-## Rozdział 1: Zrozumieć TEOHIPHIP – Głębsze spojrzenie na świat
-
-* **Instytut Temporystyki (INT) od kuchni:**
-    * Struktura organizacyjna (Rada Naukowa, Piontek, Pion Historyczny, MOIRA, etc.) – bardziej szczegółowo niż w podręczniku gracza.
-    * Kluczowe postacie INT (Tichy, Rosenbeisser, Latton, Totteles, Goodlay, Betterpart/Napoleon, Bosković i inni) – ich motywacje, cele, wzajemne relacje i potencjalne role w kampanii.
-    * Nieoficjalna historia INT: Kulisy największych katastrof (Atena, Mars, Wenus, oś Ziemi, dinozaury, ewolucja, Atlantyda, zesłańcy).
-* **Sztuka absurdu i biurokracji:**
-    * Jak oddać lemowski klimat: Przykłady dialogów, opisów, sytuacji. Łączenie twardego (choć absurdalnego) SF z satyrą na biurokrację i ludzką naturę.
-    * Czarny humor i ironia jako narzędzia MG.
-    * Biurokracja jako przeciwnik: Wykorzystanie formularzy, regulaminów, pieczątek i niekompetentnych przełożonych jako realnych przeszkód w grze.
-* **Paradoksy dla opornych (i zaawansowanych):**
-    * Rodzaje paradoksów w TEOHIPHIP (pętle czasowe, spotkanie samego siebie, zmiana przeszłości, skutki uboczne "korekt").
-    * Mechaniczne i narracyjne podejście do paradoksów: Jak je wprowadzać, jakie mogą mieć konsekwencje (od komicznych po katastrofalne), jak pozwolić graczom (czasem) je rozwiązywać lub w nich utknąć.
-    * Konsekwencje zmian w historii: Od drobnych anomalii po wymazanie istotnych wydarzeń – jak tym zarządzać, by było ciekawie, a nie tylko frustrująco.
+---
 
 ## Rozdział 1: Zrozumieć TEOHIPHIP – Głębsze spojrzenie na świat
 
@@ -115,124 +98,90 @@ Podróże w czasie w TEOHIPHIP nieuchronnie prowadzą do paradoksów. Nie próbu
 * **Mechanicznie (lekko):** Paradoksy mogą wywoływać stres, dezorientację lub chwilowe szaleństwo – użyj testów Woli/Odporności (z modyfikatorami za cechy jak *Podatność/Odporność na paradoksy*). Porażka może oznaczać Utrudnienie na kolejne akcje, utratę PŻ (reprezentujących też stabilność psychiczną), chwilową amnezję lub kompulsywne zachowanie.
 * **Nie przesadzaj:** Paradoksy mają być ciekawym elementem, a nie ciągłym źródłem frustracji. Niech będą raczej okazją do kreatywnych rozwiązań lub komicznych sytuacji niż karą za działania graczy. Czasem najlepszym "rozwiązaniem" paradoksu jest po prostu wzruszenie ramionami i wypełnienie odpowiedniego raportu dla działu anomalii temporalnych.
 
-Pamiętaj, jako MG masz władzę nad czasem... a przynajmniej nad jego interpretacją w grze. Używaj jej mądrze (czyli: w sposób najbardziej absurdalny i zgodny z duchem Lema).
+Pamiętaj, jako MG masz władzę nad czasem... a przynajmniej nad jego interpretacją w grze. Używaj jej mądrze (czyli: w sposób najbardziej absurdalny i zgodny z duchem Lema). Cały ten opisany chaos – niekompetencja INT, awaryjność technologii, niestabilność czasu, absurdy biurokracji – to nie tylko tło fabularne. To Twoje narzędzia do tworzenia nieprzewidywalnych i pełnych czarnego humoru potyczek skirmishowych. Każda misja może zostać skomplikowana przez zepsuty chronocykl, sprzeczne rozkazy, nagły paradoks czy pojawienie się kontroli z Departamentu Audytu Temporalnego w najmniej odpowiednim momencie. Wykorzystuj te elementy, aby urozmaicać scenariusze i testować zdolności adaptacyjne (oraz poczucie humoru) graczy.
 
-## Rozdział 2: Prowadzenie gry – Mechanika w służbie chaosu
+## Rozdział 2: Prowadzenie Potyczki Skirmishowej
 
-Masz już solidne (na tyle, na ile to możliwe w tym świecie) pojęcie o absurdach Instytutu Temporystyki i jego wpływie na historię. Czas przyjrzeć się narzędziom, które pozwolą Ci ten chaos symulować przy stole – czyli mechanice gry. TEOHIPHIP RPG używa zmodyfikowanego systemu **tinyd6**, który jest celowo prosty, by nie przeszkadzać w snuciu opowieści. Twoim zadaniem jest używać tych prostych zasad w sposób, który podkreśla unikalny klimat settingu.
+Ten rozdział skupia się na praktycznych aspektach prowadzenia potyczki skirmishowej w TEOHIPHIP, od zarządzania turą po rozstrzyganie zasad i automatyzację przeciwników.
 
-### Rdzeń tinyd6 – Przypomnienie i interpretacja
+### 2.1. Przebieg Rundy i Aktywacja
 
-Pamiętajmy podstawy, znane graczom z ich podręcznika: gdy postać próbuje zrobić coś ryzykownego, niepewnego lub wymagającego specjalnych umiejętności (czyli prawie wszystko, co robi w INT), przeprowadzasz **Test**.
+* **Limit Czasu:** Standardowa potyczka trwa **5-6 rund**. Śledzenie upływających rund jest kluczowe dla realizacji celów scenariusza.
+* **Kolejność Aktywacji:** Na początku każdej rundy ustalana jest kolejność aktywacji band (np. rzut k6, stała kolejność, losowanie żetonów).
+* **Aktywacja Naprzemienna:** Gracze (i MG/Algorytmy BN) aktywują swoje postacie (lub całe bandy BN, jeśli tak ustalono) po kolei, zgodnie z ustaloną inicjatywą.
+* **Aktywacja Bandy Gracza:** Gracz kontrolujący bandę aktywuje **jedną** ze swoich postaci w swojej kolejce. Po wykonaniu akcji przez tę postać, kolejka przechodzi dalej. Gracz nie może aktywować kolejnej postaci ze swojej bandy, dopóki wszystkie inne jednostki na stole nie miały swojej aktywacji w tej rundzie.
+* **Punkty Akcji (AP):** Każda aktywowana postać dysponuje **2 AP** do wydania na akcje.
 
-* **Test Standardowy:** Gracz rzuca **2k6**.
-* **Przewaga (Advantage):** Sytuacja sprzyja postaci (ma odpowiednią Cechę Pozytywną, używa (działającego!) sprzętu, zaskoczyła przeciwnika z epoki kamienia łupanego). Gracz rzuca **3k6**, wybiera **dwie najwyższe** kości.
-* **Utrudnienie (Disadvantage):** Coś przeszkadza postaci (Cecha Negatywna daje o sobie znać, chronocykl dymi, regulamin zabrania, próbuje wytłumaczyć teorię względności neandertalczykowi). Gracz rzuca tylko **1k6**.
+### 2.2. Adjudykacja Zasad Skirmishowych
 
-**Sukcesem jest wynik 5 lub 6 na kości.** Liczba sukcesów określa wynik działania. I tu zaczyna się Twoja rola jako MG – interpretacja wyników w duchu TEOHIPHIP:
+Twoją rolą jako Arbitra jest sprawne i spójne rozstrzyganie sytuacji na stole. Pamiętaj o zasadach opisanych w Podręczniku Gracza (Rozdział 3):
 
-* **0 Sukcesów (Porażka):** Coś poszło spektakularnie źle. Nie wystarczy powiedzieć "nie udało ci się". Porażka w TEOHIPHIP powinna być... kreatywna.
-    * *Przykłady:* Sprzęt nie tylko nie zadziałał, ale wybuchł, tworząc nową anomalię. Postać nie przekonała rzymskiego legionisty, ale za to została aresztowana za "obrazę boskiego majestatu cezara i noszenie niedozwolonych sandałów". Próba naprawy chronocykla kopnięciem spowodowała jego teleportację do ery dewońskiej. Wypełniony formularz okazał się nieaktualny, a na dodatek podpisany nieczytelnie, co uruchomiło audyt wewnętrzny.
-* **1 Sukces (Sukces z Kosztem):** Udało się, ale... nie do końca tak, jak planowano. Zawsze jest jakieś "ale", jakaś komplikacja, nieprzyjemny skutek uboczny lub częściowy rezultat.
-    * *Przykłady:* Udało się naprawić chronocykl, ale teraz wydaje dźwięki przypominające kwakanie i zostawia za sobą ślady fioletowego śluzu. Postać przekonała strażnika, ale ten teraz oczekuje łapówki w postaci "magicznego pudełka grającego" (smartfona). Udało się uciec przed agentami MOIRY, ale zgubiłeś kluczowy element misji (lub własne spodnie). Formularz został przyjęty, ale trafił do niewłaściwego działu, co opóźni sprawę o sześć miesięcy (czasu subiektywnego).
-* **2+ Sukcesy (Pełny Sukces):** Postać osiągnęła zamierzony cel. W świecie TEOHIPHIP pełny sukces może być wręcz podejrzany. Czy na pewno wszystko poszło dobrze? A może konsekwencje pojawią się później?
-    * *Przykłady:* Chronocykl działa idealnie (aż do następnej sceny). Strażnik uwierzył w twoją historię i salutuje z szacunkiem (co może przyciągnąć niepotrzebną uwagę). Misja zakończona sukcesem – raport zostanie zignorowany przez przełożonych. Formularz przeszedł bez problemu (co oznacza, że prawdopodobnie był niepotrzebny).
+* **Ruch:** Pilnuj kosztów w Trudnym Terenie, rozsądnie oceniaj próby Wspinaczki/Skoków (Testy!).
+* **Linia Wzroku (LoS):** Stosuj zasadę "True LoS". W razie wątpliwości, podejdź do stołu i spójrz z perspektywy figurki. Bądź konsekwentny w kwestii blokowania LoS przez teren i inne postacie. Pamiętaj o **Utrudnieniu** przy strzale do celu w **Ukryciu**.
+* **Osłona (Cover):** Sprawdzaj, czy cel spełnia warunki Osłony (zasłonięty przez solidny teren, blisko niego). Przypominaj graczom o korzyści (**ignorowanie 1 sukcesu**).
+* **Akcje:** Upewnij się, że gracze poprawnie deklarują i opłacają akcje (1 lub 2 AP). Testy przy Interakcji powinny być szybkie i adekwatne do sytuacji.
 
-**Kluczem jest narracja.** Opisuj wyniki barwnie, wykorzystując absurd, biurokrację i technologiczną niekompetencję jako stałe elementy świata.
+### 2.3. Prowadzenie Testów i Puli Inicjatywy
 
-### Zarządzanie modyfikacjami tinyd6
+* **Kiedy Test?** W sytuacjach ryzykownych lub wymagających umiejętności (Atak, Interakcja, Wspinaczka, użycie niektórych Cech). Unikaj testów na trywialne czynności.
+* **Przewaga/Utrudnienie:** Przyznawaj je śmiało w oparciu o Cechy, sytuację taktyczną (Celowanie, Ukrycie, flankowanie?), stan sprzętu (często daje Utrudnienie!) i kreatywność graczy. Pamiętaj, że się nie kumulują.
+* **Interpretacja Wyników:** Skupiaj się na **konkretnych efektach w potyczce**:
+    * **0 sukcesów:** Akcja nieudana, często z dodatkową negatywną konsekwencją (broń się zacięła, postać potknęła się i straciła resztę ruchu, cel Interakcji uruchomił alarm, przeciwnik wykorzystał okazję).
+    * **1 sukces:** Sukces z kosztem. Cel osiągnięty częściowo (1 obrażenie zamiast potencjalnych 2, drzwi otwarte, ale hałaśliwie, cel unieruchomiony tylko na chwilę) lub z negatywnym skutkiem ubocznym (sukces w ataku, ale broń się przegrzała i nie można jej użyć w następnej turze).
+    * **2+ sukcesy:** Pełny, czysty sukces zgodnie z intencją gracza.
+* **Pula Inicjatywy:**
+    * **Przypominaj:** O rzucie puli na początku rundy (kości = aktualne PŻ) i o możliwości wymiany kości.
+    * **Egzekwuj Koszt:** Upewnij się, że gracz odejmuje 1 PŻ za *każdą* wymianę, zanim zastosuje jej efekt.
+    * **Obserwuj:** PŻ graczy to wskaźnik ich elastyczności taktycznej. Niskie PŻ oznaczają mniejszą pulę i większe ryzyko.
 
-TEOHIPHIP RPG wprowadza kilka specyficznych modyfikacji do tinyd6. Twoim zadaniem jest płynne wdrożenie ich w grę:
+### 2.4. Zarządzanie Komplikacjami
 
-#### System Punktów Cech
+Świat TEOHIPHIP jest niestabilny. Wykorzystuj to!
+* **Planowane Komplikacje:** Scenariusz może zakładać konkretne wydarzenia (np. przybycie posiłków w rundzie 3, awaria generatora w rundzie 4).
+* **Losowe Komplikacje:** Używaj tabel losowych (patrz Rozdział 6) lub własnej inwencji, by wprowadzać nieoczekiwane zdarzenia: chwilowa anomalia temporalna (np. spowolnienie/przyspieszenie czasu w sektorze mapy), awaria sprzętu losowej postaci (Test Techniczny, by naprawić?), pojawienie się lokalnej fauny, absurdalna dyrektywa z centrali zmieniająca cele misji w jej trakcie. Wprowadzaj je np. na początku rundy na rzut k6 (np. na 1).
 
-* **Pilnuj Cech Negatywnych:** To one nadają postaciom charakter i są źródłem punktów na Cechy Pozytywne. Upewnij się, że Negatywne Cechy *faktycznie* wpływają na grę. Przypominaj graczom o ich wadach, narzucaj Utrudnienie w odpowiednich sytuacjach, wprowadzaj komplikacje fabularne wynikające z tych cech (np. *Wróg w Instytucie* aktywnie działa przeciw postaci, *Chronochoroba* daje o sobie znać po każdym skoku).
-* **Honoruj Cechy Pozytywne:** Gdy sytuacja pasuje do Cechy Pozytywnej postaci, przyznaj jej Przewagę bez wahania. To nagroda za świadome budowanie postaci.
+### 2.5. Automatyzacja Przeciwników (BN)
 
-#### Pula Inicjatywy
+Aby odciążyć MG i przyspieszyć grę, BN-y w TEOHIPHIP działają według prostych algorytmów.
 
-* **Pamiętaj o Puli:** Przypominaj graczom na początku rundy o rzucie kośćmi do Puli (liczba kości = aktualne PŻ).
-* **Śledź Koszt Wymiany:** Każda wymiana kości z rzutu testowego na kość z puli kosztuje **1 PŻ**. To kluczowy element balansu! Gracz musi zadeklarować wymianę i odjąć PŻ *przed* podmianą kości. Upewnij się, że PŻ nie spadają poniżej 1 w wyniku tej operacji (chyba że zasady cech mówią inaczej).
-* **Odświeżanie i Przepadanie:** Niewykorzystane kości z Puli przepadają na koniec rundy. Pula jest odświeżana na początku nowej rundy.
-* **Spirala Śmierci:** Zwróć uwagę, że ta mechanika wzmacnia efekt "spirali śmierci" – ranna postać ma mniej kości w puli i trudniej jej wyjść z tarapatów, a każda próba ratunku kosztuje kolejne PŻ. To celowy element, ale miej na uwadze potencjalną frustrację i rozważ wprowadzenie sposobów na odzyskanie PŻ (odpoczynek, cechy, sprzęt medyczny – jeśli istnieje).
+* **Filozofia:** Algorytmy mają zapewnić spójne i przewidywalne (choć niekoniecznie inteligentne) zachowanie BN-ów, odzwierciedlające ich typ i rolę (np. bezmyślna bestia, zdyscyplinowany strażnik, spanikowany cywil).
+* **Stosowanie Algorytmu:** Podczas aktywacji BN-a, wykonaj kroki opisane w jego algorytmie (patrz Rozdział 4) w podanej kolejności priorytetów. Wykonaj pierwszą akcję, której warunki są spełnione. Jeśli BN ma 2 AP, a pierwsza akcja kosztowała 1 AP, sprawdź algorytm ponownie dla drugiego AP.
+* **Sytuacje Nieprzewidziane:** Jeśli algorytm nie obejmuje danej sytuacji (rzadkie przy dobrym algorytmie), jako MG podejmij decyzję zgodną z "osobowością" i celem BN-a (np. Strażnik będzie dążył do ochrony celu lub eliminacji intruzów, Bestia zaatakuje najbliższy ruchomy cel).
+* **Kto Kontroluje BN?**
+    * **Standardowo:** MG wykonuje akcje BN-ów zgodnie z ich algorytmami.
+    * **Opcjonalnie (Zasada: Aktywacja przez Graczy):** Aby jeszcze bardziej przyspieszyć grę (szczególnie w trybie kooperacyjnym), gracze mogą aktywować BN-ów. Proponowany mechanizm: po aktywacji swojej postaci, gracz aktywuje również najbliższego BN-a, który jeszcze nie działał w tej rundzie, ściśle stosując jego algorytm. Wymaga to uczciwości i zrozumienia algorytmów przez graczy.
 
-#### System Band
-
-* **Ekonomia Akcji:** Kluczowe jest ustalenie, jak działają postacie gracza kontrolującego bandę (1-3 bohaterów). Rekomendowana metoda to **aktywacja naprzemienna**: w swojej turze gracz aktywuje *jedną* ze swoich postaci. Pozostali gracze (lub MG kontrolujący BN-ów) aktywują swoje postacie po kolei. W następnej turze gracz aktywuje inną ze swoich postaci. To utrzymuje dynamikę, ale wymaga śledzenia, kto już działał.
-* **Zarządzanie Złożonością:** Prowadzenie dla graczy kontrolujących 3 postacie jest bardziej wymagające. Bądź cierpliwy, pomagaj w śledzeniu stanu postaci. Pamiętaj, że system PK ma równoważyć liczbę akcji (przewaga bandy) z siłą jednostek (przewaga solistów/duetów inwestujących w PŻ i Cechy).
-* **Balansowanie Spotkań:** Projektując wyzwania, bierz pod uwagę łączną siłę i liczbę akcji band graczy. Solista z 8 PŻ i masą Cech to inne wyzwanie niż trio postaci po 4 PŻ każda.
-
-### Ustalanie poziomu trudności
-
-W tinyd6 nie ma sztywnych modyfikatorów trudności. Zamiast tego operujesz głównie decyzją o konieczności wykonania Testu oraz przyznawaniem Przewagi lub Utrudnienia.
-
-#### Kiedy prosić o Test?
-
-* Gdy istnieje **ryzyko porażki**, która będzie miała ciekawe konsekwencje fabularne.
-* Gdy działanie wymaga **specjalistycznej wiedzy lub umiejętności**, których postać może nie posiadać (lub posiadać dzięki Cechom).
-* Gdy wynik działania jest **niepewny** z powodu czynników zewnętrznych (stan sprzętu, warunki środowiskowe, działania BN-ów).
-* **Nie proś o Test** dla czynności rutynowych, prostych lub gdy porażka byłaby nudna i zatrzymała grę bez powodu. Wypełnienie standardowego formularza (jeśli nie ma dodatkowych komplikacji) czy przejście przez opustoszały korytarz INT zwykle nie wymaga Testu.
-
-#### Kiedy przyznać Przewagę (3k6)?
-
-* Postać używa **Cechy Pozytywnej** adekwatnej do sytuacji.
-* Postać ma **znaczącą przewagę sytuacyjną** (np. element zaskoczenia, doskonały plan, pomoc kompetentnego BN-a).
-* Postać używa **działającego i zaawansowanego sprzętu** w sytuacji, gdzie daje on wyraźną korzyść.
-* Gracz wpadł na **wyjątkowo kreatywny lub absurdalnie logiczny** (w kontekście TEOHIPHIP) sposób rozwiązania problemu.
-
-#### Kiedy narzucić Utrudnienie (1k6)?
-
-* Działa **Cecha Negatywna** postaci.
-* Postać działa w **wyjątkowo niesprzyjających warunkach** (np. podczas burzy temporalnej, w trakcie awarii reaktora, pod ostrzałem, będąc rannym).
-* Sprzęt postaci jest **uszkodzony, nieadekwatny lub używany wbrew przeznaczeniu**.
-* Postać próbuje zrobić coś **szczególnie trudnego lub wymagającego precyzji**, przekraczającego jej standardowe możliwości.
-* Przeszkadzają **regulaminy, biurokracja lub działania BN-ów**.
-
-Pamiętaj, że Przewaga i Utrudnienie **nie kumulują się**. Jeśli wiele czynników wskazuje na Przewagę, a jeden na Utrudnienie, wykonuje się Test Standardowy (2k6). Zawsze wybieraj opcję, która wydaje się najbardziej sensowna (lub zabawna) w danej sytuacji. Twoim celem jest użycie mechaniki do wspierania narracji i klimatu, a nie spowalnianie gry skomplikowanymi obliczeniami.
-
-## Rozdział 3: Tworzenie przygód – Generatory temporalnego bałaganu
+## Rozdział 3: Projektowanie Scenariuszy Skirmishowych
 
 Świat TEOHIPHIP to kopalnia pomysłów na przygody – niestety, często są to pomysły równie katastrofalne w skutkach, co same działania Instytutu Temporystyki. Twoim zadaniem jako MG jest przekształcenie tego potencjału na chaos w grywalne scenariusze. Nie martw się, jeśli Twoje plany szybko legną w gruzach pod naporem działań graczy lub absurdów świata – to w zasadzie norma i znak, że dobrze oddajesz klimat TEOHIPHIP.
 
-### Typowe misje INT (i ich potencjalne komplikacje)
+Ten rozdział pomoże Ci tworzyć własne potyczki skirmishowe w świecie TEOHIPHIP lub modyfikować gotowe scenariusze.
 
-Większość przygód prawdopodobnie zacznie się od zlecenia (lub raczej: niejasnej dyrektywy) z centrali INT. Oto kilka standardowych typów misji wraz z ich nieodłącznym potencjałem na komplikacje:
+### 3.1. Anatomia Scenariusza Skirmishowego
 
-#### Ankiety historyczne
+Dobry scenariusz skirmishowy powinien zawierać:
 
-* *Cel (oficjalny):* Zbadać "opinię publiczną" lub zebrać dane w konkretnej epoce przed planowaną "korektą".
-* *Rzeczywistość:* Szpiegowanie, unikanie wykrycia (często nieudane), przypadkowe wpływanie na wydarzenia przez samą obecność lub nieostrożne pytania, problemy z komunikacją (lingwistyczne i technologiczne), konieczność wypełnienia absurdalnie szczegółowych kwestionariuszy.
-* *Komplikacje:* Gracze zostają wzięci za szpiegów (przez tubylców lub konkurencyjny dział INT), ich sprzęt do ankietowania (jeśli istnieje) psuje się lub zwraca uwagę, przypadkiem zdradzają przyszłe wydarzenia, ankieta okazuje się przykrywką dla innej, bardziej podejrzanej operacji.
+1.  **Tytuł i Kontekst Fabularny:** Krótki (1-2 akapity) opis misji, jej tło fabularne, epokę, powód interwencji INT i absurdalny kontekst (np. "Odzyskać zaginiony toster dyrektora Rosenbeissera z obozu Attyli", "Zapobiec wygranej Rzymian pod Kannami przez dostarczenie im pizzy").
+2.  **Cele Misji:** Jasno określone warunki **Zwycięstwa** i **Przegranej** dla band graczy. Muszą być konkretne, mierzalne i możliwe do osiągnięcia (lub nie) w ciągu **5-6 rund**. Przykłady: "Dotrzyj do punktu X i wykonaj Interakcję", "Przetrwaj 6 rund, utrzymując kontrolę nad punktem Y", "Wyeliminuj cel Z", "Eskortuj NPC do strefy ewakuacji". Mogą istnieć cele dodatkowe (wpływające np. na nagrody PK w kampanii).
+3.  **Mapa i Teren:** Opis lub schemat pola bitwy. Sugerowany rozmiar (np. 3x3 stopy, 4x4 stopy). Kluczowe elementy terenu: punkty startowe, lokalizacje celów, obszary trudnego terenu, osłony, elementy blokujące LoS. Warto dodać elementy specyficzne dla epoki (np. okopy, rzymskie ruiny, prehistoryczne zarośla).
+4.  **Rozstawienie:** Gdzie gracze i siły przeciwników rozpoczynają grę. Zgodnie z zasadą **"In Medias Res"**, rozstawienie powinno umieszczać strony blisko konfliktu lub celu.
+5.  **Siły Przeciwników (BN):** Dokładna lista BN-ów biorących udział w scenariuszu: ich typy, liczba, statystyki (lub odniesienie do Rozdziału 4) i **przypisane algorytmy zachowań**. Należy określić, czy pojawiają się od razu, czy jako fale posiłków (jeśli tak – kiedy i skąd).
+6.  **Zasady Specjalne:** Wszelkie unikalne reguły obowiązujące tylko w tym scenariuszu: efekty środowiskowe (np. burza piaskowa ograniczająca LoS), działanie obiektów misji (np. ile sukcesów potrzeba do hakowania terminala), losowe komplikacje (np. tabela zdarzeń losowych na rzut k6 co rundę).
+7.  **Limit Czasu:** Przypomnienie o 5-6 rundach gry.
 
-#### "Korekty" historyczne
+### 3.2. Kluczowe Zasady Projektowania
 
-* *Cel (oficjalny):* Wprowadzenie "drobnej" zmiany w przeszłości w celu "optymalizacji" biegu historii (np. zapobieżenie wojnie, wprowadzenie higieny, nauczenie Rzymian budowy akweduktów – ups, to już zrobili?).
-* *Rzeczywistość:* Próby subtelnego (lub nie) manipulowania wydarzeniami, sabotaż ze strony konkurencyjnych projektantów historii, opór materii (historycznej i technologicznej), nieudolność wykonawców (czyli graczy).
-* *Komplikacje:* "Drobna" zmiana wywołuje lawinę nieprzewidzianych i katastrofalnych skutków (efekt motyla), korekta okazuje się oparta na błędnych danych, sprzęt do "korekty" zawodzi w kluczowym momencie, gracze muszą improwizować "korektę" bez planu (bo zgubili instrukcję), pojawia się MOIRA, by powstrzymać ich (lub "pomóc" w równie destrukcyjny sposób).
+* **Fokus na Celach:** Zwycięstwo powinno zależeć od celów, nie tylko eliminacji wrogów.
+* **Presja Czasu:** Limit 5-6 rund musi być odczuwalny. Cele powinny wymagać aktywnego działania od pierwszych rund.
+* **Start "w Akcji":** Unikaj scenariuszy, gdzie pierwsze 1-2 rundy to tylko ruch w stronę wroga.
+* **Bądź jak Lem:** Wpleć absurd, biurokrację, awarie sprzętu i paradoksy jako zasady specjalne lub komplikacje. Niech cel misji sam w sobie będzie nieco absurdalny.
+* **Interaktywny Teren:** Osłony, trudny teren, punkty do wspinaczki/przeskoku – teren powinien mieć znaczenie taktyczne.
+* **Asymetria:** Nie bój się scenariuszy asymetrycznych (np. obrona przed przeważającą liczbą wrogów, eskorta słabego NPC).
+* **Prostota Zasad Specjalnych:** Unikalne zasady scenariusza powinny być łatwe do zrozumienia i zastosowania.
 
-#### Misje ratunkowe
+### 3.3. Przykładowe Scenariusze Skirmishowe
 
-* *Cel (oficjalny):* Odnalezienie i sprowadzenie zaginionego agenta INT lub odzyskanie cennego (lub kompromitującego) sprzętu pozostawionego w przeszłości.
-* *Rzeczywistość:* Tropienie sygnałów w czasie, negocjacje z tubylcami (którzy mogli znaleźć agenta/sprzęt), naprawa uszkodzonego wehikułu czasu, przekonywanie zaginionego agenta do powrotu (może wcale nie chce wracać?), unikanie uwagi MOIRY (która może też szukać agenta/sprzętu).
-* *Komplikacje:* Zaginiony agent nie chce być znaleziony (lub przeszedł na drugą stronę), sprzęt wpadł w niepowołane ręce (np. średniowiecznego kowala próbującego zrobić z niego miecz), sygnał prowadzi w pułapkę lub do innej anomalii, misja ratunkowa jest testem lojalności graczy.
-
-#### Badanie anomalii czasowych
-
-* *Cel (oficjalny):* Zidentyfikowanie i (jeśli to możliwe) zneutralizowanie dziwnych zjawisk temporalnych (pętle czasowe, spontaniczne teleportacje, strefy o zmienionym przepływie czasu, duchy z przyszłości).
-* *Rzeczywistość:* Wchodzenie w niestabilne strefy czasowe, używanie zawodnych skanerów, unikanie wciągnięcia w pętlę lub paradoks, próby zrozumienia czegoś, co łamie znane prawa fizyki (i regulaminy INT).
-* *Komplikacje:* Anomalia jest skutkiem ubocznym działań innego działu INT (lub samych graczy z przyszłości), badanie anomalii wywołuje jej eskalację, sprzęt badawczy wariuje, anomalia okazuje się być inteligentna (lub przynajmniej złośliwa).
-
-#### Dostarczanie/odzyskiwanie technologii
-
-* *Cel (oficjalny):* Przetransportowanie jakiegoś urządzenia lub materiału w przeszłość (np. "pomoc" w budowie piramid) lub odzyskanie technologii INT, która wpadła w niepowołane ręce (np. chronocykl znaleziony przez Leonarda da Vinci).
-* *Rzeczywistość:* Problemy z transportem (sprzęt jest duży, delikatny lub niebezpieczny), ukrywanie technologii przed tubylcami, negocjacje lub walka o odzyskanie sprzętu, ryzyko skażenia epoki technologią przyszłości.
-* *Komplikacje:* Dostarczony sprzęt psuje się lub zostaje użyty niezgodnie z przeznaczeniem, odzyskiwana technologia została zmodyfikowana przez znalazcę (np. chronocykl przerobiony na maszynę do ubijania masła), tubylcy zaczynają czcić graczy (lub ich sprzęt) jako bogów, pojawiają się konkurenci chcący przejąć technologię.
-
-Jasne, rozumiem potrzebę dostosowania settingu do krótszych, skoncentrowanych na walce rozgrywek skirmishowych. Dodajmy więc do Rozdziału 3 sekcję poświęconą scenariuszom w tym formacie, rozwijając Twoje pomysły i dodając kilka dodatkowych. Można je wykorzystać jako gotowe misje lub inspirację do własnych potyczek na 5-6 rund.
-
-### Scenariusze Skirmishowe (Rozgrywka na 5-6 rund)
-
-Chociaż TEOHIPHIP RPG świetnie nadaje się do dłuższych, narracyjnych kampanii pełnych biurokracji i absurdu, jego świat można również z powodzeniem wykorzystać do szybkich, taktycznych rozgrywek skirmishowych, koncentrujących się na walce i realizacji konkretnych celów w ograniczonym czasie (np. 5-6 rund). Poniższe scenariusze są zaprojektowane z myślą o takim formacie, wykorzystując mechaniki tinyd6 (w tym Pulę Inicjatywy i opcjonalny System Band) do dynamicznych starć małych zespołów.
+Chociaż TEOHIPHIP RPG świetnie nadaje się do dłuższych, narracyjnych kampanii pełnych biurokracji i absurdu, jego świat można również z powodzeniem wykorzystać do szybkich, taktycznych rozgrywek skirmishowych, koncentrujących się na walce i realizacji konkretnych celów w ograniczonym czasie (np. 5-6 rund). Poniższe scenariusze są zaprojektowane z myślą o takim formacie, wykorzystując mechaniki tinyd6 (w tym Pulę Inicjatywy i System Band) do dynamicznych starć małych zespołów.
 
 #### "Precyzyjna" Korekta Historyczna
 
@@ -291,71 +240,168 @@ Chociaż TEOHIPHIP RPG świetnie nadaje się do dłuższych, narracyjnych kampan
 
 Te scenariusze można dowolnie modyfikować, zmieniając epokę, przeciwników i konkretne cele, aby dopasować je do preferencji grupy i dostępnych figurek/terenu. Pamiętaj, by nawet w szybkiej rozgrywce skirmishowej zachować odrobinę absurdu i chaosu typowego dla TEOHIPHIP – niech sprzęt czasem zawodzi, niech pojawiają się dziwne anomalie, a cele misji niech zawsze będą podszyte niekompetencją lub ukrytymi motywami Instytutu.
 
-### Haki fabularne poza INT
+### 3.4. Balansowanie Scenariuszy
 
-Nie wszystkie przygody muszą wynikać z oficjalnych zleceń. Równie ciekawe (i chaotyczne) mogą być scenariusze napędzane przez inne czynniki:
+* Idealny balans jest trudny i nie zawsze pożądany w TEOHIPHIP. Chaos jest częścią zabawy.
+* Podstawowe narzędzia balansu: liczba i jakość BN-ów, ich algorytmy, trudność celu misji, liczba rund, zasady specjalne i komplikacje.
+* Dostosuj scenariusz do liczby graczy i (w kampanii) poziomu rozwoju ich band. Można skalować liczbę BN-ów lub ich PŻ.
+* Testuj! Najlepszym sposobem na sprawdzenie balansu jest rozegranie scenariusza.
 
-* **Konsekwencje poprzednich misji graczy:** Każde działanie (lub zaniechanie) w TEOHIPHIP może mieć skutki. Może drobna zmiana w renesansie spowodowała, że w XX wieku nie wynaleziono antybiotyków? Może agent, którego zostawili na pastwę losu w średniowieczu, założył własne królestwo i teraz zagraża "oficjalnej" linii czasu? Powracające echa przeszłych działań to świetny motor napędowy.
-* **Osobiste cele postaci:** Cechy Negatywne i motywacje postaci to kopalnia pomysłów. Postać z *Wrogiem w Instytucie* może chcieć się zemścić lub udaremnić jego plany. Postać z *Przywiązaniem do epoki* może próbować wrócić do swojego ulubionego okresu na stałe. Postać próbująca naprawić konkretny błąd z przeszłości (własny lub INT) może działać na własną rękę, wbrew rozkazom.
-* **Spotkania z zesłańcami lub innymi frakcjami:** Historia jest pełna zesłanych agentów INT. Spotkanie takiego zesłańca (jak Leonardo/Nardeau, Napoleon/Betterpart czy mniej znanych) może być źródłem informacji, konfliktu lub dziwacznej współpracy. Czy w chaosie INT powstały jakieś tajne frakcje lub ruch oporu? A może inne cywilizacje (jeśli istnieją) próbują powstrzymać temporalne wandalizmy ludzkości?
-* **Próby zrozumienia/naprawienia TEOHIPHIP:** Bardziej ambitne (lub naiwne) postacie mogą próbować zrozumieć, co tak naprawdę poszło nie tak z TEOHIPHIP, odkryć ukryte cele Instytutu lub nawet podjąć próbę faktycznego naprawienia historii (co, oczywiście, prawdopodobnie doprowadzi do jeszcze większej katastrofy). Taki cel może napędzać całą kampanię.
+## Rozdział 4: Bohaterowie Niezależni
 
-### Struktura przygody w TEOHIPHIP
+Ten rozdział zawiera profile statystyk i algorytmy zachowań dla postaci i istot, które bandy graczy mogą napotkać (lub którymi mogą być) podczas swoich misji.
 
-Projektując przygodę w tym świecie, zapomnij o liniowych scenariuszach z jednym słusznym rozwiązaniem. Przygotuj się na improwizację i pozwól chaosowi działać.
+### 4.1. Tworzenie Statystyk BN dla Skirmisha
 
-* **Nieliniowość i chaos jako norma:** Przygoda powinna przypominać raczej sieć potencjalnych wydarzeń i komplikacji niż prostą ścieżkę. Działania graczy (nawet te pozornie błahe) powinny mieć potencjał do zmiany kierunku fabuły. Bądź gotów porzucić przygotowane sceny, jeśli gracze wymyślą coś nieoczekiwanego (lub po prostu zepsują coś ważnego).
-* **Wprowadzanie biurokratycznych przeszkód:** Nie zapominaj o wszechobecnej biurokracji INT. Zanim gracze wyruszą na misję, mogą potrzebować odpowiedniego wniosku (oczywiście na nieaktualnym formularzu), zgody trzech różnych działów (które są ze sobą skłócone) i podpisu przełożonego (który akurat wyjechał na sympozjum dotyczące wpływu paradoksu kury i jajka na morale personelu). Podczas misji mogą zostać zatrzymani przez kontrolę MOIRY sprawdzającą ważność ich przepustek czasowych. Po powrocie czeka ich wypełnianie raportów, których nikt nie przeczyta (chyba że zawierają błędy – wtedy na pewno ktoś je zauważy).
-* **Projektowanie spotkań (więcej niż walka):** TEOHIPHIP to nie gra o walce. Chociaż starcia mogą się zdarzyć, większość wyzwań powinna mieć inny charakter:
-    * **Techniczne:** Naprawa chronocykla pod ostrzałem prehistorycznych komarów, uruchomienie zasilania awaryjnego w bazie INT przy użyciu spinacza i taśmy klejącej, deszyfracja uszkodzonego dziennika pokładowego innego agenta.
-    * **Społeczne:** Przekonanie rzymskiego senatora, że nie jesteście barbarzyńcami (mimo dziwnych ubrań), negocjowanie z szefem działu zaopatrzenia o nowy sprzęt, blefowanie przed agentami MOIRY, próba wytłumaczenia przełożonemu, dlaczego misja zakończyła się pojawieniem się mówiących grzybów w średniowiecznej Anglii.
-    * **Paradoksalne:** Wydostanie się z pętli czasowej, uniknięcie spotkania samego siebie (lub poradzenie sobie z jego konsekwencjami), próba działania w strefie, gdzie przyczyna i skutek zamieniły się miejscami.
-    * **Środowiskowe:** Radzenie sobie z ekstremalnymi warunkami klimatycznymi w różnych epokach, unikanie chorób historycznych, nawigacja w terenie bez GPS (i często bez mapy), przetrwanie w erze bez tlenu (lub z nadmiarem czegoś gorszego).
-* **Planowanie potencjalnych punktów awarii i komplikacji:** Projektując przygodę, z góry zastanów się, co może pójść nie tak (odpowiedź: wszystko). Gdzie może zepsuć się sprzęt? Jakie nieporozumienie może wyniknąć z kontaktu z tubylcami? Jaki regulamin INT mogą przypadkiem złamać gracze? Jakie paradoksy mogą niechcący wywołać? Wbudowanie tych "min" w strukturę przygody sprawi, że chaos będzie wydawał się naturalnym elementem świata, a nie tylko złośliwością MG.
+Profil BN-a powinien zawierać:
 
-Pamiętaj, tworzenie przygód w TEOHIPHIP to jak próba złożenia skomplikowanego urządzenia według instrukcji napisanej przez pijanego biurokratę – efekt końcowy może być zaskakujący, ale proces na pewno będzie... interesujący.
+* **Nazwa/Typ:** (np. Agent MOIRY, Technik INT, Legionista Rzymski, Raptor Temporalny)
+* **Punkty Życia (PŻ):** Określają wytrzymałość. Zwykli przeciwnicy mają ich mało (np. 3-5), "elity" lub bossowie więcej (6-8+).
+* **Ruch (SPD):** Standardowo 6", modyfikowany dla szybkich/wolnych istot.
+* **Kluczowe Cechy:** Wybierz 1-3 Cechy (pozytywne lub negatywne), które definiują rolę i możliwości BN-a (np. Strażnik może mieć *Zimną Krew*, Bestia *Nadwrażliwość* na jakiś bodziec). Nie twórz pełnej karty postaci, wybierz tylko te Cechy, które mają znaczenie w walce/scenariuszu.
+* **Podstawowy Atak:** Opis głównego ataku (dystansowy/wręcz), ewentualny zasięg i specjalne właściwości (np. ignoruje Osłonę, zadaje dodatkowe obrażenia przy sukcesie krytycznym?). Test ataku to zwykle 2k6, chyba że Cecha daje Przewagę/Utrudnienie.
+* **Algorytm Zachowania:** Przypisany algorytm (patrz niżej).
 
-## Rozdział 4: Bohaterowie Niezależni – Trybiki machiny czasu
+### 4.2. Przykładowe Profile BN
 
-* **Galeria sław (i niesław) Instytutu:**
-    * Statystyki (w tinyd6), motywacje, przykładowe zachowania dla: Ijona Tichego, Rosenbeissera, Lattona, Tottelesa, Goodlaya, Betterparta/Napoleona, Boskovića, etc..
-* **Szeregowi pracownicy INT:**
-    * Szablony dla typowych Czasowników, Ankieterów, Techników, Agentów MOIRY, Biurokratów – ich potencjalne cele, poziom kompetencji (zwykle niski), nastawienie do graczy.
-* **Postacie historyczne:**
-    * Jak portretować znane postacie (często jako zesłańców lub pod wpływem działań INT)?.
-    * Przykłady: Leonardo da Vinci (jako Nardeau de Vince), Homer (jako Ohmer), Platon (jako Latton), Arystoteles (jako Totteles), Richelieu (jako Reichplatz?), Napoleon (jako Betterpart).
-* **Tworzenie własnych BN-ów:**
-    * Nadawanie im absurdalnych cech, biurokratycznych nawyków, niejasnych motywacji.
+*(Tutaj należy stworzyć kilka-kilkanaście gotowych profili dla najczęściej występujących typów BN)*
 
-## Rozdział 5: Prowadzenie kampanii – Długoterminowe skutki uboczne
+* **Przykład: Szeregowy Agent INT (np. Czasownik/Technik w Terenie)**
+    * PŻ: 4, SPD: 6"
+    * Cechy: Np. *Technofobia* (+2 PC), *Spanikowany* (Utrudnienie na testy Woli w stresie - nowa, prosta cecha negatywna)
+    * Atak: Pistolet energetyczny (Zasięg 18", Test 2k6, 1 sukces=1 PŻ)
+    * Algorytm: "Wsparcie z Tyłu" (patrz 4.3)
 
-* **Śledzenie konsekwencji:** Jak działania graczy (lub ich brak) wpływają na (pseudo)historię i ich pozycję w INT.
-* **Zarządzanie tempem i tonem:** Balansowanie między komedią, absurdem, a czasem grozą paradoksów czy niekompetencji.
-* **Rozwój postaci graczy:** Narracyjne podejście do rozwoju, przyznawanie możliwości zmiany Cech w odpowiedzi na wydarzenia w grze.
-* **Pomysły na długie kampanie:**
-    * Wspinaczka po szczeblach kariery w INT.
-    * Próba naprawienia jednej z wielkich katastrof TEOHIPHIP.
-    * Odkrywanie prawdziwych celów lub tajemnic Instytutu.
-    * Dezercja i ucieczka przed MOIRĄ.
-    * Założenie własnej "frakcji" w czasie.
+* **Przykład: Agent MOIRY (Standardowy)**
+    * PŻ: 5, SPD: 6"
+    * Cechy: Np. *Zimna Krew* (-3 PC), *Taktyk* (Raz na turę może dać Przewagę sojusznikowi w LoS - nowa cecha)
+    * Atak: Karabin energetyczny (Zasięg 24", Test 2k6, 1 sukces=1 PŻ) lub Pałka ogłuszająca (Wręcz, Test 2k6, Sukces: Cel musi zdać Test Odporności lub traci 1 AP w nast. turze)
+    * Algorytm: "Agresywny Szturmowiec" lub "Ochrona Celu" (patrz 4.3)
 
-## Rozdział 6: Narzędzia Mistrza Gry – Niezbędnik w podróży przez chaos
+* **Przykład: Wojownik Historyczny (np. Legionista Rzymski)**
+    * PŻ: 4, SPD: 5"
+    * Cechy: Np. *Formacja* (Gdy w kontakcie bazowym z innym Legionistą, obaj ignorują 1 sukces przy atakach wręcz - nowa cecha)
+    * Atak: Gladius (Wręcz, Test 2k6, 1 sukces=1 PŻ), Pilum (Rzut, Zasięg 6", Jednorazowy, Test 2k6, 1 sukces=1 PŻ)
+    * Algorytm: "Utrzymanie Linii" (patrz 4.3)
 
-* **Tabele losowe:**
-    * Generator misji INT (cel, lokalizacja, komplikacja biurokratyczna, awaria sprzętu).
-    * Generator anomalii temporalnych i paradoksów.
-    * Generator dziwacznych spotkań w przeszłości/przyszłości.
-    * Generator usterek chronocykla i innego sprzętu.
-    * Generator absurdalnych regulaminów i formularzy INT.
-    * Generator cech i nawyków BN-ów.
-* **Ściągawki:**
-    * Podsumowanie zasad tinyd6 i modyfikacji.
-    * Skrócony słowniczek terminów TEOHIPHIP.
-    * Lista kluczowych postaci INT i ich motywacji.
-* **Porady dotyczące bezpieczeństwa i komunikacji przy stole.**
+* **Przykład: Bestia Temporalna (np. Raptor)**
+    * PŻ: 6, SPD: 8"
+    * Cechy: Np. *Szybki*, *Drapieżnik* (Przewaga na Atak wręcz przeciwko celowi z PŻ poniżej połowy)
+    * Atak: Pazury/Zęby (Wręcz, Test 2k6, 2 sukcesy=2 PŻ)
+    * Algorytm: "Drapieżnik" (patrz 4.3)
 
-## Dodatki
+### 4.3. Biblioteka Algorytmów BN
 
-* Przykładowy scenariusz przygody.
-* Mapa struktur INT (jeśli to w ogóle możliwe do zwizualizowania).
-* Bibliografia (Stanisław Lem, źródła inspiracji).
+Algorytm to lista priorytetów. Wykonaj pierwszą akcję, której warunki są spełnione.
+
+* **Algorytm: "Agresywny Szturmowiec"**
+    1.  Jeśli wróg w zasięgu Ataku (preferowany wręcz, jeśli możliwe) -> **Atakuj** (1 AP). Użyj drugiego AP, by **Kryć się** lub **Celować** (jeśli planujesz strzelać w nast. turze).
+    2.  Jeśli wróg widoczny, ale poza zasięgiem -> **Rusz** (1 lub 2 AP) w kierunku najbliższego wroga, starając się zakończyć ruch za Osłoną.
+    3.  Jeśli brak widocznych wrogów -> **Rusz** (1 lub 2 AP) w kierunku najbliższego celu misji graczy lub ostatniej znanej pozycji wroga.
+
+* **Algorytm: "Ochrona Celu/Pozycji"**
+    1.  Jeśli wróg w zasięgu Ataku z obecnej pozycji I atakuje chroniony cel/znajduje się w chronionej strefie -> **Atakuj** (1 AP). Drugi AP: **Kryj się** lub **Celuj**.
+    2.  Jeśli wróg widoczny, ale nie zagraża bezpośrednio celowi/strefie LUB jest poza zasięgiem -> **Kryj się** (1 AP), ewentualnie **Celuj** (1 AP) w najbliższego wroga.
+    3.  Jeśli wróg wchodzi do chronionej strefy -> **Rusz** (1 lub 2 AP), by go przechwycić/zaatakować.
+    4.  Jeśli brak wrogów -> Pozostań na pozycji lub wykonaj krótki ruch patrolowy wokół celu/strefy, kończąc za Osłoną.
+
+* **Algorytm: "Wsparcie z Tyłu"**
+    1.  Jeśli wróg w zasięgu Ataku dystansowego I ma czysty strzał (bez Ukrycia) -> **Atakuj** (1 AP). Drugi AP: **Kryj się**.
+    2.  Jeśli wróg w zasięgu, ale w Ukryciu/Osłonie LUB jeśli sam BN jest na otwartym terenie -> **Rusz** (1 AP), by znaleźć lepszą pozycję strzelecką z Osłoną. Drugi AP: **Kryj się** lub **Celuj**.
+    3.  Jeśli wróg poza zasięgiem -> **Rusz** (1 lub 2 AP) ostrożnie w stronę walki, pozostając z tyłu za bardziej agresywnymi sojusznikami, kończąc ruch za Osłoną.
+    4.  Jeśli brak wrogów/sojuszników w walce -> **Kryj się** i czekaj.
+
+* **Algorytm: "Drapieżnik"**
+    1.  Jeśli wróg w zasięgu Ataku wręcz -> **Atakuj** (1 AP). Jeśli cel ma mało PŻ, użyj Cechy *Drapieżnik*. Drugi AP: **Atakuj** ponownie (jeśli zasady pozwalają BN-om na 2 ataki) lub **Rusz**, by związać walką kolejnego wroga.
+    2.  Jeśli brak wroga w zasięgu wręcz -> **Rusz** (1 lub 2 AP) najkrótszą drogą w kierunku najbliższej postaci (preferując rannych). Ignoruj Osłony i Trudny Teren, jeśli to możliwe (przeskakuj, wspinaj się - może wymagać Testu dla BN).
+    3.  Jeśli ostrzeliwany -> Zwykle ignoruj i kontynuuj szarżę (chyba że Test Woli wskaże inaczej).
+
+* **Algorytm: "Utrzymanie Linii" (dla historycznych)**
+    1.  Jeśli wróg w zasięgu Ataku wręcz LUB w zasięgu szarży (Ruch) -> **Atakuj** wręcz (1 AP) lub **Rusz** (1 AP), by zaatakować wręcz. Drugi AP: Użyj Cechy *Formacja* (jeśli dotyczy) lub spróbuj utrzymać pozycję.
+    2.  Jeśli wróg w zasięgu broni miotanej (np. Pilum) -> **Atakuj** bronią miotaną (1 AP). Drugi AP: **Rusz** w stronę wroga lub przygotuj się do walki wręcz.
+    3.  Jeśli brak bezpośredniego zagrożenia -> **Rusz** (1 AP) powoli w formacji z innymi sojusznikami w kierunku celu/wroga. Drugi AP: **Kryj się** (za tarczą) lub utrzymaj pozycję.
+
+## Rozdział 5: Prowadzenie Kampanii Skirmishowej
+
+Ten rozdział opisuje zasady łączenia pojedynczych potyczek skirmishowych w dłuższą kampanię, wraz z rozwojem band graczy.
+
+### 5.1. Struktura i Narracja Kampanii
+
+* Kampania to seria powiązanych (fabularnie lub tematycznie) scenariuszy skirmishowych.
+* Rola MG w kampanii to nie tylko prowadzenie potyczek, ale też tworzenie **narracyjnego spoiwa** między nimi: opisywanie odpraw w centrali INT, przedstawianie konsekwencji poprzednich misji, wprowadzanie powracających BN-ów (wrogów lub sojuszników), zarządzanie ewentualną główną linią fabularną.
+* Kampania może mieć różną strukturę: liniową (seria misji prowadzących do finału), piaskownicę (gracze wybierają misje z dostępnej puli) lub mieszana.
+
+### 5.2. Zasady Progresji Bandy ("Faza Pomiędzy Misjami")
+
+Po każdej potyczce, przed rozpoczęciem następnej, stosuje się następujące zasady:
+
+1.  **Reset PŻ:** Wszystkie postacie w bandzie **odzyskują PŻ do maksimum**.
+2.  **Reset Ekwipunku:** Sprzęt jest **resetowany** do standardowego przydziału na kolejną misję.
+3.  **Zdobywanie Punktów Kreacji (PK):**
+    * **Wygrana:** Banda otrzymuje **3 PK**.
+    * **Przegrana / Remis:** Banda otrzymuje **1 PK** (o ile co najmniej 1 postać przetrwała).
+    * **Całkowita Eliminacja Bandy:** Banda otrzymuje **0 PK**.
+4.  **Wydawanie Punktów Kreacji (PK):**
+    * Gracz wydaje zgromadzone PK na swoją bandę. Niewydane PK **kumulują się**.
+    * **Opcje:**
+        * **Nowa Cecha Pozytywna:** Koszt **1 PK za każde 3 PC** wartości Cechy.
+        * **Nowa Postać (jeśli banda < 3):** Koszt **1 PK za każdy 1 PŻ** nowej postaci (min. 4 PK).
+    * **Ograniczenie:** **Nie można** kupować PŻ bezpośrednio dla istniejących postaci.
+5.  **(Opcjonalnie) Wykupienie Cechy Negatywnej:** Wymaga zgody MG, uzasadnienia i kosztuje **2 PK za każdy 1 PC**, który Cecha dawała.
+6.  **Konsekwencje Eliminacji Bandy:** Gracz, którego banda została całkowicie wyeliminowana (0 PK za misję), **otrzymuje 12 PK** na stworzenie **nowej bandy** od zera. Traci cały poprzedni postęp.
+
+### 5.3. Łączenie Scenariuszy i Konsekwencje
+
+* Wynik potyczki może wpływać na następny scenariusz. Np. przegrana misja ratunkowa może oznaczać, że w kolejnej misji trzeba będzie stawić czoła uratowanemu agentowi, który przeszedł na stronę wroga. Wygrana może dać dostęp do lepszego (choć nadal tymczasowego) sprzętu w następnej misji lub informacji ułatwiających zadanie.
+* Działania graczy mogą zmieniać "stan świata" kampanii – np. rozzłościć konkretnego dyrektora INT, zwrócić uwagę MOIRY, stworzyć nowy, nieprzewidziany paradoks, który stanie się tematem kolejnych misji.
+* MG powinien notować kluczowe wyniki i wydarzenia, aby budować spójność kampanii.
+
+### 5.4. Pomysły na Łuki Kampanijne (Skirmish)
+
+* **"Polowanie na..."**: Seria misji tropiących i konfrontujących zbuntowanego agenta INT lub groźną anomalię temporalną.
+* **"Artefakty Czasu"**: Kampania skupiona na odzyskiwaniu serii potężnych (i niebezpiecznych) przedmiotów rozrzuconych w czasie.
+* **"Wewnętrzna Robota"**: Gracze wplątani w intrygi między różnymi frakcjami INT, wykonujący misje sabotażowe lub szpiegowskie przeciwko innym zespołom.
+* **"Konsekwencje Korekty X"**: Seria misji mających na celu posprzątanie bałaganu wywołanego przez jedną z katastrofalnych operacji INT z przeszłości.
+* **"Przetrwać Audyt"**: MOIRA lub wewnętrzny nadzór przygląda się bandzie graczy – seria misji pod presją, gdzie każdy błąd może oznaczać zesłanie.
+
+## Rozdział 6: Narzędzia Mistrza Gry / Arbitra
+
+Ten rozdział zawiera tabele losowe i ściągawki ułatwiające prowadzenie potyczek i kampanii TEOHIPHIP Skirmish.
+
+### 6.1. Tabele Losowe
+
+* **Tabela 6.1: Komplikacje w Trakcie Potyczki (Rzut k6 na początku rundy, np. na 1)**
+    1.  **Anomalia Temporalna:** W losowym sektorze mapy czas płynie wolniej (ruch o połowę) lub szybciej (dodatkowy ruch/akcja?) przez 1 rundę.
+    2.  **Awiaria Sprzętu:** Losowa postać gracza musi wykonać Test Techniczny (Utrudnienie, jeśli nie ma Cechy *Techniczny Fachowiec*), aby móc używać swojej broni dystansowej/chronocykla w tej turze.
+    3.  **Nieoczekiwani Goście:** Pojawia się dodatkowy, losowy BN (wróg lub neutralny – np. zagubiony turysta czasowy, lokalna fauna).
+    4.  **Zmiana Warunków:** Nagła zmiana pogody/oświetlenia (burza, mgła, noc) wpływająca na LoS lub ruch.
+    5.  **Dyrektywa z Centrali:** MG wymyśla absurdalny, nowy (lub sprzeczny z obecnym) cel misji, który gracze *muszą* spróbować zrealizować oprócz głównego celu (np. "Zbadać populację lokalnych motyli!", "Zostawić ulotki reklamowe INT!").
+    6.  **Paradoks Rezonansowy:** Wszystkie postacie w promieniu 6" od losowego punktu muszą zdać Test Odporności na Paradoksy lub tracą 1 AP w tej turze.
+* **Tabela 6.2: Cele Misji Skirmishowej (Rzut k6)**
+    1.  **Eskorta:** Eskortuj NPC/obiekt do punktu ewakuacji.
+    2.  **Obrona:** Utrzymaj punkt/obiekt przez 6 rund.
+    3.  **Neutralizacja:** Wyeliminuj/przejmij kontrolę nad celem (ważny BN/obiekt).
+    4.  **Sabotaż/Zniszczenie:** Zniszcz wskazany obiekt i ucieknij.
+    5.  **Przejęcie/Zabezpieczenie:** Zdobądź kontrolę nad artefaktem/informacją.
+    6.  **"Korekta" Historyczna:** Wykonaj specyficzną interwencję w punkcie zapalnym.
+* **Tabela 6.3: Przykładowe Lokalizacje/Epoki (Rzut k6)**
+    1.  Prehistoryczna Dżungla (Pełna dinozaurów i niestabilnych roślin?).
+    2.  Starożytny Rzym/Grecja (Pole bitwy, forum, świątynia?).
+    3.  Średniowieczny Zamek/Osada (Oblężenie, targ, klasztor?).
+    4.  Dziki Zachód (Miasteczko, kanion, pociąg?).
+    5.  XX wiek (Okopy I WŚ, miasto ery prohibicji, baza wojskowa zimnej wojny?).
+    6.  Baza/Instalacja INT (Opuszczona, zniszczona, a może w pełni działająca?).
+* **(Inne potencjalne tabele:** Generator absurdalnych przedmiotów INT, Generator biurokratycznych przeszkód, Generator cech dla losowych BN-ów).
+
+### 6.2. Ściągawki
+
+* **Podsumowanie Zasad Skirmishowych:**
+    * Tura: 5-6 Rund. Aktywacja naprzemienna (1 postać/gracz). 2 AP na postać.
+    * Akcje (1 AP): Ruch (do SPD), Atak, Celowanie (+Adv), Krycie się (+Cover), Interakcja (Test). Pełny Ruch (2 AP, do 2xSPD).
+    * Testy: 2k6 (standard), 3k6 (Przewaga, wybierz 2), 1k6 (Utrudnienie). Sukces: 5+.
+    * LoS: True LoS. Ukrycie = Utrudnienie dla atakującego.
+    * Osłona: Ignoruje 1 sukces ataku.
+    * Obrażenia: 1 sukces = 1 PŻ. 0 PŻ = Eliminacja.
+    * Pula Inicjatywy: Kości = aktualne PŻ. Rzut co rundę. Wymiana 1 kości testu na 1 kość z puli = koszt 1 PŻ (nie akcja).
+* **Przykładowe Algorytmy BN:** (Skrócone wersje kluczowych algorytmów z Rozdziału 4).
+* **Słowniczek Terminów TEOHIPHIP:** Patrz [Słowniczek.md](Słowniczek.md).
