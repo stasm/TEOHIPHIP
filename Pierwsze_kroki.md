@@ -1,10 +1,10 @@
-# TEOHIPHIP: Pierwsze kroki czasownika
+# TEOHIPHIP: Pierwsze kroki
 
 Witaj Rekrucie! Ten dokument to Twój ekspresowy kurs przetrwania w absurdalnym świecie **TEOHIPHIP – Taktycznej Gry Skirmishowej o Podróżach w Czasie**. Zapnij pasy chronocykla, bo zaczynamy!
 
 ## Co to jest TEOHIPHIP?
 
-W skrócie: to **taktyczna gra figurkowa**, w której dowodzisz małą **bandą (1-3 postaci)** agentów Instytutu Temporystyki (INT), wysyłanych na krótkie, **celowe misje (potyczki)** w różne epoki historyczne. Gra łączy szybką akcję na stole bitwy z elementami RPG – Twoi agenci mają unikalne **Cechy** (zalety i wady), a kluczową mechaniką jest zarządzanie ryzykiem przez **Pulę Inicjatywy**. Wszystko to w sosie czarnego humoru, biurokracji i paradoksów rodem z prozy Stanisława Lema.
+W skrócie: to **taktyczna gra figurkowa**, w której dowodzisz małą **bandą (1-3 postaci)** czasowników, czyli agentów Instytutu Temporystyki (INT), wysyłanych na krótkie, **celowe misje (potyczki)** w różne epoki historyczne. Gra łączy szybką akcję na stole bitwy z elementami RPG – Twoi agenci mają unikalne **Cechy** (zalety i wady), a kluczową mechaniką jest zarządzanie ryzykiem przez **Pulę Inicjatywy**. Wszystko to w sosie czarnego humoru, biurokracji i paradoksów rodem z prozy Stanisława Lema.
 
 ## Podstawy Mechaniki (Jak Rzucać Kośćmi?)
 
@@ -69,7 +69,7 @@ To **kluczowa mechanika** TEOHIPHIP, dająca Ci kontrolę nad losowością!
 * PK możesz wydać **tylko** na **nowe Cechy Pozytywne** dla swoich agentów lub na **dodanie nowej postaci** do bandy (jeśli masz mniej niż 3). Nie można kupować PŻ bezpośrednio!
 * Jeśli cała Twoja banda zostanie wyeliminowana, dostajesz **12 PK na stworzenie nowej** (tracąc stary postęp).
 
-## Co Dalej?
+## Co dalej?
 
 Ten "Szybki Start" to tylko wierzchołek temporalnej góry lodowej! Aby w pełni poznać zasady tworzenia band, pełną listę Cech, szczegółowe zasady potyczek, reguły kampanii i zanurzyć się w absurdalnym świecie TEOHIPHIP, sięgnij po pełne wersje podręczników:
 

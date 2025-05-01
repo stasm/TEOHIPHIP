@@ -48,7 +48,7 @@ TEOHIPHIP Skirmish jest idealny dla graczy, którzy:
 ## Stan projektu
 
 Projekt jest w fazie aktywnego rozwoju. Główne dokumenty (w trakcie aktualizacji do fokusu skirmishowego):
-* [`Pierwsze_kroki_czasownika.md`](Pierwsze_kroki_czasownika.md): Ekspresowy kurs przetrwania w absurdalnym świecie TEOHIPHIP.
+* [`Pierwsze_kroki.md`](Pierwsze_kroki.md): Ekspresowy kurs przetrwania w absurdalnym świecie TEOHIPHIP.
 * [`Podręcznik_czasownika.md`](Podręcznik_czasownika.md): Podręcznik Gracza, zawierający zasady tworzenia band, zasady potyczek skirmishowych i kampanii.
 * [`Podręcznik_mistrza_gry.md`](Podręcznik_mistrza_gry.md): Podręcznik Mistrza Gry, zawierający szczegóły świata, zasady prowadzenia potyczek, projektowania scenariuszy, profile BN z algorytmami, zasady kampanii i narzędzia MG.
 * [`Cechy_postaci.md`](Cechy_postaci.md): Rozbudowana, podzielona tematycznie lista Cech Pozytywnych i Negatywnych.
