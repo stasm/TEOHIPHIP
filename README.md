@@ -1,64 +1,60 @@
-# Projekt TEOHIPHIP
+# Projekt TEOHIPHIP: Taktyczny Skirmish Temporalny
 
 ## O projekcie
 
-TEOHIPHIP RPG to projekt gry fabularnej (RPG) osadzonej w absurdalnym świecie podróży w czasie, inspirowanym "Podróżą dwudziestą" z "Dzienników gwiazdowych" Stanisława Lema oraz mechaniką tinyd6. Celem jest stworzenie lekkiego systemowo, narracyjnego doświadczenia RPG, które oddaje unikalny, satyryczny i pełen czarnego humoru klimat prozy Lema.
+TEOHIPHIP to **taktyczna gra skirmishowa z figurkami/znacznikami**, osadzona w absurdalnym świecie podróży w czasie inspirowanym "Podróżą dwudziestą" z "Dzienników gwiazdowych" Stanisława Lema. Gra wykorzystuje prostą i elastyczną mechanikę **tinyd6** jako fundament dla szybkich, dynamicznych potyczek małych **band** agentów Instytutu Temporystyki (INT).
+
+Celem projektu jest połączenie **taktycznej rozgrywki skirmishowej** (zarządzanie Punktami Akcji, wykorzystanie terenu, realizacja celów misji) z **głębokimi elementami RPG** (unikalne postacie z Cechami, zarządzanie ryzykiem przez Pulę Inicjatywy, rozwój bandy w kampanii) oraz oddanie niepowtarzalnego, **satyrycznego klimatu prozy Lema**, pełnego czarnego humoru, biurokratycznego chaosu i temporalnych paradoksów.
 
 ## Założenia i cele
 
-Naszym głównym celem jest stworzenie grywalnego settingu RPG opartego na koncepcji **Telechronicznej Optymalizacji Historii Powszechnej Hyperputerem (TEOHIPHIP)**. Jako bazę mechaniczną wykorzystujemy prosty i elastyczny system **tinyd6**, wzbogacony o modyfikacje wspierające specyfikę świata, takie jak system cech pozytywnych/negatywnych, mechanika puli inicjatywy oraz system zarządzania bandą postaci.
+Głównym celem jest stworzenie grywalnego systemu skirmishowego opartego na koncepcji **Telechronicznej Optymalizacji Historii Powszechnej Hyperputerem (TEOHIPHIP)**. Jako bazę mechaniczną wykorzystujemy zmodyfikowany system **tinyd6**, wspierający szybką akcję i taktyczne decyzje.
 
-Projekt ma na celu oddanie atmosfery **biurokratycznego chaosu, technologicznej niekompetencji, absurdalnych paradoksów czasowych i czarnego humoru**, charakterystycznych dla opowieści Lema o Instytucie Temporystyki (INT). Rozgrywka skupia się na **narracji, kreatywnym rozwiązywaniu problemów (lub ich tworzeniu), komizmie sytuacji i konsekwencjach** działań graczy w niestabilnej czasoprzestrzeni, często prowadzących do niezamierzonych rezultatów. Dążymy do stworzenia gry, w której historia i absurd są ważniejsze od skomplikowanych reguł.
-
-Gra skierowana jest przede wszystkim do fanów twórczości Stanisława Lema, miłośników lekkich systemów RPG oraz graczy ceniących humor, satyrę i nieszablonowe podejście do science-fiction i podróży w czasie.
+Projekt ma na celu:
+* Dostarczenie dynamicznej, taktycznej rozgrywki skirmishowej w unikalnym settingu.
+* Oddanie atmosfery **biurokratycznego chaosu, technologicznej niekompetencji, absurdalnych paradoksów czasowych i czarnego humoru** jako elementów wzbogacających rozgrywkę i scenariusze.
+* Umożliwienie graczom tworzenia i rozwijania **unikalnych band agentów INT** dzięki systemowi Cech i Punktów Kreacji.
+* Zintegrowanie mechanik (jak Pula Inicjatywy) dodających **warstwę zarządzania ryzykiem i zasobami**.
+* Skupienie rozgrywki na **krótkich (5-6 rund), celowych misjach (potyczkach)**, z opcją łączenia ich w kampanie.
+* Zapewnienie **prostych zasad i płynnej rozgrywki**, m.in. przez wykorzystanie algorytmów dla postaci niezależnych (BN).
 
 ## Główne idee
 
-**Świat gry** osadzony jest w realiach, gdzie gracze wcielają się w **agentów (czasowników, ankieterów, techników, etc.) Instytutu Temporystyki (INT)** – potężnej organizacji z przyszłości, która próbuje "naprawić" i "upiększyć" historię za pomocą podróży w czasie. Niestety, każda próba "optymalizacji" prowadzi do **jeszcze większego bałaganu, katastrof i paradoksów** takich jak zniszczenie planet, zagłada dinozaurów czy powstanie człowieka jako efekt sabotażu.
-
-Źródłem **konfliktów** i przygód są nie tylko misje zlecane przez INT, ale także **awarie sprzętu** (np. zawodnych chronocykli), **paradoksy czasowe, absurdy biurokracji, wewnętrzne intrygi** w Instytucie oraz nieprzewidziane konsekwencje własnych działań graczy. **Postacie** są trybikami w tej machinie – często niekompetentnymi, cynicznymi lub po prostu próbującymi przetrwać. Ich tworzenie opiera się na systemie **cech pozytywnych i negatywnych**, co pozwala budować bohaterów z unikalnym zestawem zalet i (licznych) wad.
-
-W zakresie **rozgrywki**, mechanika tinyd6 (rzut 1-3k6, sukces na 5+) stanowi podstawę do rozstrzygania ryzykownych akcji. Kluczowe są jednak **opisy, pomysłowość graczy i konsekwencje narracyjne**, często zabarwione absurdem i ironią. Walka jest możliwa, ale często mniej istotna niż radzenie sobie z logiką czasu, wadliwym sprzętem czy absurdalnymi regulaminami.
+* **Świat gry:** Gracze dowodzą bandami agentów **Instytutu Temporystyki (INT)** – organizacji z przyszłości, której nieudolne próby "naprawiania" historii prowadzą do **katastrof, paradoksów i absurdalnych sytuacji** w różnych epokach. Ten chaos jest tłem i źródłem misji oraz komplikacji.
+* **Rozgrywka:** Rdzeniem gry są **taktyczne potyczki skirmishowe**. Gracze używają **Punktów Akcji (AP)** do manewrowania swoimi agentami, wykorzystania osłon, atakowania przeciwników i realizacji celów misji w **limicie 5-6 rund**. **Pula Inicjatywy** (zasilana Punktami Życia) pozwala manipulować wynikami testów, dodając element zarządzania ryzykiem. Humor i absurd wynikają z kontekstu misji, działania Cech postaci, losowych komplikacji i konsekwencji działań.
+* **Konflikty:** Obejmują starcia z **rywalizującymi zespołami INT, agentami MOIRY, zbuntowanymi zesłańcami, siłami historycznymi, zmutowaną fauną** lub **paradoksalnymi bytami**, a także radzenie sobie z **awariami sprzętu** i **biurokratycznymi absurdami** wpływającymi na misję.
+* **Postacie i Bandy:** Gracze tworzą bandy składające się z 1-3 agentów, wykorzystując **Punkty Kreacji (PK)** i system **Cech (pozytywnych i negatywnych)**. Pozwala to na dużą różnorodność taktyczną i personalizację zespołu. Progresja w kampanii opiera się na zdobywaniu PK i rozwijaniu Cech bandy.
 
 ## Dla kogo jest ten projekt?
 
-TEOHIPHIP jest idealny dla graczy, którzy:
-- Lubią taktyczne aspekty gier RPG
-- Chcą eksperymentować z różnymi konfiguracjami postaci
-- Preferują narrację koncentrującą się na małych, zgranych zespołach
-- Cenią sobie prostotę mechaniki tinyd6, ale szukają większej głębi strategicznej
+TEOHIPHIP Skirmish jest idealny dla graczy, którzy:
+* Lubią **taktyczne gry skirmishowe** z figurkami/znacznikami.
+* Szukają gry bitewnej z **większą głębią postaci i elementami RPG** (progresja, unikalne zdolności).
+* Cenią **proste i elastyczne mechaniki**, pozwalające skupić się na akcji i decyzjach.
+* Są fanami **twórczości Stanisława Lema**, czarnego humoru, satyry i absurdalnych klimatów science-fiction.
+* Chcą szybkiej rozgrywki opartej na **celowych scenariuszach**.
 
 ## Główne mechaniki
 
-### System Punktów Kreacji (PK)
-
-Każdy gracz otrzymuje 12 Punktów Kreacji do rozdzielenia między swoje postacie:
-- 1 PK = 1 Punkt Życia (PŻ) dla postaci (w zakresie 4-8 PŻ)
-- 1 PK = 3 Punkty Cech (PC) do wydania na cechy pozytywne
-
-Ten system umożliwia tworzenie różnorodnych konfiguracji band:
-- Pełna banda (3 postacie): np. 3×4 PŻ, 0 bonusowych PC
-- Duet (2 postacie): np. 4+6 PŻ, 6 PC lub 2×4 PŻ, 12 PC
-- Solista (1 postać): np. 8 PŻ, 12 PC lub 6 PŻ, 18 PC
-
-### Ekonomia akcji
-
-W swojej turze gracz aktywuje jedną ze swoich postaci. Oznacza to, że:
-- Banda 3 postaci daje 3 aktywacje na rundę
-- Duet daje 2 aktywacje na rundę
-- Solista ma tylko 1 aktywację na rundę (ale jest znacznie silniejszy)
-
-### Dynamiczna równowaga puli kości
-
-W systemie liczba punktów życia wpływa na pulę kości inicjatywy:
-- Solista z 8 PŻ ma 8 kości inicjatywy (duża szansa na sukces)
-- Duet ma łącznie 10 kości (4+6)
-- Trio ma łącznie 12 kości (3×4), ale rozłożone na trzy testy
-
-Ta naturalna przewaga solisty jest równoważona przez mechanikę obrażeń - ponieważ koncentruje on na sobie ataki przeciwników, jego pula kości szybko maleje w trakcie starcia, podczas gdy drużyna może rozłożyć obrażenia między swoich członków.
+* **Rdzeń tinyd6:** Testy 2k6 (standard), 3k6 (Przewaga), 1k6 (Utrudnienie), sukces na 5+.
+* **System Band i Punktów Kreacji (PK):** Gracz kontroluje 1-3 postaci; 12 PK na start bandy (1 PK = 1 PŻ lub 3 PC).
+* **System Cech:** Rozbudowana lista Cech Pozytywnych i Negatywnych definiujących postacie.
+* **System Punktów Akcji (AP):** Każda postać ma 2 AP na turę do wydania na Ruch, Atak (max 1/turę), Celowanie, Krycie się, Interakcję itp.
+* **Pula Inicjatywy:** Mechanika zarządzania ryzykiem; kości = aktualne PŻ (max 6), wymiana kości testu na kość z puli kosztuje 1 PŻ.
+* **Zasady Skirmishowe:** Proste reguły Ruchu, Linii Wzroku (LoS), Ukrycia (Utrudnienie) i Osłony (ignorowanie 1 sukcesu).
+* **Automatyzacja BN:** Przeciwnicy działają według prostych algorytmów, minimalizując obciążenie MG/Arbitra.
+* **Progresja Kampanii:** Zdobywanie PK (3 za wygraną, 1 za przegraną) i wydawanie ich na nowe Cechy lub Postacie; reset PŻ i ekwipunku między misjami.
 
 ## Stan projektu
 
-Projekt jest w fazie rozwoju. Główne dokumenty to:
-* `Podręcznik_czasownika.md`: Główny podręcznik opisujący świat, zasady tworzenia postaci i mechaniki.
-* Pliki w folderze `designs`: Zawierają szczegółowe opracowania i propozycje modyfikacji mechanicznych (system cech, pula inicjatywy, zarządzanie bandą) oraz analizę settingu.
+Projekt jest w fazie aktywnego rozwoju. Główne dokumenty (w trakcie aktualizacji do fokusu skirmishowego):
+* [`Podręcznik_czasownika.md`](Podręcznik_czasownika.md): Podręcznik Gracza, zawierający zasady tworzenia band, zasady potyczek skirmishowych i kampanii.
+* [`Podręcznik_mistrza_gry.md`](Podręcznik_mistrza_gry.md): Podręcznik Arbitra/MG, zawierający szczegóły świata, zasady prowadzenia potyczek, projektowania scenariuszy, profile BN z algorytmami, zasady kampanii i narzędzia MG.
+* [`Cechy_postaci.md`](Cechy_postaci.md): Rozbudowana, podzielona tematycznie lista Cech Pozytywnych i Negatywnych.
+* [`Scenariusze.md`](Scenariusze.md): Opis misji i scenariuszy, w tym przykłady i pomysły na misje.
+* [`Słowniczek.md`](Słowniczek.md): Słownik terminów i pojęć używanych w grze.
+* *Inne pliki projektowe (w folderze `designs`)*: Wcześniejsze wersje i analizy mechanik.
+
+---
+
+*Czy jesteś gotów dołączyć do Instytutu i siać (niezamierzony) chaos w czasoprzestrzeni?*
