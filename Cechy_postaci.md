@@ -1,187 +1,200 @@
 # TEOHIPHIP: Cechy postaci
 
-> Poniżej znajduje się **rozszerzona, robocza lista cech** dla TEOHIPHIP RPG, podzielona na kategorie tematyczne. Koszty (w punktach cech - PC) i zyski punktowe są orientacyjne. Wartości w nawiasach oznaczają koszt (-) lub zysk (+) Punktów Cech (PC).
+Poniżej znajduje się zaktualizowana lista cech postaci dla gry TEOHIPHIP Skirmish, oparta na kanonicznym zestawieniu projektowym (designs/09_cechy_lista.md). Cechy zostały pogrupowane tematycznie. Wartości w nawiasach oznaczają koszt (-) lub zysk (+) Punktów Cech (PC).
 
-## Cechy pozytywne (kosztują punkty cech)
+## Cechy fizyczne
 
-### Cechy Fizyczne i Żywotnościowe
+### Negatywne
 
-* **Hartowany (-4 PC):** Twoja maksymalna liczba Punktów Życia (PŻ) jest zwiększona o 2.
-    > *Jesteś zbudowany z twardszego materiału niż standardowy agent INT. Albo po prostu masz więcej szczęścia.*
-* **Witalność (-3 PC):** Gdy na początku rundy Twoje PŻ są na poziomie połowy maksimum lub niżej (zaokrąglając w dół), rzuć dodatkową kością k6 do swojej Puli Inicjatywy na tę turę.
-    > *Im gorzej się czujesz, tym bardziej spinasz się do działania. Albo to tylko adrenalina przed nieuchronnym końcem.*
-* **Wytrzymały (-2 PC):** Każdą nową misję (potyczkę) zaczynasz z +1 tymczasowym PŻ ponad swoje maksimum. Ten dodatkowy PŻ znika bezpowrotnie po pierwszym Teście, który wykonasz lub któremu zostaniesz poddany w tej misji.
-    > *Zawsze zaczynasz z werwą... która szybko mija, gdy rzeczywistość (lub pocisk plazmowy) uderza.*
-* **Regeneracja (-4 PC):** Na początku swojej aktywacji odzyskujesz 1 PŻ, jeśli Twoje aktualne PŻ są na poziomie połowy maksimum lub niżej (zaokrąglając w dół).
-    > *Twoje ciało (lub nanoboty w krwiobiegu) szybko łatają dziury. Bardzo przydatne w tym zawodzie.*
-* **Drugi oddech (-3 PC):** Gdy Twoje PŻ spadną do dokładnie 1, natychmiast rzuć 1k3 i odzyskaj tyle PŻ. Można użyć raz na misję (potyczkę).
-    > *Już prawie byłeś po drugiej stronie, ale coś kazało ci walczyć dalej. Może niedokończony raport?*
-* **Medytacja (-2 PC):** Raz na misję (potyczkę), możesz poświęcić 2 AP (całą swoją aktywację), aby odzyskać 1 PŻ. Wymaga to spokoju i koncentracji (trudne w trakcie walki!).
-    > *Chwila zen w środku temporalnego chaosu potrafi zdziałać cuda. Albo przynajmniej trochę podreperować zdrowie.*
-* **Zimna krew (-3 PC):** `Przewaga` na testy odporności na strach, panikę i stres wywołany absurdalnymi lub niebezpiecznymi sytuacjami.
-    > *Gdy twój chronocykl zaczyna płonąć tuż nad gniazdem pterodaktyli, panika jest ostatnią rzeczą, na którą masz czas.*
-* **Z Nawiązką (-3 PC):** Gdy w wyniku Testu uzyskasz sukces krytyczny (naturalnie wyrzucone dwie lub więcej szóstki, w zależności od liczby kości w Teście), natychmiast odzyskujesz 1 PŻ.
-    > *Perfekcyjne wykonanie dodaje ci animuszu.*
+* **Otyły (+4 PC):** Twoja wartość Ruchu (SPD) jest zmniejszona o 2". Otrzymujesz Utrudnienie na testy związane ze zwinnością, wspinaczką i unikaniem przeszkód fizycznych.
+    >   *Dodatkowe kilogramy to dodatkowy balast, szczególnie gdy trzeba uciekać przed paradoksem lub rozgniewanym tryceratopsem.*
+* **Anemiczny (+3 PC):** Bezpośrednio po wykonaniu akcji wymagającej dużego wysiłku fizycznego (np. Pełny Ruch, Wspinaczka, Walka Wręcz przez całą turę), otrzymujesz Utrudnienie na wszystkie akcje wymagające wysiłku fizycznego w Twojej następnej turze.
+    >   *Twoja wytrzymałość szybko się kończy, pozostawiając Cię zadyszanym i osłabionym w najmniej odpowiednich momentach.*
+* **Astmatyk (+3 PC):** Otrzymujesz Utrudnienie na pierwszy Test wykonywany w następnej turze po wykonaniu akcji Pełnego Ruchu (wydałeś oba AP na ruch).
+    >   *Po sprincie przez korytarze czasu (lub prehistoryczną dżunglę) musisz złapać oddech, co utrudnia precyzyjne działanie.*
+* **Powolny (+3 PC):** Twoja podstawowa wartość Ruchu (SPD) jest zredukowana do 4".
+    >   *Poruszasz się z gracją i prędkością lodowca, co może być problematyczne, gdy czas ucieka.*
+* **Słabeusz (+3 PC):** Otrzymujesz Utrudnienie na wszystkie testy związane z użyciem siły fizycznej (np. wyważanie drzwi, podnoszenie ciężkich przedmiotów, siłowanie się).
+    >   *Twoja siła nie jest Twoją mocną stroną. Lepiej zostawić dźwiganie ciężarów (i otwieranie słoików z epoki kamienia) komuś innemu.*
+
+### Pozytywne
+
+* **Zwinny (-3 PC):** Otrzymujesz Przewagę na testy związane ze zwinnością, takie jak unikanie pułapek obszarowych, skradanie się, utrzymanie równowagi czy wykonywanie akrobatycznych manewrów.
+    >   *Poruszasz się z gracją i precyzją, omijając przeszkody i zagrożenia z łatwością.*
+* **Oburęczność (-4 PC):** Potrafisz walczyć równie sprawnie obiema rękami. Ignorujesz ewentualne Utrudnienia wynikające z używania broni w "słabszej" ręce (np. podczas walki dwiema broniami).
+    >   *Dla Ciebie nie ma znaczenia, którą ręką zadajesz cios – obie są równie zabójcze.*
+* **Szybki (-4 PC):** Twoja wartość Ruchu (SPD) jest zwiększona o 2".
+    >   *Poruszasz się szybciej niż przeciętny agent, co daje Ci przewagę w pościgach i manewrowaniu na polu bitwy.*
+
+## Cechy żywotności
+
+### Negatywne
+
+* **Cherlawy (+6 PC):** Twoja maksymalna liczba Punktów Życia (PŻ) nie może przekroczyć 2 (nawet z innymi cechami).
+    >   *Jesteś zbudowany z wyjątkowo kruchego materiału. Każde draśnięcie może być groźne.*
+* **Nadwrażliwy (+4 PC):** Zawsze otrzymujesz o 1 więcej obrażeń (tracisz o 1 PŻ więcej) z każdego udanego ataku lub innego źródła, które zadaje Ci obrażenia.
+    >   *Odczuwasz ból (i efekty temporalnych anomalii) znacznie intensywniej niż inni. Nawet papierkowa robota wydaje się fizycznie bolesna.*
+* **Wątłe zdrowie (+3 PC):** Twoja maksymalna liczba Punktów Życia (PŻ) jest na stałe zmniejszona o 1.
+    >   *Twoje ciało jest delikatne. Lepiej unikać zbędnego ryzyka i bezpośredniej konfrontacji.*
+* **Zmęczliwy (+3 PC):** Aby odzyskać Punkty Życia z jakiegokolwiek źródła (np. cechy Regeneracja, Medytacja, pomoc medyka, ale nie z resetu między misjami), musisz wykonać Test.
+    >   *Twoje ciało stawia opór próbom leczenia. Każdy odzyskany punkt zdrowia wymaga dodatkowego wysiłku woli lub szczęścia.*
+
+### Pozytywne
+
+* **Krzepki (-2 PC):** Twoja maksymalna liczba Punktów Życia (PŻ) jest na stałe zwiększona o 1.
+    >   *Jesteś nieco twardszy niż standardowy rekrut INT.*
+* **Medytacja (-2 PC):** Raz na misję (potyczkę), możesz poświęcić 2 AP (całą swoją aktywację), aby odzyskać 1 PŻ. Wymaga to jednak spokoju – nie możesz być w kontakcie z przeciwnikiem ani pod bezpośrednim ostrzałem.
+    >   *Chwila zen w środku temporalnego chaosu potrafi zdziałać cuda. Albo przynajmniej trochę podreperować zdrowie.*
+* **Nieustępliwy (-2 PC):** W momencie, gdy Twoje Punkty Życia spadną do dokładnie 1, natychmiast rzuć dodatkową kością k6 i dodaj ją do swojej Puli Inicjatywy na tę rundę.
+    >   *Gdy jesteś przyciśnięty do muru, odkrywasz w sobie nowe pokłady determinacji i szczęścia.*
+* **Wytrzymały (-2 PC):** Każdą nową misję (potyczkę) zaczynasz z +1 tymczasowym PŻ ponad swoje maksimum. Ten dodatkowy PŻ znika bezpowrotnie po pierwszym Teście.
+    >   *Zawsze zaczynasz z werwą i dodatkową odpornością... która szybko mija, gdy rzeczywistość (lub pocisk plazmowy) uderza.*
 * **Adrenalina (-3 PC):** Za każdym razem, gdy otrzymujesz obrażenia (tracisz PŻ w wyniku ataku lub innego efektu), natychmiast rzuć kością k6 i dodaj wynik do swojej Puli Inicjatywy na tę rundę.
-    > *Ból tylko Cię motywuje. Albo to szok pourazowy.*
+    >   *Ból tylko Cię motywuje i wyostrza zmysły. Albo to tylko szok pourazowy.*
+* **Drugi oddech (-3 PC):** Gdy Twoje PŻ spadną do dokładnie 1, natychmiast rzuć 1k3 i odzyskaj tyle PŻ. Można użyć tylko raz na misję (potyczkę).
+    >   *Już prawie byłeś po drugiej stronie, ale coś kazało Ci walczyć dalej. Może niedokończony raport? Albo wizja premii?*
+* **Witalność (-3 PC):** Gdy na początku Twojej rundy aktywacji Twoje aktualne PŻ są na poziomie połowy maksimum lub niżej (zaokrąglając w dół), rzuć dodatkową kością k6 do swojej Puli Inicjatywy na tę turę.
+    >   *Im gorzej się czujesz, tym bardziej spinasz się do działania. Twoja wola przetrwania zasila Twoje szczęście.*
+* **Z Nawiązką (-3 PC):** Gdy w wyniku Testu uzyskasz sukces krytyczny (naturalnie wyrzucone dwie lub więcej szóstki, zależnie od liczby kości w Teście), natychmiast odzyskujesz 1 PŻ.
+    >   *Perfekcyjne wykonanie zadania dodaje Ci animuszu i leczy drobne rany.*
+* **Hartowany (-4 PC):** Twoja maksymalna liczba Punktów Życia (PŻ) jest na stałe zwiększona o 2.
+    >   *Jesteś zbudowany z twardszego materiału niż standardowy agent INT. Albo po prostu masz więcej szczęścia w kwestii przeżycia.*
+* **Odporny (-4 PC):** Raz na misję (potyczkę), gdy Twoje PŻ miałyby spaść do 0 lub poniżej, zamiast tego zostają na poziomie 1 PŻ.
+    >   *Masz niesamowitą zdolność do przetrwania ciosów, które powaliłyby innych. Śmierć musi poczekać.*
+* **Twardziel (-5 PC):** Wrodzona odporność lub wysokiej jakości pancerz (może być opisowy). Gdy otrzymujesz obrażenia po raz pierwszy w trakcie misji, zredukuj ich liczbę o 1 (do minimum 0).
+    >   *Pierwszy cios zawsze boli najmniej. Albo po prostu masz lepszy pancerz niż inni.*
+* **Regeneracja (-6 PC):** Na początku Twojej aktywacji automatycznie odzyskujesz 1 PŻ, jeśli Twoje aktualne PŻ są na poziomie połowy maksimum lub niżej (zaokrąglając w dół).
+    >   *Twoje ciało (lub nanoboty w krwiobiegu) szybko łatają dziury. Bardzo przydatne w tym niebezpiecznym zawodzie.*
 
-### Cechy Mentalne i Percepcyjne
+## Cechy zarządzania losowością
 
-* **Odporność na paradoksy (-5 PC):** `Przewaga` na testy Woli/Odporności przeciwko dezorientacji, utracie pamięci lub szaleństwu wywołanemu przez paradoksy czasowe.
-    > *Widziałeś swoje narodziny, własną śmierć i rozmawiałeś ze swoim pra-pra-wnukiem wczoraj – co może cię jeszcze zdziwić?*
-* **Intuicja temporalna (-3 PC):** `Przewaga` na testy związane z wyczuwaniem anomalii czasowych, oszacowaniem właściwej epoki lub przewidywaniem bezpośrednich skutków ubocznych zmian w czasie.
-    > *Czasem czujesz swędzenie w lewym uchu tuż przed tym, jak historia postanawia zrobić fikołka.*
-* **Uważność (-2 PC):** Jeśli w poprzedniej "turze" (scenie/rundzie) nie wykorzystałeś ani jednej kości ze swojej Puli Inicjatywy, na początku nowej rundy rzuć dodatkową kością k6 do Puli.
-    > *Cierpliwość i obserwacja przynoszą korzyści. Albo po prostu miałeś szczęście, że nic się nie działo.*
-* **Zmysł historyczny (-2 PC):** `Przewaga` na testy wiedzy o historii (tej "oficjalnej" i tej "poprawionej"), co pozwala unikać rażących anachronizmów lub wykorzystywać wiedzę o przyszłych wydarzeniach.
-    > *Pamiętasz, że w tej epoce lepiej nie wspominać o antybiotykach, chyba że chcesz skończyć na stosie jako czarownik.*
+### Negatywne
 
-### Umiejętności i Wiedza
-
-* **Pilot chronocykla (-3 PC):** `Przewaga` na testy pilotowania standardowych chronocykli, zwłaszcza lądowania i startu.
-    > *Niektórzy rodzą się z darem do omijania temporalnych dziur, nawet jeśli Instytut daje im do ręki rozklekotany złom.*
-* **Techniczny fachowiec (-4 PC):** `Przewaga` na testy naprawy chronotechnologii i innego sprzętu Instytutu.
-    > *Gdy taśma temporalna i kopniak nie wystarczą, potrzebny jest ktoś, kto naprawdę wie, który kabelek odpowiada za *nie*rozpadnięcie się na kwarki.*
-* **Biurokratyczny spryt (-3 PC):** `Przewaga` na testy związane z nawigacją w biurokracji INT, zdobywaniem pozwoleń, fałszowaniem dokumentów lub wykorzystywaniem regulaminów na własną korzyść.
-    > *Wiesz, że odpowiedni formularz, złożony w trzech kopiach z właściwą pieczątką, potrafi zatrzymać nawet inwazję mongolską... przynajmniej na czas procedowania wniosku.*
-* **Poliglota historyczny (-2 PC):** `Przewaga` na testy związane z szybkim zrozumieniem i nauką języków z różnych epok historycznych.
-    > *Gdy musisz wytłumaczyć Rzymianinowi, że nie jesteś bogiem, a tylko twoja maszyna czasu się zepsuła, znajomość łaciny bardzo się przydaje.*
-* **Kamuflaż doskonały (-3 PC):** `Przewaga` na testy związane z wtopieniem się w tłum w różnych epokach historycznych (ubiór, zachowanie).
-    > *Potrafisz wmieszać się w tłum zarówno na średniowiecznym jarmarku, jak i podczas rewolucji francuskiej, udając odpowiednio tępą minę.*
-* **Mistrz improwizacji (-4 PC):** `Przewaga` na testy, gdy próbujesz użyć posiadanego sprzętu (nawet uszkodzonego lub nieadekwatnego) w zupełnie nieprzewidziany, kreatywny sposób.
-    > *Spinacz biurowy z XXVII wieku? W rękach eksperta to wytrych, broń, a nawet tymczasowy stabilizator strumienia czasowego!*
-
-### Pula Inicjatywy i Manipulacja Losem
-
-* **Strateg (-3 PC):** Raz na początku swojej aktywacji możesz przerzucić jedną, dowolnie wybraną kość ze swojej aktualnej Puli Inicjatywy. Musisz zaakceptować nowy wynik.
-    > *Zawsze szukasz lepszych opcji, nawet jeśli oznacza to kuszenie losu.*
-* **Mistyk (-3 PC):** Raz na początku swojej aktywacji możesz wybrać jedną kość ze swojej Puli Inicjatywy i zwiększyć LUB zmniejszyć jej wartość o 1 (wynik 6 nie może stać się 7, a 1 nie może stać się 0).
-    > *Potrafisz delikatnie naginać prawdopodobieństwo. Albo po prostu czasem udaje ci się oszukać przy rzucie.*
-* **Szczęściarz (-2 PC):** Na początku swojej rundy, jeśli w Twojej Puli Inicjatywy znajduje się kość z wynikiem 1, możesz ją natychmiast przerzucić. Musisz zaakceptować nowy wynik.
-    > *Nawet pechowa jedynka to dla ciebie szansa na coś lepszego.*
-* **Hazardzista (-3 PC):** Raz na początku swojej aktywacji możesz zdecydować o przerzuceniu WSZYSTKICH kości w swojej Puli Inicjatywy. Musisz zaakceptować nowy zestaw wyników.
-    > *Wszystko albo nic! Czasem trzeba zaryzykować, by wygrać... albo spektakularnie przegrać.*
-* **Precyzja (-3 PC):** Raz na misję (potyczkę), na początku swojej aktywacji możesz wybrać jedną kość ze swojej Puli Inicjatywy i ustawić ją na dowolną wybraną wartość od 1 do 6.
-    > *Są momenty, kiedy nie można polegać na szczęściu. Trzeba wziąć sprawy (i kości) w swoje ręce.*
-* **Przezorny (-3 PC):** Na początku swojej rundy możesz zdecydować, aby zachować jedną, dowolnie wybraną, niewykorzystaną kość z Puli Inicjatywy z *poprzedniej* rundy. Ta kość pozostaje w Twojej puli na bieżącą rundę (ale przepada na jej koniec, jeśli nie zostanie użyta).
-    > *Zawsze myślisz o krok do przodu, oszczędzając szczęście na czarną godzinę.*
-* **Nieustępliwy (-2 PC):** Kiedy Twoje PŻ spadną do dokładnie 1, natychmiast rzuć dodatkową kością k6 i dodaj ją do swojej Puli Inicjatywy na tę rundę.
-    > *Gdy przyciśnięty do muru, odkrywasz w sobie nowe pokłady determinacji.*
-* **Ekonomiczny (-3 PC):** Raz na rundę możesz wykonać jedną wymianę kości z Puli Inicjatywy bez płacenia kosztu 1 PŻ.
-    > *Potrafisz oszczędzać energię (i punkty życia) tam, gdzie inni ją trwonią.*
-* **Wytrwały (-3 PC):** Gdy Twoje aktualne PŻ wynoszą 2 lub mniej, każda wymiana kości z Puli Inicjatywy jest dla Ciebie darmowa (nie kosztuje PŻ).
-    > *Na skraju wyczerpania działasz na czystej woli przetrwania, nie licząc kosztów.*
-* **Opanowany (-4 PC):** Możesz wydać (usunąć z puli) kość o wartości 6 ze swojej Puli Inicjatywy, aby automatycznie uznać dowolny wykonywany przez siebie Test za zdany z jednym sukcesem, bez potrzeby rzucania kośćmi. Nadal płacisz normalny koszt 1 PŻ za "wymianę" tej szóstki.
-    > *Są sytuacje wymagające absolutnej pewności. Twoja pewność kosztuje, ale jest niezawodna.*
-* **Oszust (-3 PC):** Raz na misję (potyczkę), możesz użyć 1 AP, aby wybrać jedną kość w swojej Puli Inicjatywy i odwrócić jej wartość na przeciwną stronę (1 staje się 6, 2 staje się 5, 3 staje się 4 – i na odwrót).
-    > *Czasem trzeba trochę nagiąć zasady prawdopodobieństwa... albo po prostu oszukać.*
-* **Nocny Łowca (-3 PC):** Podczas scen/potyczek rozgrywających się w nocy lub w warunkach ograniczonej widoczności (ciemność), dodaj +1 do wartości *każdej* kości w Twojej Puli Inicjatywy (wynik 6 pozostaje 6).
-    > *Ciemność jest Twoim sprzymierzeńcem. Widzisz w niej możliwości, których inni nie dostrzegają.*
-* **Szczęście idioty (-5 PC):** Raz na sesję możesz przerzucić dowolny swój nieudany rzut. Musisz zaakceptować drugi wynik. Fortuna sprzyja niekompetentnym.
-    > *Wszechświat zdaje się chronić tych, którzy nie do końca rozumieją, jak wielkie niebezpieczeństwo na siebie ściągają.*
-
-### Interakcje Społeczne i Zespołowe
-
-* **Koneksje w INT (-2 PC):** Masz "znajomego" w jakimś departamencie, który może czasem udzielić informacji lub przysługi (oczywiście nie za darmo).
-    > *Znasz kogoś w dziale zaopatrzenia, kto za butelkę dobrej brandy z XX wieku potrafi "zgubić" twój wniosek o zesłanie.*
-* **Przywódca (-3 PC):** Raz na swoją turę, możesz użyć 1 AP, aby przekazać jedną kość ze swojej Puli Inicjatywy sojusznikowi znajdującemu się w zasięgu wzroku. Sojusznik dodaje tę kość do swojej puli na tę turę.
-    > *Potrafisz inspirować innych i dzielić się swoim szczęściem... lub po prostu podrzucać im kości, których sam nie potrzebujesz.*
-* **Ofiara (-2 PC):** Możesz użyć 1 AP, aby stracić 1 PŻ i przywrócić 1 PŻ sojusznikowi znajdującemu się w kontakcie bazowym.
-    > *Twoja troska o innych jest godna podziwu. Albo po prostu wiesz, że żywy sojusznik to lepsza tarcza.*
-* **Drużynowy (-2 PC):** Jeśli na koniec rundy okaże się, że każda postać z Twojej bandy (włączając Ciebie) wykonała w tej rundzie co najmniej jeden Test zakończony przynajmniej jednym sukcesem, odzyskujesz 1 PŻ.
-    > *Sukces zespołu to Twój sukces. I trochę mniej siniaków.*
-* **Obrońca (-3 PC):** Gdy sojusznik znajdujący się w zasięgu Twojego wzroku otrzymuje obrażenia, możesz (jako reakcja, nie akcja) wydać kość o wartości 5 lub 6 ze swojej Puli Inicjatywy (płacąc normalny koszt 1 PŻ za wymianę), aby zredukować liczbę zadanych mu obrażeń o 1.
-    > *Instynktownie chronisz swoich towarzyszy, dzieląc się swoim szczęściem lub przyjmując część ciosu na siebie.*
-
-### Wyposażenie i Zasoby
-
-* **Rytualista Temporalny (-2 PC):** Raz na misję (potyczkę), możesz poświęcić (permanentnie zniszczyć) jeden posiadany przedmiot oznaczony jako "Artefakt Temporalny" lub "Niestabilny Komponent", aby natychmiast przerzucić wszystkie kości w swojej Puli Inicjatywy. Musisz zaakceptować nowy wynik.
-    > *Rozbijając jeden paradoks, tworzysz nowy... ale przynajmniej masz nowe kości!*
-
-## Cechy negatywne (dają punkty cech)
-
-### Cechy Fizyczne i Żywotnościowe
-
-* **Wątłe zdrowie (+3 PC):** Twoja maksymalna liczba Punktów Życia (PŻ) jest zmniejszona o 1.
-    > *Konstrukcja delikatna, podatna na uszkodzenia. Lepiej unikaj bezpośredniej konfrontacji.*
-* **Zmęczliwy (+3 PC):** Za każdym razem, gdy odzyskujesz PŻ (z Cech, akcji Medytacja itp., ale nie z resetu między misjami), odzyskujesz o 1 PŻ mniej niż powinieneś (minimum 0).
-    > *Regeneracja przychodzi ci z trudem. Każdy siniak goi się dłużej.*
-* **Nadwrażliwy (+4 PC):** Otrzymujesz o 1 więcej obrażeń (tracisz o 1 PŻ więcej) z każdego źródła, które zadaje Ci obrażenia.
-    > *Wszystko boli bardziej. Nawet biurokracja.*
-* **Uzależniony (+3 PC):** Jesteś uzależniony od jakiejś substancji (kawa z XX wieku, syntetyczny tytoń, żelki z ery dinozaurów?). Na początku każdego "dnia" przygody (lub co określoną liczbę misji w kampanii) tracisz 1 PŻ, jeśli nie zażyjesz swojej używki. Zdobycie używki może być celem misji lub wymagać Testów.
-    > *Bez tego ani rusz... dosłownie.*
-
-### Cechy Mentalne i Percepcyjne
-
-* **Podatność na paradoksy (+4 PC):** `Utrudnienie` na testy Woli/Odporności przeciwko efektom paradoksów czasowych. Łatwo wpadasz w pętle, tracisz pamięć lub mylisz epoki.
-    > *Spotkanie samego siebie z przyszłego wtorku wywołuje u ciebie nie tylko egzystencjalny niepokój, ale i silną migrenę.*
-* **Paniczny strach przed... (+2 PC):** Wybierz coś absurdalnego lub specyficznego dla podróży w czasie (np. dinozaury, paradoksy, własne sobowtóry, Rzymian). Zasady jak standardowa Fobia (np. Utrudnienie na testy w obecności obiektu strachu).
-    > *Kiedy widzisz własnego sobowtóra z przyszłości, jedyne o czym myślisz, to gdzie tu jest najbliższa szafa, żeby się w niej schować.*
-* **Pesymizm dziejowy (+2 PC):** Nie wierzysz w sens TEOHIPHIP i uważasz, że każda interwencja tylko pogarsza sprawę. `Utrudnienie` na testy wymagające entuzjazmu, inicjatywy lub wiary w sukces misji.
-    > *Po co naprawiać historię? I tak zepsuje się ponownie, prawdopodobnie w jeszcze bardziej spektakularny sposób.*
-* **Nerwowy (+3 PC):** Jeśli na początku Twojej rundy w Puli Inicjatywy masz więcej kości z wynikiem 6 niż kości z wynikiem 1, jedna (losowo wybrana) szóstka natychmiast zmienia się w jedynkę.
-    > *Zbyt wiele szczęścia na raz cię przytłacza i stresuje... aż samo się psuje.*
-* **Przesądny (+2 PC):** Gdy na początku rundy w Twojej Puli Inicjatywy pojawią się dwie (lub więcej) kości o tej samej wartości, musisz natychmiast przerzucić jedną z nich (wybraną losowo). Musisz zaakceptować nowy wynik.
-    > *Dublety przynoszą pecha! Lepiej szybko rozbić tę parę.*
-
-### Umiejętności i Wiedza (Negatywne Aspekty)
-
-* **Biurokratyczny koszmar (+3 PC):** Jesteś na bakier z regulaminami, gubisz formularze, zawsze czegoś brakuje. `Utrudnienie` na interakcje z biurokracją INT.
-    > *Formularz Z-17b czy Z-17c? Czy potrzebna jest pieczątka z departamentu paradoksów wtórnych? Och, wszystko jedno...*
-* **Technofobia (+2 PC):** Nie ufasz technologii, szczególnie tej czasowej. `Utrudnienie` na testy używania skomplikowanego sprzętu.
-    > *Te wszystkie migające światełka i brzęczące kabelki na pewno spiskują, żeby wysłać cię do ery kambryjskiej bez kombinezonu.*
-
-### Pula Inicjatywy i Manipulacja Losem (Negatywne Aspekty)
-
-* **Nieostrożny (+2 PC):** Nie możesz korzystać z Cechy *Przezorny*. Nie potrafisz (lub nie chcesz) zachowywać kości z Puli Inicjatywy na później.
-    > *Żyjesz chwilą! Planowanie jest dla nudziarzy... i tych, co przeżywają.*
-* **Niepewny (+3 PC):** Jeśli na początku swojej rundy masz w Puli Inicjatywy kość o wartości 1 lub 2, musisz ją wykorzystać przy pierwszej możliwej wymianie kości w tej rundzie, nawet jeśli wolałbyś zachować ją na później lub użyć innej kości.
-    > *Wahanie i brak zdecydowania to twoje drugie imię. Lepiej pozbyć się tej słabej kości od razu... prawda?*
-* **Roztrzepany (+1 PC):** Raz na misję (potyczkę), MG może zmusić Cię do użycia najgorszej (o najniższej wartości) kości z Twojej Puli Inicjatywy przy najbliższej wymianie, zamiast tej, którą wybrałeś.
-    > *Gdzie ja położyłem tę szóstkę? Ach, nieważne, wezmę tę jedynkę, też będzie dobra... chyba.*
-* **Pechowiec (+2 PC):** Zawsze gdy wyrzucisz 1 w Puli Inicjatywy na początku tury, nie możesz jej użyć do wymiany w tej turze (traktuj ją jak pusty slot).
-    > *Jedynki cię po prostu nie lubią. Lepiej na nie nie liczyć.*
-* **Chaotyczny (+1 PC):** Na początku swojej rundy musisz przerzucić jedną, losowo wybraną kość ze swojej Puli Inicjatywy. Musisz zaakceptować nowy wynik.
-    > *Nigdy nie wiesz, co przyniesie chwila. Twoje własne szczęście jest dla ciebie zagadką.*
+* **Synchroniczny (+5 PC):** Twoje połączenie z przepływem czasu jest... specyficzne. W parzystych rundach potyczki (2, 4, 6) możesz używać do wymiany tylko kości z parzystymi wynikami ([2], [4], [6]) ze swojej Puli Inicjatywy. W nieparzystych rundach (1, 3, 5) możesz używać tylko kości z nieparzystymi wynikami ([1], [3], [5]).
+    >   *Działasz w rytm kosmicznego zegara, który czasem gra na Twoją korzyść, a czasem wręcz przeciwnie.*
+* **Pechowiec (+4 PC):** Jeśli na początku Twojej tury w Twojej Puli Inicjatywy znajduje się choćby jedna kość o wartości 1, nie możesz w tej turze w ogóle korzystać z Puli.
+    > *Najmniejszy zły znak wystarczy, by odebrać Ci całą pewność siebie i sparaliżować zdolność do naginania losu na swoją korzyść.*
+* **Chwiejny (+3 PC):** Bezpośrednio po każdej wymianie kości z Puli Inicjatywy, Twój następny Test w tej samej rundzie aktywacji wykonujesz z Utrudnieniem.
+    >   *Manipulacja prawdopodobieństwem wytrąca Cię z równowagi. Potrzebujesz chwili, by odzyskać koncentrację.*
+* **Impulsywny (+3 PC):** Przy pierwszym Teście, który wykonujesz w swojej rundzie aktywacji, *musisz* wymienić jedną z kości rzutu testowego na kość o najwyższej wartości z Twojej Puli Inicjatywy, płacąc normalny koszt 1 PŻ, nawet jeśli nie jest to optymalne lub nie gwarantuje sukcesu.
+    >   *Działasz zanim pomyślisz! Trzeba wykorzystać tę świetną okazję od razu... nawet jeśli okaże się, że to nie była okazja.*
+* **Nerwowy (+3 PC):** Jeśli na początku Twojej rundy aktywacji w Puli Inicjatywy masz więcej kości z wynikiem 5 lub 6 niż kości z wynikiem 1, 2, 3 lub 4, jedna (losowo wybrana) kość z wynikiem 5 lub 6 natychmiast zmienia się w kość z wynikiem 1.
+    >   *Zbyt wiele szczęścia na raz cię przytłacza i stresuje... aż samoistnie się psuje.*
+* **Niepewny (+3 PC):** Jeśli na początku Twojej rundy aktywacji masz w Puli Inicjatywy kość o wartości 1 lub 2, musisz ją wykorzystać przy pierwszej możliwej wymianie kości w tej rundzie, nawet jeśli wolałbyś użyć innej, lepszej kości.
+    >   *Wahanie i brak zdecydowania to Twoje drugie imię. Lepiej pozbyć się tej słabej kości od razu... prawda?*
+* **Nieostrożny (+2 PC):** Nie możesz korzystać z Cechy "Przezorny" (lub podobnych efektów) pozwalającej zachować kości z Puli Inicjatywy na kolejną rundę.
+    >   *Żyjesz chwilą! Planowanie i oszczędzanie szczęścia jest dla nudziarzy... i tych, co dłużej przeżywają.*
+* **Oportunista (+2 PC):** Przy pierwszym Teście w swojej rundzie aktywacji *musisz* wymienić kość o *wyższej* wartości z Twojego rzutu testowego na *dowolną* kość z Twojej Puli Inicjatywy. Ta wymiana jest darmowa (nie kosztuje PŻ), a wymieniona kość z testu (ta o wyższej wartości) trafia do Twojej Puli Inicjatywy, zastępując użytą kość z puli.
+    >   *Zawsze szukasz okazji... nawet jeśli oznacza to oddanie dobrego wyniku z testu za coś potencjalnie gorszego z puli, byle tylko odświeżyć swoje zasoby losu.*
 * **Ostrożny (+2 PC):** Nie możesz korzystać z mechaniki wymiany kości z Puli Inicjatywy, jeśli Twoje aktualne PŻ wynoszą 3 lub mniej.
-    > *Gdy robi się gorąco, wolisz nie ryzykować resztek sił na manipulowanie losem.*
-* **Chwiejny (+3 PC):** Bezpośrednio po każdej wymianie kości z Puli Inicjatywy, Twój następny Test w tej samej rundzie wykonujesz z `Utrudnieniem`.
-    > *Manipulacja czasem wytrąca cię z równowagi. Potrzebujesz chwili, by dojść do siebie.*
-* **Impulsywny (+3 PC):** Przy pierwszym Teście, który wykonujesz w swojej rundzie, *musisz* (jeśli to możliwe) wymienić jedną ze swoich kości rzutu testowego na kość o najwyższej wartości z Twojej Puli Inicjatywy, płacąc normalny koszt 1 PŻ, nawet jeśli nie jest to optymalne lub nie gwarantuje sukcesu.
-    > *Działasz zanim pomyślisz! Trzeba wykorzystać tę świetną okazję od razu!*
-* **Rozrzutny (+1 PC):** Nie możesz zachowywać kości o wartości 6 na kolejną rundę przy użyciu cechy *Przezorny*.
-    > *Nie potrafisz oszczędzać najlepszych okazji. Jak jest szóstka, to trzeba ją wykorzystać od razu!*
-* **Oportunista (+2 PC):** Przy pierwszym Teście w swojej rundzie, *musisz* wymienić kość o *wyższej* wartości z Twojego rzutu testowego na *dowolną* kość z Twojej Puli Inicjatywy. Ta wymiana jest darmowa (nie kosztuje PŻ), a wymieniona kość z testu (ta o wyższej wartości) trafia do Twojej Puli Inicjatywy, zastępując użytą kość z puli.
-    > *Zawsze szukasz okazji... nawet jeśli oznacza to oddanie dobrego wyniku z testu za coś potencjalnie gorszego z puli, byle tylko odświeżyć zasoby.*
-* **Powolny Refleks (+2 PC):** Nie możesz korzystać z mechaniki wymiany kości z Puli Inicjatywy przy pierwszym Teście, który wykonujesz w swojej rundzie.
-    > *Potrzebujesz chwili, żeby się rozkręcić. Twoje szczęście budzi się powoli.*
+    >   *Gdy robi się naprawdę gorąco, instynkt samozachowawczy blokuje Cię przed ryzykowaniem resztek sił na manipulowanie losem.*
+* **Powolny Refleks (+2 PC):** Nie możesz korzystać z mechaniki wymiany kości z Puli Inicjatywy przy pierwszym Teście, który wykonujesz w swojej turze.
+    >   *Potrzebujesz chwili, żeby się rozkręcić i dostroić do przepływu czasu. Twoje szczęście budzi się powoli.*
+* **Przesądny (+2 PC):** Gdy na początku rundy w Twojej Puli Inicjatywy pojawią się dwie (lub więcej) kości o tej samej wartości (dublet, triplet itp.), musisz natychmiast przerzucić jedną (lub więcej) z tych kości. Musisz zaakceptować nowy wynik.
+    >   *Zbytnia regularność w chaosie czasu to dla Ciebie zły omen.*
+* **Chaotyczny (+1 PC):** Na początku Twojej rundy aktywacji musisz przerzucić jedną najwyższą kość ze swojej Puli Inicjatywy. Musisz zaakceptować nowy wynik.
+    >   *Nigdy nie wiesz, co przyniesie chwila. Twoje własne szczęście jest dla Ciebie zagadką, zmieniającą się bez ostrzeżenia.*
+* **Rozrzutny (+1 PC):** Nie możesz zachowywać kości o wartości 6 na kolejną rundę przy użyciu cechy "Przezorny" (lub podobnych efektów).
+    >   *Nie potrafisz oszczędzać najlepszych okazji. Jak jest szóstka, to trzeba ją wykorzystać od razu, nawet jeśli nie jest to optymalne!*
 
-### Interakcje Społeczne i Zespołowe (Negatywne Aspekty)
+### Pozytywne
 
-* **Wróg w Instytucie (+3 PC):** Ktoś wpływowy w INT aktywnie stara się uprzykrzyć Ci życie lub pozbyć się Ciebie.
-    > *Podobno dyrektor Rosenbeisser wciąż pamięta, jak przez przypadek użyłeś jego ulubionego kubka jako części zamiennej do chronocykla.*
-* **Ścigany przez MOIRĘ (+5 PC):** Z jakiegoś powodu MOIRA poluje na Ciebie (lub grupę). Są kompetentni (czasem) i nieustępliwi.
-    > *Podobno złamałeś paragraf 7, podpunkt 12b regulaminu podróży czasowych, używając chronocykla do podgrzania sobie obiadu.*
+* **Szczęściarz (-2 PC):** Na początku Twojej tury, jeśli w Twojej Puli Inicjatywy znajduje się kość z wynikiem 1, możesz ją natychmiast przerzucić. Musisz zaakceptować nowy wynik.
+    >   *Los Ci sprzyja, nawet gdy na pierwszy rzut oka wydaje się inaczej.*
+* **Uważny (-2 PC):** Jeśli w poprzedniej rundzie nie wykorzystałeś ani jednej kości ze swojej Puli Inicjatywy, na początku nowej rundy rzuć dodatkową kością k6 do swojej Puli.
+    >   *Cierpliwość i obserwacja przynoszą korzyści. Albo po prostu miałeś szczęście, że nic groźnego się nie działo i mogłeś zachować swoje szczęście na później.*
+* **Kowal losu (-3 PC):** Raz na misję (potyczkę), na początku swojej aktywacji możesz wybrać jedną kość ze swojej Puli Inicjatywy i ustawić ją na dowolną wybraną wartość od 1 do 6.
+    >   *Są momenty, kiedy nie można polegać na szczęściu. Trzeba wziąć sprawy w swoje ręce i samodzielnie wykuć swój los.*
+* **Mistyk (-3 PC):** Raz na początku swojej aktywacji możesz wybrać jedną kość ze swojej Puli Inicjatywy i zwiększyć LUB zmniejszyć jej wartość o 1.
+    >   *Potrafisz delikatnie naginać prawdopodobieństwo. Albo po prostu czasem udaje Ci się oszukać przeznaczenie.*
+* **Oszust (-3 PC):** Raz na misję (potyczkę), możesz użyć 1 AP, aby wybrać jedną kość w swojej Puli Inicjatywy i odwrócić jej wartość (1 staje się 6, 2 staje się 5, 3 staje się 4 – i na odwrót).
+    >   *Czasem trzeba trochę nagiąć zasady prawdopodobieństwa... albo po prostu bezczelnie oszukać los.*
+* **Przezorny (-3 PC):** Na początku swojej rundy aktywacji możesz zdecydować, aby zachować jedną, dowolnie wybraną, niewykorzystaną kość z Puli Inicjatywy z *poprzedniej* rundy. Ta kość pozostaje w Twojej puli na bieżącą rundę (ale przepada na jej koniec, jeśli nie zostanie użyta).
+    >   *Zawsze myślisz o krok do przodu, oszczędzając szczęście na czarną godzinę lub decydujący moment.*
+* **Strateg (-3 PC):** Raz na początku swojej aktywacji możesz przerzucić jedną, dowolnie wybraną kość ze swojej aktualnej Puli Inicjatywy. Musisz zaakceptować nowy wynik.
+    >   *Zawsze szukasz lepszych opcji i analizujesz dostępne zasoby, nawet jeśli oznacza to kuszenie losu.*
+* **Hazardzista (-4 PC):** Raz na początku swojej aktywacji możesz zdecydować o przerzuceniu WSZYSTKICH kości w swojej Puli Inicjatywy. Musisz zaakceptować nowy zestaw wyników.
+    >   *Wszystko albo nic! Czasem trzeba zaryzykować całe swoje szczęście, by wygrać... albo spektakularnie przegrać.*
+* **Opanowany (-5 PC):** Raz na rundę, jeśli wymieniasz kość z Testu na kość o wartości 6 ze swojej Puli Inicjatywy, ta wymiana jest darmowa (nie kosztuje PŻ).
+    >   *Potrafisz efektywnie wykorzystać przebłysk szczęścia, nie tracąc przy tym zimnej krwi ani cennych zasobów.*
+* **Szczęście idioty (-5 PC):** Raz na misję (potyczkę) możesz przerzucić jeden dowolny rzut kością (swój własny, sojusznika lub nawet przeciwnika wymierzony w Ciebie). Musisz zaakceptować drugi wynik.
+    >   *Wszechświat zdaje się chronić tych, którzy nie do końca rozumieją, jak wielkie niebezpieczeństwo na siebie ściągają. Albo po prostu masz niewytłumaczalnego farta.*
+* **Ekonomiczny (-6 PC):** Raz na rundę możesz wykonać jedną wymianę kości z Puli Inicjatywy bez płacenia kosztu 1 PŻ.
+    >   *Potrafisz oszczędzać energię (i punkty życia) tam, gdzie inni ją trwonią. Efektywne zarządzanie zasobami to klucz do sukcesu.*
+* **Wytrwały (-8 PC):** Gdy Twoje aktualne PŻ wynoszą 2 lub mniej, każda wymiana kości z Puli Inicjatywy jest dla Ciebie darmowa (nie kosztuje PŻ).
+    >   *Na skraju wyczerpania działasz na czystej woli przetrwania, nie licząc kosztów. Twoja determinacja pozwala Ci naginać los bez wysiłku.*
 
-### Związane z Czasem i Paradoksami
+## Cechy percepcji / umiejętności
 
-* **Chronochoroba (+3 PC):** Cierpisz na silne mdłości, bóle głowy lub dezorientację po każdym skoku w czasie. `Utrudnienie` na pierwszy test po podróży.
-    > *Twój żołądek protestuje przeciwko łamaniu podstawowych praw fizyki głośniej niż Rada Naukowa przeciwko zdrowemu rozsądkowi.*
-* **Piętno czasowe (+3 PC):** Masz jakiś subtelny, ale zauważalny anachronizm (w mowie, wyglądzie, zachowaniu), który utrudnia kamuflaż. `Utrudnienie` na testy ukrywania swojej natury w przeszłości.
-    > *Nawet nie wiesz, kiedy zaczynasz nucić ten irytujący dżingiel z reklam syntetycznej wołowiny, ale wszyscy w wiosce neolitycznej już patrzą na ciebie dziwnie.*
-* **Zgubiony w czasie (+4 PC):** Masz tendencję do lądowania w niewłaściwej epoce lub miejscu. MG może modyfikować cel Twoich podróży.
-    > *Celowałeś w renesansową Florencję, a wylądowałeś na koncercie rockowym w późnym XX wieku – znowu.*
-* **Przywiązanie do epoki (+1 PC):** Masz sentyment do konkretnej epoki historycznej i źle znosisz podróże do innych.
-    > *Tęsknisz za zapachem spalin i neonów XX wieku, a te wszystkie rycerskie zbroje i zamki wydają ci się takie... niehigieniczne.*
-* **Notoryczny spóźnialski (temporalny) (+2 PC):** Zawsze przybywasz trochę za późno (lub za wcześnie), co komplikuje plany.
-    > *Miałeś zapobiec zamachowi na arcyksięcia, ale utknąłeś w korku temporalnym nad plejstocenem.*
+### Negatywne
 
-### Wyposażenie i Zasoby (Negatywne Aspekty)
+* **Przywiązanie do epoki (+4 PC):** Masz silny sentyment do jednej, konkretnej epoki historycznej. Podczas misji rozgrywających się w *innych* epokach, otrzymujesz Utrudnienie na wszystkie Testy Ataku.
+    >   *Tęsknisz za zapachem spalin XX wieku (lub spokojem antycznej Grecji) tak bardzo, że rozprasza Cię to w walce w każdym innym czasie.*
+* **Tchórzliwy (+4 PC):** Otrzymujesz Utrudnienie na testy odporności na strach, panikę i zastraszenie. Musisz zdać Test Woli, aby świadomie wejść do walki wręcz z przeciwnikiem, który wydaje się silniejszy lub liczniejszy.
+    >   *W obliczu niebezpieczeństwa Twoim pierwszym odruchem jest szukanie drogi ucieczki, a nie bohaterska szarża.*
+* **Chronochoroba (+3 PC):** Cierpisz na silne mdłości, bóle głowy lub dezorientację po każdym skoku w czasie. Otrzymujesz Utrudnienie na pierwszy Test, który wykonujesz po przybyciu do nowej epoki w ramach misji.
+    >   *Twój żołądek i błędnik protestują przeciwko łamaniu podstawowych praw fizyki głośniej niż Rada Naukowa przeciwko zdrowemu rozsądkowi.*
+* **Piętno czasowe (+3 PC):** Masz jakiś subtelny, ale zauważalny anachronizm (w mowie, wyglądzie, zachowaniu), który utrudnia kamuflaż. Z tego powodu nie możesz korzystać z Ukrycia.
+    >   *Nawet nie wiesz, kiedy zaczynasz nucić ten irytujący dżingiel z reklam przyszłości, ale wszyscy w wiosce neolitycznej już patrzą na Ciebie dziwnie i nie możesz się skutecznie schować.*
+* **Ślepy w ciemności (+2 PC):** Podczas potyczek rozgrywających się w nocy lub w warunkach ograniczonej widoczności (ciemność), odejmij 1 od wartości *każdej* kości w Twojej Puli Inicjatywy (wynik 1 pozostaje 1).
+    >   *Ciemność Cię oślepia, odbierając pewność siebie i osłabiając Twoje połączenie ze szczęśliwym trafem.*
+* **Technofobia (+2 PC):** Nie ufasz technologii, szczególnie tej czasowej. Otrzymujesz Utrudnienie na testy używania lub naprawy skomplikowanego sprzętu INT (chronocykle, broń energetyczna, terminale itp.).
+    >   *Te wszystkie migające światełka i brzęczące kabelki na pewno spiskują, żeby wysłać Cię do ery kambryjskiej bez kombinezonu.*
 
-* **Nieregulaminowy/uszkodzony sprzęt (+2 PC):** Twój podstawowy sprzęt (np. chronocykl) jest zawodny. MG może częściej zarządzać testy jego działania lub po prostu ogłaszać awarie.
-    > *Twój chronocykl był składany w poniedziałek po długim weekendzie temporalnym z części znalezionych za szafą w magazynie.*
+### Pozytywne
 
-### Specyficzne Ograniczenia Środowiskowe
+* **Orientacja w terenie (-2 PC):** Otrzymujesz Przewagę na testy związane z nawigacją, tropieniem oraz poruszaniem się w trudnym, nieznanym terenie (np. unikanie pułapek naturalnych, szybsze znajdowanie ścieżek).
+    >   *Instynktownie odnajdujesz drogę, nawet w najbardziej zagmatwanych dżunglach czasu i przestrzeni.*
+* **Sokoli wzrok (-2 PC):** Otrzymujesz Przewagę na testy percepcji wzrokowej wykonywane na dużą odległość lub wymagające dostrzeżenia drobnych szczegółów (np. wypatrywanie zasadzki, czytanie małego druku na temporalnym formularzu).
+    >   *Twój wzrok jest ostry jak brzytwa. Nic nie umknie Twojej uwadze, nawet jeśli znajduje się na drugim końcu pola bitwy.*
+* **Nocny Łowca (-3 PC):** Podczas potyczek rozgrywających się w nocy lub w warunkach ograniczonej widoczności (ciemność), dodaj +1 do wartości *każdej* kości w Twojej Puli Inicjatywy (wynik 6 pozostaje 6).
+    >   *Ciemność jest Twoim sprzymierzeńcem. Widzisz w niej możliwości i szczęśliwe trafy, których inni nie dostrzegają.*
+* **Taktyk (-3 PC):** Raz na rundę, możesz "spalić" kość w Puli (odwrócić wartość 5 lub 6 na jej przeciwną stronę: 5 staje się 2, 6 staje się 1), aby zyskać Przewagę w Teście.
+    >   *Nie ufasz ślepemu losowi. Wolisz poświęcić jedną obiecującą możliwość, by zyskać kontrolowaną przewagę w decydującej chwili.*
+* **Widzenie w Ciemności (-3 PC):** Ignorujesz Utrudnienie wynikające z działania w warunkach półmroku lub słabego oświetlenia.
+    >   *Twoje oczy (lub cybernetyczne implanty) przystosowały się do widzenia tam, gdzie inni widzą tylko mrok.*
+* **Mistrz improwizacji (-4 PC):** Otrzymujesz Przewagę na testy, gdy próbujesz użyć posiadanego sprzętu (nawet uszkodzonego lub nieadekwatnego) w zupełnie nieprzewidziany, kreatywny sposób, aby rozwiązać problem lub uzyskać przewagę taktyczną.
+    >   *Spinacz biurowy z XXVII wieku? W Twoich rękach to wytrych, broń, a nawet tymczasowy stabilizator strumienia czasowego!*
+* **Techniczny fachowiec (-4 PC):** Otrzymujesz Przewagę na wszystkie testy związane z naprawą, modyfikacją lub zrozumieniem działania technologii Instytutu Temporystyki (chronocykle, broń energetyczna, komputery, generatory itp.).
+    >   *Gdy taśma temporalna i solidny kopniak nie wystarczą, potrzebny jest ktoś, kto naprawdę wie, który kabelek odpowiada za *nie*rozpadnięcie się wszystkiego na kwarki.*
+* **Czujny (-5 PC):** Twoje wyostrzone zmysły pozwalają Ci dostrzegać zagrożenia, których inni nie widzą. Ignorujesz Utrudnienie wynikające z atakowania przeciwników znajdujących się w Ukryciu.
+    >   *Nawet cień czy zasłona dymna nie są w stanie ukryć przed Tobą zdradzieckich ruchów wroga.*
 
-* **Ślepy w ciemności (+2 PC):** Podczas scen/potyczek rozgrywających się w nocy lub w warunkach ograniczonej widoczności (ciemność), odejmij 1 od wartości *każdej* kości w Twojej Puli Inicjatywy (wynik 1 pozostaje 1).
-    > *Ciemność cię oślepia, odbierając pewność siebie i szczęście.*
+## Cechy związane z wyposażeniem
+
+### Negatywne
+
+* **Cyklop (+4 PC):** Masz tylko jedno oko lub poważne problemy z widzeniem przestrzennym. Otrzymujesz Utrudnienie na wszystkie Testy Ataku wykonywane przy użyciu broni miotanej (granaty, ładunki, oszczepy itp.).
+    >   *Ocena odległości i trajektorii rzutu jest dla Ciebie podwójnie trudna.*
+* **Krótkowidz (+4 PC):** Masz poważną wadę wzroku. Otrzymujesz Utrudnienie na wszystkie Testy Ataku wykonywane przy użyciu broni dystansowej (pistolety, karabiny energetyczne itp.).
+    >   *Celowanie do czegokolwiek dalej niż na wyciągnięcie ręki jest wyzwaniem.*
+* **Niezdarny (+4 PC):** Brakuje Ci koordynacji ruchowej w walce wręcz. Otrzymujesz Utrudnienie na wszystkie Testy Ataku wykonywane przy użyciu broni białej lub w walce bez broni.
+    >   *Twoje próby finezyjnych cięć czy bloków często kończą się potknięciem lub wytrąceniem sobie broni z ręki.*
+* **Psuj (+2 PC):** Masz wyjątkowy talent do psucia delikatnego sprzętu. Za każdym razem, gdy używasz przedmiotu z ekwipunku, musisz wykonać Test. Porażka oznacza, że przedmiot przestaje działać do końca misji (lub do udanej naprawy, jeśli posiadasz odpowiednie umiejętności).
+    >   *W Twoich rękach nawet samonaprawiający się sprzęt z przyszłości ma tendencję do spektakularnych awarii.*
+
+### Pozytywne
+
+* **Parabolik (-3 PC):** Masz naturalny talent do rzucania. Otrzymujesz Przewagę na wszystkie Testy Ataku wykonywane przy użyciu broni miotanej (granaty, noże do rzucania, ładunki wybuchowe, oszczepy itp.).
+    >   *Twoje rzuty są zawsze precyzyjne i trafiają tam, gdzie powinny.*
+* **Pilot chronocykla (-3 PC):** Jesteś urodzonym pilotem standardowych chronocykli INT. Otrzymujesz Przewagę na wszystkie testy związane z pilotowaniem tych maszyn, zwłaszcza podczas startu, lądowania w trudnych warunkach i wykonywania skomplikowanych manewrów czasoprzestrzennych.
+    >   *Niektórzy rodzą się z darem do omijania temporalnych dziur i parkowania na czasoprzestrzennych zakazach, nawet jeśli Instytut daje im do ręki rozklekotany złom.*
+* **Szybkie przeładowanie (-3 PC):** Jesteś mistrzem szybkiej obsługi broni. Czas przeładowania broni wymagającej tej akcji lub czas chłodzenia broni energetycznej jest skrócony (np. z 1 AP do darmowej akcji raz na turę, lub zgodnie z decyzją MG dla konkretnej broni).
+    >   *Wymiana magazynka czy odpowietrzenie cewki plazmowej zajmuje Ci ułamki sekund.*
+* **Celne oko (-4 PC):** Masz pewną rękę i sokoli wzrok. Otrzymujesz Przewagę na wszystkie Testy Ataku wykonywane przy użyciu broni dystansowej (pistolety, karabiny energetyczne, łuki itp.).
+    >   *Twój celownik zawsze spoczywa na celu, a strzały rzadko chybiają.*
+* **Fechmistrz (-4 PC):** Jesteś mistrzem walki wręcz. Otrzymujesz Przewagę na wszystkie Testy Ataku wykonywane przy użyciu broni białej (miecze, noże, pałki itp.) lub w walce bez broni.
+    >   *W zwarciu poruszasz się z zabójczą gracją, a Twoje ciosy są precyzyjne i skuteczne.*
+
+## Cechy interakcji zespołowych
+
+### Pozytywne
+
+* **Ofiara (-2 PC):** Możesz użyć 1 AP, aby stracić 1 PŻ i natychmiast przywrócić 1 PŻ sojusznikowi znajdującemu się w kontakcie bazowym z Tobą.
+    >   *Twoja troska o towarzyszy jest godna podziwu. Albo po prostu wiesz, że żywy sojusznik to lepsza tarcza i więcej siły ognia po Twojej stronie.*
+* **Obrońca (-3 PC):** Gdy sojusznik znajdujący się w zasięgu Twojego wzroku otrzymuje obrażenia, możesz (jako Reakcja, nie akcja) wydać kość o wartości 5 lub 6 ze swojej Puli Inicjatywy (płacąc normalny koszt 1 PŻ za wymianę), aby zredukować liczbę zadanych mu obrażeń o 1 (do minimum 0).
+    >   *Instynktownie chronisz swoich towarzyszy, dzieląc się swoim szczęściem lub przyjmując część ciosu na siebie.*
+* **Przywódca (-3 PC):** Raz na swoją turę, możesz użyć 1 AP, aby wybrać jedną kość ze swojej Puli Inicjatywy i wymienić ją na jedną kość z Puli Inicjatywy sojusznika znajdującego się w zasięgu wzroku.
+    >   *Potrafisz inspirować innych i dzielić się swoim szczęściem... lub po prostu podrzucać im kości, których sam nie potrzebujesz, by lepiej wykorzystali swój potencjał.*
+* **Urodzony dowódca (-3 PC):** Raz na misję (potyczkę), możesz użyć 1 AP, aby udzielić Przewagi jednemu sojusznikowi znajdującemu się w zasięgu wzroku na jego następny Test wykonywany w tej rundzie.
+    >   *Twoje rozkazy są jasne i precyzyjne, a Twoja obecność na polu bitwy motywuje sojuszników do działania ponad swoje możliwości.*
