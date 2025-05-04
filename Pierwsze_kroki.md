@@ -35,7 +35,7 @@ W skrócie: to **taktyczna gra figurkowa**, w której dowodzisz małą **bandą 
 Oto najczęstsze akcje, które kosztują 1 AP (możesz wykonać dwie różne lub jedną za 2 AP):
 
 * **Ruch:** Porusz figurkę o dystans równy jej **Ruchowi (SPD)**. W **Trudnym Terenie** (bagno, gruz) płacisz podwójnie za ruch.
-* **Atak:** Wykonaj jeden Atak **Dystansowy** (wymaga Linii Wzroku) lub **Wręcz** (wymaga bliskości). Wykonaj Test Ataku. **Możesz wykonać tylko 1 Atak na turę!**
+* **Atak:** Wykonaj jeden Atak **Dystansowy** (wymaga Linii Wzroku) lub **Wręcz** (wymaga bliskości). Wykonaj Test Ataku.
 * **Celowanie:** Zużyj 1 AP, aby następny Atak w tej turze wykonać z **Przewagą**.
 * **Krycie się:** Zużyj 1 AP, aby zyskać korzyść **Osłony** (patrz niżej) do Twojej następnej aktywacji (o ile się nie ruszysz/zaatakujesz).
 * **Interakcja:** Wykonaj czynność związaną z celem misji (np. podłóż ładunek, uruchom konsolę). Zwykle wymaga **Testu**.

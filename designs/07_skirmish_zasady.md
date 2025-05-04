@@ -23,7 +23,7 @@
 
 * **Zasada "Widzisz, To Strzelasz":** Używamy zasady "prawdziwej linii wzroku" (True Line of Sight). Jeśli możesz poprowadzić prostą linię od głowy/oczu twojej figurki do korpusu/głowy figurki celu bez przeszkód, masz LoS. Bądźcie uczciwi i rozsądni.
 * **Blokowanie:** Solidne elementy terenu (ściany, skały, wraki) oraz inne figurki (szczególnie większe) blokują LoS całkowicie.
-* **Ukrycie (Concealment):** Jeśli cel jest częściowo widoczny przez teren "miękki" (krzaki, dym, siatka maskująca, deszcz), który nie zatrzymałby fizycznie pocisku/ciosu, cel ma **Ukrycie**. Atakujący otrzymuje **Utrudnienie (Disadvantage)** na swój Test Ataku.
+* **Ukrycie:** Jeśli cel jest częściowo widoczny przez teren "miękki" (krzaki, dym, siatka maskująca, deszcz), który nie zatrzymałby fizycznie pocisku/ciosu, cel ma **Ukrycie**. Atakujący otrzymuje **Utrudnienie** na swój Test Ataku.
 
 ## 5. Teren i Osłona (Cover)
 
@@ -37,8 +37,8 @@ Postać może wykonać dwie różne akcje po 1 AP lub jedną akcję za 2 AP (Pe�
 
 * **Ruch:** Jak opisano w punkcie 3.
 * **Atak (Dystansowy lub Wręcz):** Postać wykonuje jeden atak. Wymaga LoS (dystansowy) lub kontaktu/bliskości (wręcz). Przeprowadź Test Ataku (bazowo 2k6). **Zasadniczo postać może wykonać tylko jedną akcję Ataku na turę.**
-* **Celowanie (Aim):** Postać poświęca czas na przygotowanie strzału/ciosu. Następna akcja Ataku wykonana przez tę postać w tej samej turze otrzymuje **Przewagę (Advantage)**. Można użyć tylko przed Atakiem.
-* **Krycie się (Hunker Down):** Postać przywiera do ziemi lub kurczy się za osłoną. Do początku swojej następnej aktywacji postać **zyskuje korzyść Osłony** (ignoruje 1 sukces), nawet jeśli nie znajduje się bezpośrednio przy elemencie terenu dającym Osłonę. Jeśli już była za Osłoną, korzyść się nie podwaja (chyba że Cecha/zasada specjalna mówi inaczej). Zyskana korzyść znika, jeśli postać wykona akcję Ruchu lub Ataku przed swoją następną aktywacją.
+* **Celowanie:** Postać poświęca czas na przygotowanie strzału/ciosu. Następna akcja Ataku wykonana przez tę postać w tej samej turze otrzymuje **Przewagę**. Można użyć tylko przed Atakiem.
+* **Krycie się:** Postać przywiera do ziemi lub kurczy się za osłoną. Do początku swojej następnej aktywacji postać **zyskuje korzyść Osłony** (ignoruje 1 sukces), nawet jeśli nie znajduje się bezpośrednio przy elemencie terenu dającym Osłonę. Jeśli już była za Osłoną, korzyść się nie podwaja (chyba że Cecha/zasada specjalna mówi inaczej). Zyskana korzyść znika, jeśli postać wykona akcję Ruchu lub Ataku przed swoją następną aktywacją.
 * **Interakcja:** Wykonanie czynności związanej ze scenariuszem (podłożenie ładunku, hakowanie terminala, udzielenie pomocy rannej postaci, otwarcie drzwi). Często wymaga **Testu** odpowiedniej umiejętności (np. Techniczny, Zręczność, Medyczny?). Czasem może wymagać 2 AP (np. skomplikowana naprawa).
 * **Użycie Cechy Aktywnej:** Niektóre Cechy mogą wymagać użycia AP.
 
