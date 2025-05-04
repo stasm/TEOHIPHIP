@@ -21,7 +21,7 @@ Oto skondensowane podsumowanie dotychczasowej pracy nad TEOHIPHIP, które posłu
 **3. Kluczowe Podsystemy:**
 
 * **System Band:** Gracze tworzą i kontrolują bandy 1-3 postaci, wykorzystując **12 Punktów Kreacji (PK)** na start (1 PK = 1 PŻ lub 3 PC). Rozmiar bandy wpływa na liczbę aktywacji i indywidualną siłę postaci.
-* **System Cech:** Rozbudowana lista Cech Pozytywnych (koszt w PC) i Negatywnych (dają PC) pozwala tworzyć unikalne postacie. Cechy mają bezpośredni wpływ mechaniczny (Przewaga/Utrudnienie, modyfikacje statystyk, specjalne zdolności). Lista cech została podzielona na **Zestaw Podstawowy** i **Dodatki Tematyczne** (np. "Mistrzowie Puli Inicjatywy", "Weterani Czasu", "Praca Zespołowa"). (*Uwaga: Istnieje potrzeba rewizji/modyfikacji niektórych cech odziedziczonych po fazie RPG*).
+* **System Cech:** Rozbudowana lista Cech Pozytywnych (koszt w PC) i Negatywnych (dają PC) pozwala tworzyć unikalne postacie. Cechy mają bezpośredni wpływ mechaniczny (Przewaga/Utrudnienie, modyfikacje statystyk, specjalne zdolności).
 * **Pula Inicjatywy:** Centralna mechanika taktyczna służąca zarządzaniu ryzykiem. Na początku rundy postać rzuca k6 równymi jej **aktualnym PŻ**. Gracz może **wydać 1 PŻ**, aby po wykonaniu Testu podmienić 1 kość z rzutu na 1 kość z puli.
 * **Automatyzacja BN:** Przeciwnicy (BN) działają według **predefiniowanych algorytmów** (list priorytetów), aby odciążyć MG/Arbitra i przyspieszyć grę. Istnieje opcjonalna zasada pozwalająca graczom aktywować BN-y według algorytmów.
 
@@ -42,7 +42,7 @@ Oto skondensowane podsumowanie dotychczasowej pracy nad TEOHIPHIP, które posłu
 * `Pierwsze_kroki.md`: Wprowadzenie do gry i zasady podstawowe.
 * `Podręcznik_czasownika.md`: Zaktualizowany podręcznik gracza, opisujący tworzenie band, zasady potyczek skirmishowych i kampanii.
 * `Podręcznik_mistrza_gry.md`: Zaktualizowany podręcznik mistrza gry, zawierający szczegóły świata, zasady prowadzenia potyczek, projektowania scenariuszy, profile BN z algorytmami, zasady kampanii i narzędzia.
-* `Cechy_postaci.md`: Aktualna, podzielona na Zestaw Podstawowy i Dodatki, lista Cech.
+* `Cechy_postaci.md`: Aktualna lista cech, pogrupowanych w kategorie tematyczne.
 * `Scenariusze.md`: Opis misji i scenariuszy, w tym przykłady i pomysły na misje.
 * `Słowniczek.md`: Słownik terminów i pojęć używanych w grze.
 * `README.md`: Zaktualizowany opis projektu.
