@@ -47,42 +47,10 @@ TEOHIPHIP Skirmish jest idealny dla graczy, którzy:
 
 ## Stan projektu
 
-Projekt jest w fazie aktywnego rozwoju. Dokumentacja jest obecnie konwertowana do formatu **mdbook** dla lepszej organizacji i prezentacji treści.
+Projekt jest w fazie aktywnego rozwoju. 
 
-### Struktura dokumentacji
-
-Dokumenty są zorganizowane w katalogi tematyczne w folderze `src`:
-
-* **Wprowadzenie**
-  * `wprowadzenie/index.md`: Ogólne wprowadzenie do gry.
-  * `wprowadzenie/świat.md`: Opis świata TEOHIPHIP.
-
-* **Podręcznik Gracza**
-  * `gracz/index.md`: Podstawy dla graczy.
-  * `gracz/banda.md`: Tworzenie bandy.
-  * `gracz/potyczka.md`: Zasady potyczki skirmishowej.
-  * `gracz/kampania.md`: Zasady kampanii.
-  * `gracz/porady.md`: Porady dla graczy.
-  * `gracz/start.md`: Szybki start.
-
-* **Podręcznik Mistrza Gry**
-  * `mg/index.md`: Wprowadzenie dla Mistrzów Gry.
-  * `mg/świat.md`: Szczegóły świata.
-  * `mg/potyczka.md`: Prowadzenie potyczki.
-  * `mg/bn.md`: Bohaterowie Niezależni i ich algorytmy.
-  * `mg/kampania.md`: Prowadzenie kampanii.
-  * `mg/scenariusze.md`: Tworzenie scenariuszy.
-  * `mg/tabele.md`: Tabele pomocnicze.
-
-* **Scenariusze**
-  * Sześć przykładowych misji: Korekta, Eskorta, Neutralizacja, Bastion, Artefakt i Sabotaż.
-
-* **Dodatki**
-  * `cechy.md`: Rozbudowana lista cech postaci.
-  * `karta.md`: Karta postaci.
-  * `słowniczek.md`: Słownik terminów.
-
-* *Pliki projektowe (w folderze `designs`)*: Wcześniejsze wersje i analizy mechanik.
+* Katalog `src`: Dokumentacja dla graczy i mistrzów gry.
+* Katalog `designs`: Pliki projektowe, wcześniejsze wersje i analizy mechanik.
 
 ---
 

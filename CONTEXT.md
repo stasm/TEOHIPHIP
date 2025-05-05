@@ -37,16 +37,36 @@ Oto skondensowane podsumowanie dotychczasowej pracy nad TEOHIPHIP, które posłu
     * **Całkowita Eliminacja Bandy:** Gracz otrzymuje **12 PK** na stworzenie nowej bandy od zera (traci poprzedni postęp).
     * (Opcjonalnie) Możliwość wykupienia Cech Negatywnych za wysoki koszt PK.
 
-**5. Istniejące Dokumenty Główne (Stan na 02.05.2025):**
+**5. Dokumentacja Projektu:**
 
-* `Pierwsze_kroki.md`: Wprowadzenie do gry i zasady podstawowe.
-* `Podręcznik_czasownika.md`: Zaktualizowany podręcznik gracza, opisujący tworzenie band, zasady potyczek skirmishowych i kampanii.
-* `Podręcznik_mistrza_gry.md`: Zaktualizowany podręcznik mistrza gry, zawierający szczegóły świata, zasady prowadzenia potyczek, projektowania scenariuszy, profile BN z algorytmami, zasady kampanii i narzędzia.
-* `Cechy_postaci.md`: Aktualna lista cech, pogrupowanych w kategorie tematyczne.
-* `Scenariusze.md`: Opis misji i scenariuszy, w tym przykłady i pomysły na misje.
-* `Słowniczek.md`: Słownik terminów i pojęć używanych w grze.
 * `README.md`: Zaktualizowany opis projektu.
-* *Inne pliki projektowe (`designs`)*: Wcześniejsze notatki i wersje rozwojowe mechanik.
+* `CONTEXT.md`: Krótkie podsumowanie projektu, jego celów i aktualnego stanu, na potrzeby rozmów z AI lub współpracownikami.
+* Dokumentacja została zorganizowana w katalogi tematyczne w folderze `src` w formacie **mdbook** dla lepszej organizacji i prezentacji treści.
+  * `SUMMARY.md` definiuje strukturę spisu treści dla mdbooka.
+  * `index.md` - Ogólny wstęp do gry i świata.
+  * `start.md` - Pierwsze kroki w grze dla nowych graczy.
+  * `gracz/` - Podręcznik Gracza z zasadami tworzenia band i prowadzenia potyczek.
+    * `index.md` - Wprowadzenie do podręcznika gracza.
+    * `świat.md` - Opis świata gry.
+    * `banda.md` - Tworzenie bandy i zasady potyczek.
+    * `potyczka.md` - Zasady potyczek skirmishowych.
+    * `kampania.md` - Zasady kampanii i progresji.
+    * `porady.md` - Porady dla graczy.
+  * `mg/` - Podręcznik Mistrza Gry z zasadami prowadzenia gry.
+    * `index.md` - Wprowadzenie do podręcznika mistrza gry.
+    * `świat.md` - Opis świata gry z perspektywy MG.
+    * `potyczka.md` - Zasady prowadzenia potyczek skirmishowych.
+    * `bn.md` - Profile BN i zasady ich automatyzacji.
+    * `kampania.md` - Zasady kampanii i progresji z perspektywy MG.
+    * `scenariusze.md` - Tworzenie scenariuszy i tabele pomocnicze.
+    * `tabele.md` - Tabele pomocnicze dla MG.
+  * `scenariusze/` - Przykładowe misje do wykorzystania w grze.
+  * `cechy.md` - Lista cech postaci, pogrupowanych w kategorie tematyczne.
+  * `karta.md` - Karta postaci do wykorzystania w grze.
+  * `słowniczek.md` - Słownik terminów i pojęć używanych w grze.
+* Plik `book.toml` zawiera konfigurację mdbooka.
+* Skonfigurowano GitHub Actions do automatycznego budowania i publikowania mdbooka.
+* *Pliki projektowe (`designs`)*: Wcześniejsze notatki i wersje rozwojowe mechanik.
 
 **6. Kluczowe Decyzje Projektowe Podjęte w Trakcie Rozmowy:**
 
@@ -56,7 +76,7 @@ Oto skondensowane podsumowanie dotychczasowej pracy nad TEOHIPHIP, które posłu
 * Opracowanie **zasad skirmishowych** (2 AP, akcje, LoS, Osłona itp.).
 * Wprowadzenie **Automatyzacji BN** za pomocą algorytmów (z opcją kontroli przez graczy).
 * Zdefiniowanie **zasad kampanii** (reset PŻ/ekwipunku, zdobywanie i wydawanie PK, konsekwencje eliminacji).
-* Podział obszernej **listy Cech** na Zestaw Podstawowy i Dodatki Tematyczne.
+* Podział obszernej **listy Cech** na kategorie tematyczne, aby ułatwić ich przeglądanie i wybór.
 
 **7. Potencjalne Dalsze Kroki / Obszary do Dopracowania:**
 
@@ -66,19 +86,7 @@ Oto skondensowane podsumowanie dotychczasowej pracy nad TEOHIPHIP, które posłu
 * Testowanie balansu (scenariuszy, cech, progresji PK).
 * Dopracowanie zasad opcjonalnych (np. wykupienie Cech Negatywnych, "odzyskanie" postaci).
 * Finalna redakcja i formatowanie podręczników.
-
-**8. Aktualna Organizacja Dokumentacji (Stan na 05.05.2025):**
-
-* Rozpoczęto konwersję dokumentacji do formatu **mdbook** dla lepszej organizacji i prezentacji treści.
-* Istniejące pliki `md` zostały podzielone na mniejsze, bardziej zarządzalne moduły.
-* Struktura dokumentacji została zorganizowana w katalogi tematyczne w folderze `src`:
-  * `wprowadzenie/` - Ogólny wstęp do gry i świata.
-  * `gracz/` - Podręcznik Gracza z zasadami tworzenia band i prowadzenia potyczek.
-  * `mg/` - Podręcznik Mistrza Gry z zasadami prowadzenia gry.
-  * `scenariusze/` - Przykładowe misje do wykorzystania w grze.
-  * Dokumenty pomocnicze: `cechy.md`, `karta.md`, `słowniczek.md`.
-* Plik `SUMMARY.md` definiuje strukturę spisu treści dla mdbooka.
-* Plik `book.toml` zawiera podstawową konfigurację mdbooka.
+* Tworzenie dodatkowych materiałów pomocniczych (karty odniesienia, generatory BN, etc.).
 
 ---
 
