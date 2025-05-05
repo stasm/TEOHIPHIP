@@ -40,27 +40,56 @@ Oddanie klimatu Lema to klucz do udanej sesji TEOHIPHIP. Nie chodzi tylko o podr
 
 ### Jak mówić i pisać "po lemowsku"
 
-* **Neologizmy techniczno-biurokratyczne:** Twórz własne skróty (jak PIONTEK, MOIRA, HAMUŁA, TEOHIPHIP) i nazwy urządzeń (chronocykl, czasowiec, tempobil, dyssypator temporalny, kwantowy korektor historii, osobisty dezintegrator paradoksów). Niech brzmią naukowo, ale jednocześnie nieco śmiesznie lub złowieszczo.
-	* _Przykład:_ "Zgodnie z okólnikiem 7/bis/TEO, awaria DUPKów (Dyssypatorów Układowych Powolnej Kompensacji) na Wenus była wynikiem nieautoryzowanej próby optymalizacji orbity przy użyciu niestandardowego kwantyfikatora pętli przyczynowej."
-	* _Przykład:_ "Proszę skalibrować chronocykl według procedury B-12, sekcja gamma. W przypadku dalszych fluktuacji czasowych, proszę wypełnić formularz F-99 'Raport o Spontanicznej Dezintegracji Sprzętu'."
-	* _Przykład:_ "Zgodnie z dyrektywą R-42/TEO, wszelkie incydenty związane z nieautoryzowanym użyciem sprzętu TEOHIPHIP muszą być zgłaszane do PIONTEK-u w ciągu 24 godzin, zgodnie z procedurą Z-17b/INT."
-	* _Przykład:_ "Proszę o przesłanie formularza F-99 do działu MOIRA w celu zatwierdzenia korekty temporalnej zgodnie z wytycznymi Rady Naukowej."
-* **Precyzja w absurdzie:** Opisuj niewiarygodne wydarzenia z naukową (lub pseudonaukową) dokładnością i powagą. Używaj technicznego żargonu w nieoczekiwanych kontekstach.
-	* _Przykład:_ "Wektor temporalny uległ nieprzewidzianej dyfrakcji na skutek fluktuacji kwantowej w polu higgsowskim formularza Z-17b, co poskutkowało materializacją technika Kowalskiego wewnątrz stada wyjątkowo zdezorientowanych mamutów."
-	* _Przykład:_ "Analiza wykazała podwyższony poziom entropii narracyjnej w sektorze mezozoicznym, co sugeruje nieautoryzowaną interwencję lub, co bardziej prawdopodobne, kolejną awarię systemu HAMUŁA."
-	* _Przykład:_ "Poziom absurdu sytuacji osiągnął 7.4 w skali Richtera-Rosenbeissera, co kwalifikuje incydent do natychmiastowego zatuszowania."
-* **Biurokratyczny język:** W dialogach BN-ów (szczególnie urzędników INT) używaj oficjalnego, bezosobowego, często zawiłego języka, pełnego regulaminów, paragrafów, wniosków i pozwoleń. Unikaj emocji, nawet w obliczu katastrofy.
-	* _Przykład (Urzędnik INT do gracza):_ "Zgodnie z dyrektywą 74/C, paragraf 3, podpunkt a), pańska prośba o nowy stabilizator czasowy została odrzucona z powodu braku pieczątki działu kontroli jakości pieczątek. Proszę ponownie złożyć wniosek po uzyskaniu stosownego poświadczenia zgodności pieczątki z normą ISO-Temporal 9001."
-	* _Przykład (Raport):_ "Odnotowano incydent temporalny kategorii Gamma. Postępowanie wyjaśniające w toku. Zaleca się prewencyjne wypełnienie formularza K-03 ('Wniosek o niepamięć zbiorową') dla personelu niższego szczebla."
-	* _Przykład (Dialog między technikami):_ "- Znowu ten fluktuator kwantowy szwankuje. - Zgłosiłeś to? - Tak, ale wniosek wrócił. Podobno użyłem nieaktualnej wersji formularza."
-	* _Przykład (Przełożony do podwładnego):_ "Pańskie zaangażowanie w projekt 'Optymalizacja Renesansu' jest, delikatnie mówiąc, suboptymalne. Sugeruję zapoznać się z regulaminem dotyczącym konsekwencji suboptymalnego zaangażowania, sekcja 12, paragraf Zeta."
-* **Niedopowiedzenia i eufemizmy:** Zamiast mówić wprost o katastrofie, używaj stonowanych określeń.
-	* _Przykład:_ "W wyniku nieprzewidzianych komplikacji podczas operacji GENEZIS, planeta Atena uległa dekompozycji strukturalnej." (Zamiast: "Rozwaliliśmy planetę!").
-	* _Przykład:_ "Odnotowano pewne rozbieżności między oczekiwanym a rzeczywistym przebiegiem ewolucji gadów mezozoicznych." (Zamiast: "Dinozaury wyginęły przez naszą głupotę!").
-	* _Przykład:_ "Agent X został poddany procedurze trwałej relokacji temporalnej." (Zamiast: "Wysłaliśmy go na zesłanie do ery kambryjskiej.").
-* **Filozoficzny bełkot:** Czasem można wpleść pseudofilozoficzne lub egzystencjalne uwagi, ubrane w techniczny żargon.
-	* _Przykład:_ "Czyż sama próba optymalizacji historii nie jest ostatecznym dowodem na jej inherentną niedoskonałość, a co za tym idzie, na daremność naszych wysiłków, co z kolei implikuje konieczność wypełnienia raportu kwartalnego zgodnie z nowym wzorem?"
-	* _Przykład:_ "Paradoks dziadka to jedynie symptom głębszej, ontologicznej niestabilności kauzalnej, którą najlepiej ignorować, koncentrując się na terminowym składaniu wniosków urlopowych."
+#### Neologizmy techniczno-biurokratyczne
+
+Twórz własne skróty (jak PIONTEK, MOIRA, HAMUŁA, TEOHIPHIP) i nazwy urządzeń (chronocykl, czasowiec, tempobil, dyssypator temporalny, kwantowy korektor historii, osobisty dezintegrator paradoksów). Niech brzmią naukowo, ale jednocześnie nieco śmiesznie lub złowieszczo.
+
+> Zgodnie z okólnikiem 7/bis/TEO, awaria DUPKów (Dyssypatorów Układowych Powolnej Kompensacji) na Wenus była wynikiem nieautoryzowanej próby optymalizacji orbity przy użyciu niestandardowego kwantyfikatora pętli przyczynowej.
+
+> Proszę skalibrować chronocykl według procedury B-12, sekcja gamma. W przypadku dalszych fluktuacji czasowych, proszę wypełnić formularz F-99 'Raport o Spontanicznej Dezintegracji Sprzętu'.
+
+> Zgodnie z dyrektywą R-42/TEO, wszelkie incydenty związane z nieautoryzowanym użyciem sprzętu TEOHIPHIP muszą być zgłaszane do PIONTEK-u w ciągu 24 godzin, zgodnie z procedurą Z-17b/INT.
+
+> Proszę o przesłanie formularza F-99 do działu MOIRA w celu zatwierdzenia korekty temporalnej zgodnie z wytycznymi Rady Naukowej.
+
+#### Precyzja w absurdzie
+
+Opisuj niewiarygodne wydarzenia z naukową (lub pseudonaukową) dokładnością i powagą. Używaj technicznego żargonu w nieoczekiwanych kontekstach.
+
+> Wektor temporalny uległ nieprzewidzianej dyfrakcji na skutek fluktuacji kwantowej w polu higgsowskim formularza Z-17b, co poskutkowało materializacją technika Kowalskiego wewnątrz stada wyjątkowo zdezorientowanych mamutów.
+
+> Analiza wykazała podwyższony poziom entropii narracyjnej w sektorze mezozoicznym, co sugeruje nieautoryzowaną interwencję lub, co bardziej prawdopodobne, kolejną awarię systemu HAMUŁA.
+
+> Poziom absurdu sytuacji osiągnął 7.4 w skali Richtera-Rosenbeissera, co kwalifikuje incydent do natychmiastowego zatuszowania.
+
+#### Biurokratyczny język
+
+W dialogach BN-ów (szczególnie urzędników INT) używaj oficjalnego, bezosobowego, często zawiłego języka, pełnego regulaminów, paragrafów, wniosków i pozwoleń. Unikaj emocji, nawet w obliczu katastrofy.
+
+> Zgodnie z dyrektywą 74/C, paragraf 3, podpunkt a), pańska prośba o nowy stabilizator czasowy została odrzucona z powodu braku pieczątki działu kontroli jakości pieczątek. Proszę ponownie złożyć wniosek po uzyskaniu stosownego poświadczenia zgodności pieczątki z normą ISO-Temporal 9001.
+
+> Odnotowano incydent temporalny kategorii Gamma. Postępowanie wyjaśniające w toku. Zaleca się prewencyjne wypełnienie formularza K-03 ('Wniosek o niepamięć zbiorową') dla personelu niższego szczebla.
+
+>— Znowu ten fluktuator kwantowy szwankuje.<br>
+>— Zgłosiłeś to?<br>
+>— Tak, ale wniosek wrócił. Podobno użyłem nieaktualnej wersji formularza."
+
+> Pańskie zaangażowanie w projekt 'Optymalizacja Renesansu' jest, delikatnie mówiąc, suboptymalne. Sugeruję zapoznać się z regulaminem dotyczącym konsekwencji suboptymalnego zaangażowania, sekcja 12, paragraf Zeta.
+
+#### Niedopowiedzenia i eufemizmy
+
+Zamiast mówić wprost o katastrofie, używaj stonowanych określeń.
+
+> W wyniku nieprzewidzianych komplikacji podczas operacji GENEZIS, planeta Atena uległa dekompozycji strukturalnej. (Zamiast: "Rozwaliliśmy planetę!").
+> Odnotowano pewne rozbieżności między oczekiwanym a rzeczywistym przebiegiem ewolucji gadów mezozoicznych. (Zamiast: "Dinozaury wyginęły przez naszą głupotę!").
+> Agent X został poddany procedurze trwałej relokacji temporalnej. (Zamiast: "Wysłaliśmy go na zesłanie do ery kambryjskiej.")
+
+#### Filozoficzny bełkot
+
+Czasem można wpleść pseudofilozoficzne lub egzystencjalne uwagi, ubrane w techniczny żargon.
+
+> Czyż sama próba optymalizacji historii nie jest ostatecznym dowodem na jej inherentną niedoskonałość, a co za tym idzie, na daremność naszych wysiłków, co z kolei implikuje konieczność wypełnienia raportu kwartalnego zgodnie z nowym wzorem?
+> Paradoks dziadka to jedynie symptom głębszej, ontologicznej niestabilności kauzalnej, którą najlepiej ignorować, koncentrując się na terminowym składaniu wniosków urlopowych.
 
 Pamiętaj, kluczem jest mieszanie powagi z absurdem, technicznego żargonu z biurokratycznym bełkotem i czarnego humoru z egzystencjalnym zmęczeniem materiału (zarówno sprzętu, jak i personelu INT). Niech Twoje opisy i dialogi oddają ten specyficzny, lemowski "smaczek".
 
