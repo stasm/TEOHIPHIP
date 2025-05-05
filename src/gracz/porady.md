@@ -1,4 +1,4 @@
-## Porady dla czasowników – Jak nie zniknąć w paradoksie
+# Porady dla czasowników – Jak nie zniknąć w paradoksie
 
 > „Technologia chronomocyjna, jak kosmonautyczna, wymaga olbrzymiego przemysłu, kolosalnych inwestycji, planowania... ale z tym też sam się zapoznasz na miejscu, tj. w swoim czasie.” (Albo i nie.)  
 

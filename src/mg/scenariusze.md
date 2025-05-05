@@ -1,10 +1,10 @@
-## Projektowanie Scenariuszy Skirmishowych
+# Projektowanie Scenariuszy Skirmishowych
 
 Świat TEOHIPHIP to kopalnia pomysłów na przygody – niestety, często są to pomysły równie katastrofalne w skutkach, co same działania Instytutu Temporystyki. Twoim zadaniem jako MG jest przekształcenie tego potencjału na chaos w grywalne scenariusze. Nie martw się, jeśli Twoje plany szybko legną w gruzach pod naporem działań graczy lub absurdów świata – to w zasadzie norma i znak, że dobrze oddajesz klimat TEOHIPHIP.
 
 Ten rozdział pomoże Ci tworzyć własne potyczki skirmishowe w świecie TEOHIPHIP lub modyfikować gotowe scenariusze.
 
-### Anatomia Scenariusza Skirmishowego
+## Anatomia Scenariusza Skirmishowego
 
 Dobry scenariusz skirmishowy powinien zawierać:
 
@@ -16,7 +16,7 @@ Dobry scenariusz skirmishowy powinien zawierać:
 6.  **Zasady Specjalne:** Wszelkie unikalne reguły obowiązujące tylko w tym scenariuszu: efekty środowiskowe (np. burza piaskowa ograniczająca LoS), działanie obiektów misji (np. ile sukcesów potrzeba do hakowania terminala), losowe komplikacje (np. tabela zdarzeń losowych na rzut k6 co rundę).
 7.  **Limit Czasu:** Przypomnienie o 5-6 rundach gry.
 
-### Kluczowe Zasady Projektowania
+## Kluczowe Zasady Projektowania
 
 * **Fokus na Celach:** Zwycięstwo powinno zależeć od celów, nie tylko eliminacji wrogów.
 * **Presja Czasu:** Limit 5-6 rund musi być odczuwalny. Cele powinny wymagać aktywnego działania od pierwszych rund.
@@ -26,7 +26,7 @@ Dobry scenariusz skirmishowy powinien zawierać:
 * **Asymetria:** Nie bój się scenariuszy asymetrycznych (np. obrona przed przeważającą liczbą wrogów, eskorta słabego NPC).
 * **Prostota Zasad Specjalnych:** Unikalne zasady scenariusza powinny być łatwe do zrozumienia i zastosowania.
 
-### Przykładowy Scenariusz
+## Przykładowy Scenariusz
 
 Poniżej znajdziesz przykładowy scenariusz skirmishowy, który możesz wykorzystać lub zmodyfikować według własnych potrzeb. Więcej gotowych scenariuszy znajdziesz w pliku [Scenariusze.md](Scenariusze.md).
 
@@ -45,7 +45,7 @@ Poniżej znajdziesz przykładowy scenariusz skirmishowy, który możesz wykorzys
     * *Komplikacja (Rzut k6 co rundę na 1-2):* Pojawia się lokalna megafauna (np. Tygrys Szablozębny - BN Bestia, R4), atakuje losowo najbliższą postać (gracza lub BN).
 * **7. Limit Czasu:** 6 Rund.
 
-### Balansowanie Scenariuszy
+## Balansowanie Scenariuszy
 
 * Idealny balans jest trudny i nie zawsze pożądany w TEOHIPHIP. Chaos jest częścią zabawy.
 * Podstawowe narzędzia balansu: liczba i jakość BN-ów, ich algorytmy, trudność celu misji, liczba rund, zasady specjalne i komplikacje.

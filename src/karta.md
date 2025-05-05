@@ -1,4 +1,4 @@
-## Dodatek A: Przykładowa karta czasownika
+# Dodatek A: Przykładowa karta czasownika
 
 Technik Zenon Kowalski (Numer Akt: 734-Zeta-K)
 

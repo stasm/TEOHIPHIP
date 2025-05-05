@@ -1,10 +1,10 @@
-## Tworzenie bandy agentów chaosu
+# Tworzenie bandy agentów chaosu
 
 > „Nonsens\! Zachowujże się jak człowiek inteligentny\! Jakże się chcesz ze mną rachować? Przecież każdy mój teraźniejszy siniec będzie potem twoim\!”  
 
 Stworzenie postaci w TEOHIPHIP to tak naprawdę stworzenie całej **Bandy** – małego zespołu (1-3 agentów), którym będziesz dowodzić podczas potyczek. Używamy elastycznego systemu opartego na **Punktach Kreacji (PK)** i **cechach**, by nadać Twojej bandzie unikatowy charakter.
 
-### Koncept bandy i jej członków
+## Koncept bandy i jej członków
 
 Zanim zaczniesz przydzielać punkty, zastanów się nad ogólnym konceptem Twojej bandy:
 * Jaki jest jej nieoficjalny kryptonim lub specjalizacja (jeśli jakąś ma)? Np. "Specjaliści od Mezozoiku", "Czyściciele Paradoksów", "Zespół Ankietowy Delta (ZAD)"?
@@ -13,7 +13,7 @@ Zanim zaczniesz przydzielać punkty, zastanów się nad ogólnym konceptem Twoje
 
 Następnie stwórz **koncepty poszczególnych członków** Twojej bandy (1, 2 lub 3 postacie): kim są, jakie mają motywacje, jaki archetyp najlepiej ich opisuje?
 
-### System band i Punkty Kreacji (PK)
+## System band i Punkty Kreacji (PK)
 
 * Każdy gracz tworzy i kontroluje **bandę składającą się z 1 do 3 postaci**.
 * Na stworzenie całej bandy otrzymujesz **12 Punktów Kreacji (PK)**.
@@ -28,7 +28,7 @@ Następnie stwórz **koncepty poszczególnych członków** Twojej bandy (1, 2 lu
     * **Duet (2 postacie):** Masz 12 PK do podziału na PŻ i cechy dla dwóch postaci. Możesz stworzyć bardziej wytrzymałe lub wyspecjalizowane postacie kosztem jednej aktywacji mniej na rundę.
     * **Samotny wilk (1 postać):** Wszystkie 12 PK inwestujesz w jedną postać, tworząc potężnego, wytrzymałego lub niezwykle wszechstronnego agenta, ale mając tylko jedną aktywację na rundę.
 
-### Archetypy (luźne wskazówki)
+## Archetypy (luźne wskazówki)
 
 Wybierz archetyp, który najlepiej pasuje do roli postaci w bandzie. To bardziej sugestia niż sztywna klasa:
 * **Czasownik/Pilot Chronocykla:** Specjalista od pojazdów czasowych.
@@ -39,22 +39,22 @@ Wybierz archetyp, który najlepiej pasuje do roli postaci w bandzie. To bardziej
 * **Biurokrata/Administrator:** Specjalista od formularzy i intryg (może być zaskakująco przydatny!).
 * **Zesłaniec/Uciekinier:** Weteran z własną agendą.
 
-### Cechy pozytywne i negatywne
+## Cechy pozytywne i negatywne
 Cechy to kluczowy element Twojej postaci. To one definiują jej unikalne umiejętności, talenty i wady. Wybierając cechy, tworzysz niepowtarzalny zestaw zdolności, które będą miały wpływ na Twoje działania w grze.
 
 Po wydaniu PK na PŻ i PC:
 1.  Możesz (i często musisz, by zdobyć PC) wybrać **cechy negatywne** dla każdej postaci. Każda cecha negatywna **dodaje** określoną liczbę Punktów Cech (PC) do puli tej postaci.
 2.  Zdobyte w ten sposób PC wydajesz na **cechy pozytywne** dla tej samej postaci, płacąc ich koszt w PC.
 
-Celem jest stworzenie postaci z unikalną mieszanką zalet i wad. Posiadanie cechy pozytywnej zwykle daje **przewagę** w odpowiednich Testach, a negatywnej narzuca **utrudnienie** lub inny negatywny efekt. Pełna, podzielona tematycznie lista cech znajduje się w osobnym dodatku: [Cechy postaci](`../cechy.md`).
+Celem jest stworzenie postaci z unikalną mieszanką zalet i wad. Posiadanie cechy pozytywnej zwykle daje **przewagę** w odpowiednich Testach, a negatywnej narzuca **utrudnienie** lub inny negatywny efekt. Pełna, podzielona tematycznie lista cech znajduje się w osobnym dodatku: [Cechy postaci](../cechy.md).
 
-### Ekwipunek (Nie przywiązuj się!)
+## Ekwipunek (Nie przywiązuj się!)
 
 * **Standardowy i tymczasowy:** Ekwipunek w TEOHIPHIP jest **przydziałowy, często zawodny i nie przechodzi między misjami**. Nie śledzisz listy posiadanych przedmiotów w kampanii.
 * **Przydział na misję:** Przed każdą potyczką MG (lub scenariusz) określi **standardowy zestaw ekwipunku** dostępny dla Twojej bandy (np. "każdy agent ma chronocykl, komunikator i podstawowy zestaw narzędzi/broni energetycznej").
 * **Znaczenie narracyjne i cechy:** Posiadanie *odpowiedniego* sprzętu w *danym momencie* może być kluczowe i wynikać z cech (np. *Techniczny fachowiec* może mieć przy sobie potrzebne narzędzie) lub opisu scenariusza. Cechy takie jak *Mistrz improwizacji* bezpośrednio wpływają na interakcję ze sprzętem. Broń i pancerz działają zgodnie z zasadami skirmishowymi, ale ich dostępność i jakość mogą być bardzo różne w zależności od misji (i widzimisię INT).
 
-### Motywacje i cele bandy
+## Motywacje i cele bandy
 
 Określ, co napędza Twoją bandę (lub poszczególnych jej członków): Przetrwanie? Awans? Ucieczka? Cele te mogą wpływać na decyzje podejmowane podczas potyczek i w kampanii.
 
@@ -68,7 +68,7 @@ Określ, co napędza Twoją bandę (lub poszczególnych jej członków): Przetrw
 
 Określ też jej **stosunek do TEOHIPHIP** – czy wierzy w sens "optymalizacji"? Uważa ją za farsę? A może widzi w niej okazję do własnych celów?
 
-### Technologia i zdolności czasowe
+## Technologia i zdolności czasowe
 
 Zamiast magii, postacie dysponują (mniej lub bardziej sprawną) technologią Instytutu:
 
@@ -79,7 +79,7 @@ Zamiast magii, postacie dysponują (mniej lub bardziej sprawną) technologią In
 
 Używanie zaawansowanej technologii w przeszłości jest ryzykowne – może zostać zauważone, uszkodzone, albo po prostu nie zadziałać z powodu braku odpowiedniej infrastruktury (lub nadmiaru błota).
 
-### Karta bandy
+## Karta bandy
 
 Zbierz wszystkie informacje na **Karcie Bandy**. Powinna mieć miejsce na dane 1 do 3 postaci, w tym: Imię/Numer, Archetyp, PŻ (maksymalne), cechy pozytywne i negatywne (z ich kosztem/zyskiem PC), oraz miejsce na notatki dotyczące motywacji i historii bandy.
 

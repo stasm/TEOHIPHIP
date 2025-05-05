@@ -1,41 +1,41 @@
-## Zasady potyczki
+# Zasady potyczki
 
-> „To, co się dzieje, zależy teraz wyłącznie od ciebie, bo nie ode mnie...” (Albo od zepsutego chronocykla.)  
+> „To, co się dzieje, zależy teraz wyłącznie od ciebie, bo nie ode mnie...”
 
 Potyczki w świecie TEOHIPHIP to dynamiczne, intensywne starcia, w których gracze współpracują, by osiągnąć określone cele w ograniczonym czasie. W tej sekcji znajdziesz zasady dotyczące rozgrywki, aktywacji postaci, ruchu, ataków i interakcji z terenem.
 
-### Podstawy gry
+## Podstawy gry
 
 * **Skala:** Potyczki małych band (1-3 postacie/gracz) na stole z terenem i figurkami/znacznikami.
 * **Czas gry:** Standardowo **5-6 rund**. Limit czasowy jest kluczowy dla realizacji celów!
 * **Cel:** Każdy scenariusz ma określone cele (eskorta, obrona, sabotaż itp.), które należy osiągnąć w limicie rund, aby wygrać.
 * **Materiały:** Figurki/znaczniki, miarka (np. w calach - "), kości k6, stół z elementami terenu, karty postaci.
 
-### Aktywacja i tura
+## Aktywacja i tura
 
 * **Kolejność:** Na początku każdej rundy gracze mogą ustalić kolejność aktywacji swoich band (np. przez rzut k6 lub stałą kolejność). Gracze aktywują swoje postacie naprzemiennie.
 * **Aktywacja postaci:** Gdy przypada kolej na gracza, aktywuje on **jedną** ze swoich postaci w bandzie. Ta postać wykonuje swoje działania (wydaje swoje Punkty Akcji). Następnie kolej przechodzi do następnego gracza (lub MG/algorytmu BN). Gracz nie może aktywować kolejnej postaci ze swojej bandy, dopóki wszystkie inne postacie (wszystkich graczy i BN) nie zostaną aktywowane w tej rundzie.
 * **Punkty Akcji (AP):** Każda postać w swojej aktywacji dysponuje **2 Punktami Akcji (AP)** do wydania na różne akcje. Niewydane AP przepadają na koniec aktywacji postaci.
 
-### Ruch
+## Ruch
 
 * **Akcja ruchu (koszt: 1 AP):** Postać może poruszyć się o dystans równy jej wartości **Ruchu (SPD)** (zapisanej na karcie bandy, np. 6").
 * **Pełny ruch (koszt: 2 AP):** Postać może wydać oba AP, aby poruszyć się o dystans do **dwukrotności** swojej wartości Ruchu (np. 12").
 * **Trudny teren:** Poruszanie się przez trudny teren (gruz, bagno, gęste zarośla) kosztuje **podwójnie** (każdy 1" ruchu zużywa 2" SPD).
 * **Wspinaczka / skoki:** Proste przeszkody pokonuje się normalnie. Trudniejsze wymagają **akcji Ruchu (1 AP)** i **Testu** (np. Zręczności). Sukces pozwala pokonać przeszkodę. Porażka oznacza zmarnowanie akcji (lub inne konsekwencje wg MG).
 
-### Linia wzroku (LoS)
+## Linia wzroku (LoS)
 
 * **"Prawdziwa" LoS:** Masz LoS, jeśli możesz poprowadzić nieprzerwaną linię od głowy/oczu Twojej figurki do korpusu/głowy figurki celu.
 * **Blokowanie:** Solidne elementy terenu i inne figurki blokują LoS.
 * **Ukrycie:** Cel częściowo widoczny przez teren "miękki" (krzaki, dym). Atakujący otrzymuje **utrudnienie** na Test Ataku.
 
-### Teren i osłona
+## Teren i osłona
 
 * **Osłona:** Postać korzysta z Osłony, jeśli część jej sylwetki jest zasłonięta przez solidny element terenu (murek, barykada) z perspektywy atakującego i postać jest tuż za nim (ok. 1").
 * **Korzyść z osłony:** Cel w Osłonie **ignoruje pierwszy sukces** wyrzucony przeciwko niej w Teście Ataku.
 
-### Akcje w turze (koszt standardowy: 1 AP)
+## Akcje w turze (koszt standardowy: 1 AP)
 
 Dostępne akcje (koszt 1 AP, chyba że zaznaczono inaczej):
 * **Ruch:** Jak opisano powyżej.
@@ -45,7 +45,7 @@ Dostępne akcje (koszt 1 AP, chyba że zaznaczono inaczej):
 * **Interakcja:** Użycie obiektu, realizacja celu scenariusza (np. podłożenie ładunku). Często wymaga **Testu**. Czasem może kosztować 2 AP.
 * **Użycie cechy aktywnej:** Jeśli cecha tego wymaga.
 
-### Mechanika testów
+## Mechanika testów
 
 System tinyd6 jest prosty i elastyczny, idealny do obsługi chaosu podróży w czasie bez grzęźnięcia w skomplikowanych regułach. Koncentrujemy się na narracji, szybkich decyzjach i nieprzewidywalnych (często komicznych) wynikach rzutów kośćmi.
 
@@ -57,7 +57,7 @@ Gdy postać próbuje zrobić coś, co obarczone jest ryzykiem porażki, wymaga s
 * **Sukces:** Wynik **5 lub 6** na kości to sukces. Liczba sukcesów ma znaczenie (np. w walce).
 * **Przewaga/utrudnienie nie kumulują się.** Jeśli działają oba, wykonuje się test standardowy (2k6).
 
-### Pula Inicjatywy (kluczowa mechanika taktyczna!)
+## Pula Inicjatywy (kluczowa mechanika taktyczna!)
 
 * **Rzut Puli:** Na początku **każdej rundy**, każda postać gracza rzuca tyloma kośćmi k6, ile wynosi jej **aktualna liczba PŻ**. Wyniki te tworzą jej Pulę Inicjatywy na tę rundę.
 * **Przechowywanie:** Kości z Puli odkłada się na bok, są dostępne przez całą rundę.
@@ -67,7 +67,7 @@ Gdy postać próbuje zrobić coś, co obarczone jest ryzykiem porażki, wymaga s
     * Wymiana kości **nie jest akcją** i nie zużywa AP.
 * **Koniec rundy:** Niewykorzystane kości z Puli przepadają na koniec rundy. W nowej rundzie rzuca się nową pulę.
 
-### Walka
+## Walka
 
 * **Test ataku:** Bazowo 2k6, modyfikowany przez przewagę/utrudnienie.
 * **Trafienie i obrażenia:** Każdy **sukces** (wynik 5 lub 6) w Teście Ataku zadaje **1 PŻ** obrażeń celowi (po uwzględnieniu Osłony).

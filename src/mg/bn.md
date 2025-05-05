@@ -1,8 +1,8 @@
-## Bohaterowie Niezależni
+# Bohaterowie niezależni
 
 Ten rozdział zawiera profile statystyk i algorytmy zachowań dla postaci i istot, które bandy graczy mogą napotkać (lub którymi mogą być) podczas swoich misji.
 
-### Tworzenie Statystyk BN dla Skirmisha
+## Tworzenie Statystyk BN dla Skirmisha
 
 Profil BN-a powinien zawierać:
 
@@ -13,7 +13,7 @@ Profil BN-a powinien zawierać:
 * **Podstawowy Atak:** Opis głównego ataku (dystansowy/wręcz), ewentualny zasięg i specjalne właściwości (np. ignoruje Osłonę, zadaje dodatkowe obrażenia przy sukcesie krytycznym?). Test ataku to zwykle 2k6, chyba że Cecha daje Przewagę/Utrudnienie.
 * **Algorytm Zachowania:** Przypisany algorytm (patrz niżej).
 
-### Przykładowe Profile BN
+## Przykładowe Profile BN
 
 *(Tutaj należy stworzyć kilka-kilkanaście gotowych profili dla najczęściej występujących typów BN)*
 
@@ -41,7 +41,7 @@ Profil BN-a powinien zawierać:
     * Atak: Pazury/Zęby (Wręcz, Test 2k6, 2 sukcesy=2 PŻ)
     * Algorytm: "Drapieżnik" (patrz 4.3)
 
-### Biblioteka Algorytmów BN
+## Biblioteka Algorytmów BN
 
 Algorytm to lista priorytetów. Podczas aktywacji BN-a, wykonaj pierwszą akcję z listy, której warunki są spełnione. Jeśli akcja kosztuje 1 AP i BN ma jeszcze 1 AP, sprawdź listę ponownie dla drugiego AP.
 

@@ -1,14 +1,14 @@
-## Kampania i rozwój bandy
+# Kampania i rozwój bandy
 
 TEOHIPHIP można rozgrywać jako pojedyncze potyczki lub jako **kampanię** – serię połączonych misji, w której Wasze bandy zdobywają doświadczenie i rozwijają się (lub giną w odmętach czasu).
 
-### Struktura kampanii
+## Struktura kampanii
 
 * Kampania to sekwencja scenariuszy skirmishowych.
 * Gracze zachowują swoje postacie i ich **cechy** między misjami.
 * MG pełni rolę narratora, przedstawia misje i zarządza konsekwencjami.
 
-### Faza "Pomiędzy misjami"
+## Faza "Pomiędzy misjami"
 
 Po każdej potyczce, przed rozpoczęciem następnej, wykonajcie następujące kroki:
 
@@ -28,6 +28,6 @@ Po każdej potyczce, przed rozpoczęciem następnej, wykonajcie następujące kr
 6.  **Konsekwencje eliminacji bandy:** Jeśli cała banda została wyeliminowana (0 PK za misję), gracz **otrzymuje 12 PK** na stworzenie **nowej bandy** od zera na następną potyczkę, tracąc cały poprzedni postęp.
 7.  **Aktualizacja kart postaci.**
 
-### Cykl kampanii
+## Cykl kampanii
 
 Rozgrywka toczy się w cyklu: Potyczka -> Faza Pomiędzy misjami -> Następna potyczka.

@@ -1,14 +1,14 @@
-## Prowadzenie Kampanii Skirmishowej
+# Prowadzenie Kampanii Skirmishowej
 
 Ten rozdział opisuje zasady łączenia pojedynczych potyczek skirmishowych w dłuższą kampanię, wraz z rozwojem band graczy.
 
-### Struktura i Narracja Kampanii
+## Struktura i Narracja Kampanii
 
 * Kampania to seria powiązanych (fabularnie lub tematycznie) scenariuszy skirmishowych.
 * Rola MG w kampanii to nie tylko prowadzenie potyczek, ale też tworzenie **narracyjnego spoiwa** między nimi: opisywanie odpraw w centrali INT, przedstawianie konsekwencji poprzednich misji, wprowadzanie powracających BN-ów (wrogów lub sojuszników), zarządzanie ewentualną główną linią fabularną.
 * Kampania może mieć różną strukturę: liniową (seria misji prowadzących do finału), piaskownicę (gracze wybierają misje z dostępnej puli) lub mieszana.
 
-### Zasady Progresji Bandy ("Faza Pomiędzy Misjami")
+## Zasady Progresji Bandy ("Faza Pomiędzy Misjami")
 
 Po każdej potyczce, przed rozpoczęciem następnej, stosuje się następujące zasady:
 
@@ -27,13 +27,13 @@ Po każdej potyczce, przed rozpoczęciem następnej, stosuje się następujące 
 5.  **(Opcjonalnie) Wykupienie Cechy Negatywnej:** Wymaga zgody MG, uzasadnienia i kosztuje **2 PK za każdy 1 PC**, który Cecha dawała.
 6.  **Konsekwencje Eliminacji Bandy:** Gracz, którego banda została całkowicie wyeliminowana (0 PK za misję), **otrzymuje 12 PK** na stworzenie **nowej bandy** od zera. Traci cały poprzedni postęp.
 
-### Łączenie Scenariuszy i Konsekwencje
+## Łączenie Scenariuszy i Konsekwencje
 
 * Wynik potyczki może wpływać na następny scenariusz. Np. przegrana misja ratunkowa może oznaczać, że w kolejnej misji trzeba będzie stawić czoła uratowanemu agentowi, który przeszedł na stronę wroga. Wygrana może dać dostęp do lepszego (choć nadal tymczasowego) sprzętu w następnej misji lub informacji ułatwiających zadanie.
 * Działania graczy mogą zmieniać "stan świata" kampanii – np. rozzłościć konkretnego dyrektora INT, zwrócić uwagę MOIRY, stworzyć nowy, nieprzewidziany paradoks, który stanie się tematem kolejnych misji.
 * MG powinien notować kluczowe wyniki i wydarzenia, aby budować spójność kampanii.
 
-### Pomysły na Łuki Kampanijne (Skirmish)
+## Pomysły na Łuki Kampanijne (Skirmish)
 
 * **"Polowanie na..."**: Seria misji tropiących i konfrontujących zbuntowanego agenta INT lub groźną anomalię temporalną.
 * **"Artefakty Czasu"**: Kampania skupiona na odzyskiwaniu serii potężnych (i niebezpiecznych) przedmiotów rozrzuconych w czasie.

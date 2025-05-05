@@ -1,16 +1,16 @@
-## Witajcie w poprawionej (gorzej) historii
+# Witajcie w poprawionej (gorzej) historii
 
 > „Dzieje powszechne wyreguluje się, oczyści, naprawi, wyrówna i udoskonali, zgodnie z zasadami humanitaryzmu, racjonalizmu i ogólnej estetyczności; rozumiesz chyba, że mając taką masarnię i jatkę w rodowodzie, wstyd pchać się pomiędzy wysokie kosmiczne cywilizacje!”
 
 Ten rozdział to Twój bilet (w jedną stronę?) do świata przyszłości, która postanowiła majstrować przy przeszłości. Zanim stworzysz swoją bandę agentów, musisz zrozumieć, w jakim absurdalnym przedsięwzięciu bierzecie udział.
 
-### Czas korekt i katastrof: Instytut i TEOHIPHIP
+## Czas korekt i katastrof: Instytut i TEOHIPHIP
 
 Wkroczyliśmy w świetlaną przyszłość – powiedzmy, okolice XXVII wieku. Ludzkość opanowała podróże w czasie. Powstał wszechmocny **Instytut Temporystyki (INT)**, dysponujący niewyobrażalnymi środkami i technologią: od indywidualnych **chronocykli** przypominających skrzyżowanie roweru z miotłą, przez większe **chronotraki, czasowce i tempobile**, aż po gigantyczne instalacje jak generatory **GENEZIS, BREKEKEK, KOAKS czy KWAK**. Wszystko to miało służyć szczytnemu celowi: **TEOHIPHIP – Telechronicznej Optymalizacji Historii Powszechnej Hyperputerem**. Chodziło o to, by wyczyścić historię z wojen, cierpienia i błędów, czyniąc ją estetyczną i racjonalną wizytówką ludzkości.  
 
 Problem w tym, że operacja zakończyła się... cóż, delikatnie mówiąc, umiarkowanym sukcesem. Każda próba "naprawy" prowadziła do kolejnych, często jeszcze gorszych katastrof.
 
-### Świat Lema: Pomiędzy nauką a absurdem
+## Świat Lema: Pomiędzy nauką a absurdem
 
 Świat TEOHIPHIP RPG to świat twardej (choć absurdalnej) science-fiction w stylu Stanisława Lema. Zapomnij o magii – tu rządzi **chronotechnologia**, ze wszystkimi jej błędami, awariami i paradoksami. Logika czasu jest naginana, łamana i zapętlana. Spotkanie samego siebie to niemal rutyna. Przyczynowość to raczej luźna sugestia. A wszystko to podlane jest sosem **biurokratycznego chaosu, niekompetencji, rywalizacji, nepotyzmu** i czarnego humoru.  
 
@@ -27,7 +27,7 @@ Skutki działań Instytutu są widoczne na każdym kroku (i w każdej epoce):
 * Historia jest pełna zesłanych w czasie, nieudolnych agentów INT (np. Leonardo da Vinci, Bosković, Hieronim Bosch, Homer, Julian Apostata, Platon, Arystoteles, Richelieu, Napoleon ) i skutków ich działań (np. powstanie piramid, manna z nieba, romantyzm jako efekt działań MOIRY, "latające talerze" ).  
 * Nawet sabbaty czarownic na miotłach to efekt "dzikiej chronomocji" znudzonej młodzieży na chronocyklach.
 
-### Struktura chaosu: Kto jest kim w INT?
+## Struktura chaosu: Kto jest kim w INT?
 
 Instytut Temporystyki to gigantyczna, rozrośnięta biurokracja, pełna departamentów, pionów i skrótów:
 
@@ -40,11 +40,11 @@ Instytut Temporystyki to gigantyczna, rozrośnięta biurokracja, pełna departam
 
 Hierarchia jest płynna, kompetencje niejasne, a intrygi i wzajemne podgryzanie to norma. Lojalność jest towarem deficytowym, a zesłanie w czasie (np. do średniowiecza, starożytności) to popularna forma kary lub pozbycia się niewygodnych osób.
 
-### Życie w cieniu paradoksu
+## Życie w cieniu paradoksu
 
 Dla agenta Instytutu życie to ciągłe balansowanie między absurdalnymi dyrektywami przełożonych, awaryjnym sprzętem, nieprzewidywalnymi skutkami własnych działań i próbą zachowania zdrowych zmysłów w świecie, gdzie przeszłość, teraźniejszość i przyszłość nieustannie się przenikają i zmieniają. Podróż w czasie jest ryzykowna – można wylądować nie tam, gdzie się chciało, utknąć w pętli czasowej, przypadkiem wywołać katastrofę lub narazić się na gniew lokalnych mieszkańców (lub MOIRY). Zasady są niejasne, cele sprzeczne, a jedyną pewną rzeczą jest to, że cokolwiek zrobisz, prawdopodobnie tylko pogorszysz sprawę.
 
-### Kim jesteś w tym świecie? Rola postaci graczy
+## Kim jesteś w tym świecie? Rola postaci graczy
 
 Wasze postacie to trybiki w tej absurdalnej machinie. Możecie być:
 
@@ -57,7 +57,7 @@ Wasze postacie to trybiki w tej absurdalnej machinie. Możecie być:
 
 Wasze cele mogą być różne: wierna służba Instytutowi (powodzenia\!), próba naprawienia szkód (jeszcze raz powodzenia\!), ucieczka od tego szaleństwa, zdobycie władzy w jakiejś epoce, albo po prostu przetrwanie kolejnego dnia bez spowodowania końca świata lub trafienia na zesłanie.
 
-### Czego spodziewać się po grze?
+## Czego spodziewać się po grze?
 
 TEOHIPHIP Skirmish to gra o:
 

@@ -1,12 +1,12 @@
-## Zrozumieć TEOHIPHIP – Głębsze spojrzenie na świat
+# Zrozumieć TEOHIPHIP – Głębsze spojrzenie na świat
 
 Zanim zaczniesz rzucać swoimi graczami w wir temporalnych katastrof, musisz sam zanurzyć się po uszy w absurdalnym świecie Instytutu Temporystyki. Podręcznik gracza dał im podstawy, ale Ty, jako Mistrz Gry, potrzebujesz głębszego wglądu w mechanizmy (lub ich brak), które napędzają ten chaos. Ten rozdział to Twoja przepustka za kulisy TEOHIPHIP – tam, gdzie podejmowane są (zazwyczaj fatalne) decyzje, gdzie rodzą się (zazwyczaj nieudane) plany i gdzie historia jest traktowana z finezją słonia w składzie porcelany... czasowej.
 
-### Instytut Temporystyki (INT) od kuchni
+## Instytut Temporystyki (INT) od kuchni
 
 Na papierze INT to wszechpotężna organizacja z XXVII wieku, dysponująca technologią podróży w czasie i szczytnym celem "optymalizacji" historii. W praktyce to rozrośnięty, skostniały i skłócony moloch biurokratyczny, w którym lewa ręka nie wie, co robi prawa, a obie próbują jednocześnie sabotować nogę.
 
-#### Struktura (pozorna)
+### Struktura (pozorna)
 
 INT dzieli się na liczne piony, departamenty i resorty, których kompetencje często się pokrywają lub są całkowicie niejasne. Najważniejsze (z punktu widzenia potencjalnych problemów dla graczy) to:
 
@@ -16,7 +16,7 @@ INT dzieli się na liczne piony, departamenty i resorty, których kompetencje cz
 * **Pion Historyczny (Resorty Ludzki i Nieludzki):** Planują "korekty". Resort Nieludzki, pod kierownictwem **O. Goodlaya**, odpowiadał za katastrofalną "optymalizację" ewolucji (np. stworzenie człowieka z odpadów). Resort Ludzki, kierowany przez **Harry'ego S. Tottelesa** (zwolennika kryptochronii, zesłanego jako Arystoteles) i wcześniej przez **P. Lattona** (zwolennika jawnego narzucania idealnego państwa, zesłanego jako Platon), próbował "naprawiać" ludzką historię, również z opłakanymi wynikami.
 * **MOIRA (Mobilna Inspekcja Ratunkowa):** "Straż pożarna" Instytutu, mająca łapać zbuntowanych agentów i tuszować największe wpadki. Sama często powodowała problemy (np. wędrówki ludów, romantyzm pod wodzą **N. Betterparta** vel Napoleona). Dysponują własnymi siłami – **Czasochroniarzami**.
 
-#### Kluczowe postacie (czyli główni podejrzani)
+### Kluczowe postacie (czyli główni podejrzani)
 
 Poza wspomnianymi szefami resortów, warto znać kilka nazwisk, które przewijają się w historii (i dokumentacji) INT:
 
@@ -25,7 +25,7 @@ Poza wspomnianymi szefami resortów, warto znać kilka nazwisk, które przewijaj
 * **Inżynierowie-Katastrofiści:** Tacy jak **Wadenlecker** (zniszczenie Marsa i Wenus), **Plötzlich** (epoki lodowcowe, krater w Arizonie), **Bummeland i Dyndall** (zagłada dinozaurów przez awarię HAMUŁY), **Astroianni, Gestirner, Starshit** (zniszczenie Ateny i Księżyca) – ich "osiągnięcia" stanowią tło dla działań graczy i mogą być źródłem anomalii lub misji ratunkowych.
 * **Zesłańcy:** Wielu geniuszy i tyranów historycznych to w rzeczywistości zesłani pracownicy INT. Np. **Leonardo da Vinci** (jako prof. Nardeau de Vince), **Homer** (jako Ohmer), **Hieronim Bosch** (jako projektant ewolucyjny Bosch), **Ruđer Josip Bošković** (jako szef technologów Bosković). Spotkanie takiego zesłańca może być przygodą samą w sobie.
 
-#### Nieoficjalna historia INT (czyli kronika wpadek)
+### Nieoficjalna historia INT (czyli kronika wpadek)
 
 Podręcznik gracza wspomina o kilku katastrofach. Jako MG, powinieneś znać je lepiej, by móc wplatać ich konsekwencje w grę:
 
@@ -34,11 +34,11 @@ Podręcznik gracza wspomina o kilku katastrofach. Jako MG, powinieneś znać je 
 * **Projekt Ewolucja:** Festiwal sabotażu i niekompetencji pod wodzą O. Goodlaya. Dinozaury wyginęły przez awarię systemu **HAMUŁA**. Człowiek powstał z "odpadów" jako akt zemsty. Wiele dziwacznych stworzeń (jak te z obrazów Hieronima Boscha – zesłanego projektanta) to relikty tych prób.
 * **"Korekty" Historyczne:** Piramidy jako wynik nieudanej akceleracji urbanizacji, manna z nieba jako zrzut zaopatrzenia, monoteizm jako metoda kryptochronii A. Donnaia, romantyzm jako efekt uboczny działań MOIRY, "latające talerze" jako awarie sprzętu. Nawet sabaty czarownic na miotłach to efekt "dzikiej chronomocji" znudzonej młodzieży na chronocyklach.
 
-### Sztuka absurdu i biurokracji
+## Sztuka absurdu i biurokracji
 
 Oddanie klimatu Lema to klucz do udanej sesji TEOHIPHIP. Nie chodzi tylko o podróże w czasie, ale o sposób, w jaki ten świat jest przedstawiony – z mieszanką naukowej precyzji (pozornej), biurokratycznego bełkotu, czarnego humoru i filozoficznej zadumy nad ludzką (i instytucjonalną) głupotą.
 
-#### Jak mówić i pisać "po lemowsku"
+### Jak mówić i pisać "po lemowsku"
 
 * **Neologizmy techniczno-biurokratyczne:** Twórz własne skróty (jak PIONTEK, MOIRA, HAMUŁA, TEOHIPHIP) i nazwy urządzeń (chronocykl, czasowiec, tempobil, dyssypator temporalny, kwantowy korektor historii, osobisty dezintegrator paradoksów). Niech brzmią naukowo, ale jednocześnie nieco śmiesznie lub złowieszczo.
 	* _Przykład:_ "Zgodnie z okólnikiem 7/bis/TEO, awaria DUPKów (Dyssypatorów Układowych Powolnej Kompensacji) na Wenus była wynikiem nieautoryzowanej próby optymalizacji orbity przy użyciu niestandardowego kwantyfikatora pętli przyczynowej."
@@ -64,23 +64,23 @@ Oddanie klimatu Lema to klucz do udanej sesji TEOHIPHIP. Nie chodzi tylko o podr
 
 Pamiętaj, kluczem jest mieszanie powagi z absurdem, technicznego żargonu z biurokratycznym bełkotem i czarnego humoru z egzystencjalnym zmęczeniem materiału (zarówno sprzętu, jak i personelu INT). Niech Twoje opisy i dialogi oddają ten specyficzny, lemowski "smaczek".
 
-#### Czarny humor i ironia
+### Czarny humor i ironia
 
 * Setting aż prosi się o czarny humor. Śmiejcie się z katastrof, niekompetencji i absurdów. Ironia powinna być wszechobecna – sukcesy są podejrzane, porażki są normą, a próby naprawy prowadzą do jeszcze większych problemów.
 * **Biurokracja jako żywy przeciwnik:** Nie traktuj biurokracji tylko jako tła. Uczyń ją aktywną przeszkodą. Zgubione wnioski, sprzeczne polecenia, konieczność zdobycia absurdalnych pozwoleń, kontrole wewnętrzne, złośliwi urzędnicy – to wszystko może być równie groźne co paradoks czasowy. Testy mogą dotyczyć nie tylko walki czy naprawy, ale też umiejętności nawigacji w gąszczu przepisów (np. test na *Biurokratyczny spryt*).
 
-### Paradoksy dla opornych (i zaawansowanych)
+## Paradoksy dla opornych (i zaawansowanych)
 
 Podróże w czasie w TEOHIPHIP nieuchronnie prowadzą do paradoksów. Nie próbuj tworzyć spójnego, naukowego modelu – Lem traktował je raczej jako narzędzie fabularne i źródło absurdu. Twoim celem jest wykorzystanie paradoksów do tworzenia ciekawych i zabawnych (lub dramatycznych) sytuacji, a nie do udowodnienia spójności teorii względności.
 
-#### Typowe paradoksy w TEOHIPHIP
+### Typowe paradoksy w TEOHIPHIP
 
 * **Paradoks Dziadka (zmodyfikowany):** Co się stanie, jeśli gracz przypadkiem uniemożliwi narodziny swojego przełożonego z INT? Albo jeśli "naprawi" wydarzenie, które było przyczyną jego własnej misji? Konsekwencje mogą być różne – od subtelnych zmian w rzeczywistości po całkowite wymazanie postaci (lub przełożonego) z istnienia.
 * **Pętle Czasowe:** Postacie mogą utknąć w powtarzającym się fragmencie czasu. Jak sugerował Tichy, pętle nie muszą być idealne, a kluczem do wyjścia może być zmiana działania lub zrozumienie przyczyny pętli. To świetny materiał na całą przygodę.
 * **Spotkanie Samego Siebie:** Niemalże rutyna w INT. Może prowadzić do dezorientacji, wymiany informacji (lub dezinformacji), a w skrajnych przypadkach do anihilacji (jeśli wierzyć niektórym teoriom) lub po prostu niezręcznej rozmowy.
 * **Efekt Motyla na Sterydach:** Drobne zmiany w przeszłości mogą mieć nieprzewidywalne, często absurdalne skutki w przyszłości (lub teraźniejszości INT). Zostawienie w średniowieczu działającego komunikatora może doprowadzić do powstania kultu technologii lub... nowej linii modnych nakryć głowy.
 
-#### Jak zarządzać paradoksami w grze
+### Jak zarządzać paradoksami w grze
 
 * **Narracyjnie:** Skup się na opisie dziwnych zjawisk, poczucia déja vu, nagłych zmian w otoczeniu lub wspomnieniach postaci. Niech gracze czują, że czas jest niestabilny.
 * **Mechanicznie (lekko):** Paradoksy mogą wywoływać stres, dezorientację lub chwilowe szaleństwo – użyj testów Woli/Odporności (z modyfikatorami za cechy jak *Podatność/Odporność na paradoksy*). Porażka może oznaczać Utrudnienie na kolejne akcje, utratę PŻ (reprezentujących też stabilność psychiczną), chwilową amnezję lub kompulsywne zachowanie.
