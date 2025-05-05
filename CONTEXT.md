@@ -67,6 +67,19 @@ Oto skondensowane podsumowanie dotychczasowej pracy nad TEOHIPHIP, które posłu
 * Dopracowanie zasad opcjonalnych (np. wykupienie Cech Negatywnych, "odzyskanie" postaci).
 * Finalna redakcja i formatowanie podręczników.
 
+**8. Aktualna Organizacja Dokumentacji (Stan na 05.05.2025):**
+
+* Rozpoczęto konwersję dokumentacji do formatu **mdbook** dla lepszej organizacji i prezentacji treści.
+* Istniejące pliki `md` zostały podzielone na mniejsze, bardziej zarządzalne moduły.
+* Struktura dokumentacji została zorganizowana w katalogi tematyczne w folderze `src`:
+  * `wprowadzenie/` - Ogólny wstęp do gry i świata.
+  * `gracz/` - Podręcznik Gracza z zasadami tworzenia band i prowadzenia potyczek.
+  * `mg/` - Podręcznik Mistrza Gry z zasadami prowadzenia gry.
+  * `scenariusze/` - Przykładowe misje do wykorzystania w grze.
+  * Dokumenty pomocnicze: `cechy.md`, `karta.md`, `słowniczek.md`.
+* Plik `SUMMARY.md` definiuje strukturę spisu treści dla mdbooka.
+* Plik `book.toml` zawiera podstawową konfigurację mdbooka.
+
 ---
 
 Ten dokument powinien zapewnić wystarczający kontekst do kontynuowania pracy nad systemem TEOHIPHIP, przypominając główne założenia i podjęte decyzje projektowe.

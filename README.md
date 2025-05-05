@@ -47,14 +47,42 @@ TEOHIPHIP Skirmish jest idealny dla graczy, którzy:
 
 ## Stan projektu
 
-Projekt jest w fazie aktywnego rozwoju. Główne dokumenty (w trakcie aktualizacji do fokusu skirmishowego):
-* [`Pierwsze_kroki.md`](Pierwsze_kroki.md): Ekspresowy kurs przetrwania w absurdalnym świecie TEOHIPHIP.
-* [`Podręcznik_czasownika.md`](Podręcznik_czasownika.md): Podręcznik Gracza, zawierający zasady tworzenia band, zasady potyczek skirmishowych i kampanii.
-* [`Podręcznik_mistrza_gry.md`](Podręcznik_mistrza_gry.md): Podręcznik Mistrza Gry, zawierający szczegóły świata, zasady prowadzenia potyczek, projektowania scenariuszy, profile BN z algorytmami, zasady kampanii i narzędzia MG.
-* [`Cechy_postaci.md`](Cechy_postaci.md): Rozbudowana, podzielona tematycznie lista Cech Pozytywnych i Negatywnych.
-* [`Scenariusze.md`](Scenariusze.md): Opis misji i scenariuszy, w tym przykłady i pomysły na misje.
-* [`Słowniczek.md`](Słowniczek.md): Słownik terminów i pojęć używanych w grze.
-* *Inne pliki projektowe (w folderze `designs`)*: Wcześniejsze wersje i analizy mechanik.
+Projekt jest w fazie aktywnego rozwoju. Dokumentacja jest obecnie konwertowana do formatu **mdbook** dla lepszej organizacji i prezentacji treści.
+
+### Struktura dokumentacji
+
+Dokumenty są zorganizowane w katalogi tematyczne w folderze `src`:
+
+* **Wprowadzenie**
+  * `wprowadzenie/index.md`: Ogólne wprowadzenie do gry.
+  * `wprowadzenie/świat.md`: Opis świata TEOHIPHIP.
+
+* **Podręcznik Gracza**
+  * `gracz/index.md`: Podstawy dla graczy.
+  * `gracz/banda.md`: Tworzenie bandy.
+  * `gracz/potyczka.md`: Zasady potyczki skirmishowej.
+  * `gracz/kampania.md`: Zasady kampanii.
+  * `gracz/porady.md`: Porady dla graczy.
+  * `gracz/start.md`: Szybki start.
+
+* **Podręcznik Mistrza Gry**
+  * `mg/index.md`: Wprowadzenie dla Mistrzów Gry.
+  * `mg/świat.md`: Szczegóły świata.
+  * `mg/potyczka.md`: Prowadzenie potyczki.
+  * `mg/bn.md`: Bohaterowie Niezależni i ich algorytmy.
+  * `mg/kampania.md`: Prowadzenie kampanii.
+  * `mg/scenariusze.md`: Tworzenie scenariuszy.
+  * `mg/tabele.md`: Tabele pomocnicze.
+
+* **Scenariusze**
+  * Sześć przykładowych misji: Korekta, Eskorta, Neutralizacja, Bastion, Artefakt i Sabotaż.
+
+* **Dodatki**
+  * `cechy.md`: Rozbudowana lista cech postaci.
+  * `karta.md`: Karta postaci.
+  * `słowniczek.md`: Słownik terminów.
+
+* *Pliki projektowe (w folderze `designs`)*: Wcześniejsze wersje i analizy mechanik.
 
 ---
 

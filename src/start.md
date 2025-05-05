@@ -1,4 +1,6 @@
-# TEOHIPHIP: Pierwsze kroki
+# Pierwsze kroki
+
+> „Historia lubi się powtarzać. Zwłaszcza gdy ciągle ją psujemy.”
 
 Witaj Rekrucie! Ten dokument to Twój ekspresowy kurs przetrwania w absurdalnym świecie **TEOHIPHIP – Taktycznej Gry Skirmishowej o Podróżach w Czasie**. Zapnij pasy chronocykla, bo zaczynamy!
 
@@ -73,7 +75,7 @@ To **kluczowa mechanika** TEOHIPHIP, dająca Ci kontrolę nad losowością!
 
 Ten "Szybki Start" to tylko wierzchołek temporalnej góry lodowej! Aby w pełni poznać zasady tworzenia band, pełną listę Cech, szczegółowe zasady potyczek, reguły kampanii i zanurzyć się w absurdalnym świecie TEOHIPHIP, sięgnij po pełne wersje podręczników:
 
-* **Podręcznik Czasownika:** Wszystko, co musi wiedzieć gracz.
+* **Podręcznik Gracza:** Wszystko, co musi wiedzieć gracz.
 * **Podręcznik Mistrza Gry:** Przewodnik dla osoby prowadzącej grę.
 
 *Powodzenia na szlakach czasu! I pamiętaj: Instytut na Ciebie liczy... prawdopodobnie na to, byś posprzątał bałagan po kimś innym.*
