@@ -1,4 +1,4 @@
-# TEOHIPHIP: Cechy postaci
+# Cechy postaci
 
 Poniżej znajduje się zaktualizowana lista cech postaci dla gry TEOHIPHIP Skirmish, oparta na kanonicznym zestawieniu projektowym (designs/09_cechy_lista.md). Cechy zostały pogrupowane tematycznie. Wartości w nawiasach oznaczają koszt (-) lub zysk (+) Punktów Cech (PC).
 

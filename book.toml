@@ -3,15 +3,11 @@ authors = ["Stanisław Małolepszy"]
 language = "pl"
 multilingual = false
 src = "src"
-title = "TEOHIPHIP: Taktyczny Skirmish Temporalny"
+title = "TEOHIPHIP Skirmish"
 description = "Taktyczna gra skirmishowa z elementami RPG, osadzona w absurdalnym świecie podróży w czasie inspirowanym 'Podróżą dwudziestą' Stanisława Lema"
 
 [output.html]
-default-theme = "ayu" 
-preferred-dark-theme = "navy"
 git-repository-url = "https://github.com/stasm/TEOHIPHIP"
-git-repository-icon = "fa-github"
-copy-fonts = true
 no-section-label = true
 
 [output.html.search]

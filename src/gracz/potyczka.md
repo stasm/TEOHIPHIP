@@ -64,7 +64,7 @@ Gdy postać próbuje zrobić coś, co obarczone jest ryzykiem porażki, wymaga s
 * **Wymiana kości:** W dowolnym momencie, gdy postać wykonuje **Test**, po rzucie kośćmi testowymi, gracz może zdecydować o wymianie **jednej** kości z rzutu testowego na **jedną** kość ze swojej Puli Inicjatywy.
     * **Koszt:** Każda taka wymiana kosztuje postać **1 PŻ**. PŻ odejmuje się natychmiast. Nie można dokonać wymiany, jeśli zredukowałoby to PŻ postaci do 0.
     * **Zużycie:** Kość z Puli użyta do wymiany jest odrzucana.
-    * **Brak Akcji:** Wymiana kości **nie jest akcją** i nie zużywa AP.
+    * Wymiana kości **nie jest akcją** i nie zużywa AP.
 * **Koniec rundy:** Niewykorzystane kości z Puli przepadają na koniec rundy. W nowej rundzie rzuca się nową pulę.
 
 ### Walka

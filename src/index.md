@@ -1,5 +1,4 @@
 # Wprowadzenie
-# TEOHIPHIP: Taktyczny Skirmish Temporalny
 
 > „Przybywam z Epoki Chronotrakcji, Chronomocji i Telechronii.”
 

@@ -46,13 +46,13 @@ Po wydaniu PK na PŻ i PC:
 1.  Możesz (i często musisz, by zdobyć PC) wybrać **cechy negatywne** dla każdej postaci. Każda cecha negatywna **dodaje** określoną liczbę Punktów Cech (PC) do puli tej postaci.
 2.  Zdobyte w ten sposób PC wydajesz na **cechy pozytywne** dla tej samej postaci, płacąc ich koszt w PC.
 
-Celem jest stworzenie postaci z unikalną mieszanką zalet i wad. Posiadanie cechy pozytywnej zwykle daje **przewagę** w odpowiednich Testach, a negatywnej narzuca **utrudnienie** lub inny negatywny efekt. Pełna, podzielona tematycznie lista cech znajduje się w osobnym dodatku (`../cechy.md`).
+Celem jest stworzenie postaci z unikalną mieszanką zalet i wad. Posiadanie cechy pozytywnej zwykle daje **przewagę** w odpowiednich Testach, a negatywnej narzuca **utrudnienie** lub inny negatywny efekt. Pełna, podzielona tematycznie lista cech znajduje się w osobnym dodatku: [Cechy postaci](`../cechy.md`).
 
 ### Ekwipunek (Nie przywiązuj się!)
 
 * **Standardowy i tymczasowy:** Ekwipunek w TEOHIPHIP jest **przydziałowy, często zawodny i nie przechodzi między misjami**. Nie śledzisz listy posiadanych przedmiotów w kampanii.
 * **Przydział na misję:** Przed każdą potyczką MG (lub scenariusz) określi **standardowy zestaw ekwipunku** dostępny dla Twojej bandy (np. "każdy agent ma chronocykl, komunikator i podstawowy zestaw narzędzi/broni energetycznej").
-* **Znaczenie narracyjne i cechy:** Posiadanie *odpowiedniego* sprzętu w *danym momencie* może być kluczowe i wynikać z cech (np. *Techniczny fachowiec* może mieć przy sobie potrzebne narzędzie) lub opisu scenariusza. Cechy takie jak *Nieregulaminowy/uszkodzony sprzęt* czy *Mistrz improwizacji* bezpośrednio wpływają na interakcję ze sprzętem. Broń i pancerz działają zgodnie z zasadami skirmishowymi, ale ich dostępność i jakość mogą być bardzo różne w zależności od misji (i widzimisię INT).
+* **Znaczenie narracyjne i cechy:** Posiadanie *odpowiedniego* sprzętu w *danym momencie* może być kluczowe i wynikać z cech (np. *Techniczny fachowiec* może mieć przy sobie potrzebne narzędzie) lub opisu scenariusza. Cechy takie jak *Mistrz improwizacji* bezpośrednio wpływają na interakcję ze sprzętem. Broń i pancerz działają zgodnie z zasadami skirmishowymi, ale ich dostępność i jakość mogą być bardzo różne w zależności od misji (i widzimisię INT).
 
 ### Motywacje i cele bandy
 
