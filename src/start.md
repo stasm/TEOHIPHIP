@@ -22,7 +22,7 @@ W skrócie: to **taktyczna gra figurkowa**, w której dowodzisz małą **bandą 
 ## Twoja Banda (Kim Grasz?)
 
 * W TEOHIPHIP kontrolujesz **bandę składającą się z 1 do 3 postaci**.
-* Każdą postać tworzysz, nadając jej **Punkty Życia (PŻ)** i unikalny zestaw **Cech** (pozytywnych i negatywnych). Szczegóły tworzenia bandy znajdziesz w pełnym [*Podręczniku Czasownika*](Podręcznik_czasownika.md). Listę Cech znajdziesz w dodatku [*Cechy postaci*](Cechy_postaci.md).
+* Każdą postać tworzysz, nadając jej **Punkty Życia (PŻ)** i unikalny zestaw **Cech** (pozytywnych i negatywnych). Szczegóły tworzenia bandy znajdziesz w pełnym [*Podręczniku Czasownika*](gracz/banda.md). Listę Cech znajdziesz w dodatku [*Cechy postaci*](cechy.md).
 * **PŻ** to nie tylko zdrowie Twoich agentów! Ich aktualna liczba określa też wielkość Twojej **Puli Inicjatywy** (patrz niżej). Zarządzaj nimi mądrze!
 
 ## Przebieg Potyczki (Jak Wygląda Gra?)
@@ -42,7 +42,7 @@ Oto najczęstsze akcje, które kosztują 1 AP (możesz wykonać dwie różne lub
 * **Krycie się:** Zużyj 1 AP, aby zyskać korzyść **Osłony** (patrz niżej) do Twojej następnej aktywacji (o ile się nie ruszysz/zaatakujesz).
 * **Interakcja:** Wykonaj czynność związaną z celem misji (np. podłóż ładunek, uruchom konsolę). Zwykle wymaga **Testu**.
 
-*(Pełną listę akcji i zasad znajdziesz w [Podręczniku czasownika](Podręcznik_czasownika.md).)*
+*(Pełną listę akcji i zasad znajdziesz w [Podręczniku czasownika](gracz/potyczka.md).)*
 
 ## Kluczowe Zasady Walki (Strzelanie i Uniki)
 
