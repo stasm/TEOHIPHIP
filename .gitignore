@@ -1,1 +1,25 @@
-book
+# Generated book
+book/
+
+# Editor files
+.vscode/
+.idea/
+*.iml
+*.swp
+*~
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node
+node_modules/
+npm-debug.log
+
+# Rust / Cargo (if using other rust tools)
+target/
+Cargo.lock
+
+# mdBook temporary files
+.mdbook/

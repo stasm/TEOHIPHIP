@@ -9,7 +9,7 @@ description = "Taktyczna gra skirmishowa z elementami RPG, osadzona w absurdalny
 [output.html]
 default-theme = "ayu" 
 preferred-dark-theme = "navy"
-git-repository-url = "https://github.com/user/TEOHIPHIP" # Zaktualizuj ten URL swoim repozytorium
+git-repository-url = "https://github.com/stasm/TEOHIPHIP"
 git-repository-icon = "fa-github"
 copy-fonts = true
 no-section-label = true
