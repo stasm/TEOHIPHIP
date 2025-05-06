@@ -8,7 +8,7 @@ Witaj Rekrucie! Ten dokument to Twój ekspresowy kurs przetrwania w absurdalnym 
 
 W skrócie: to **taktyczna gra figurkowa**, w której dowodzisz małą **bandą (1-3 postaci)** czasowników, czyli agentów Instytutu Temporystyki (INT), wysyłanych na krótkie, **celowe misje (potyczki)** w różne epoki historyczne. Gra łączy szybką akcję na stole bitwy z elementami RPG – Twoi agenci mają unikalne **Cechy** (zalety i wady), a kluczową mechaniką jest zarządzanie ryzykiem przez **Pulę Inicjatywy**. Wszystko to w sosie czarnego humoru, biurokracji i paradoksów rodem z prozy Stanisława Lema.
 
-## Podstawy Mechaniki (Jak Rzucać Kośćmi?)
+## Podstawy mechaniki (jak rzucać kośćmi?)
 
 * **Kości:** Używamy tylko zwykłych kości sześciościennych (**k6**).
 * **Testy:** Gdy Twoja postać robi coś ryzykownego (atakuje, naprawia, przekonuje mamuta), wykonujesz Test.
@@ -19,20 +19,20 @@ W skrócie: to **taktyczna gra figurkowa**, w której dowodzisz małą **bandą 
 
 *Przewaga i Utrudnienie nie kumulują się – jeśli masz oba, wykonujesz Test Standardowy (2k6).*
 
-## Twoja Banda (Kim Grasz?)
+## Twoja banda (kim grasz?)
 
 * W TEOHIPHIP kontrolujesz **bandę składającą się z 1 do 3 postaci**.
 * Każdą postać tworzysz, nadając jej **Punkty Życia (PŻ)** i unikalny zestaw **Cech** (pozytywnych i negatywnych). Szczegóły tworzenia bandy znajdziesz w pełnym [*Podręczniku Czasownika*](gracz/banda.md). Listę Cech znajdziesz w dodatku [*Cechy postaci*](cechy.md).
 * **PŻ** to nie tylko zdrowie Twoich agentów! Ich aktualna liczba określa też wielkość Twojej **Puli Inicjatywy** (patrz niżej). Zarządzaj nimi mądrze!
 
-## Przebieg Potyczki (Jak Wygląda Gra?)
+## Przebieg potyczki (jak wygląda gra?)
 
 * **Czas:** Potyczka trwa zazwyczaj **5-6 rund**. Czas jest ograniczony, a cele misji palące!
 * **Aktywacja:** Gracze aktywują postacie **naprzemiennie**. Gdy przychodzi Twoja kolej, wybierasz **jedną** ze swoich postaci i wykonujesz nią akcje. Potem kolej przechodzi dalej.
 * **Punkty Akcji (AP):** Każda aktywowana postać ma **2 Punkty Akcji (AP)** do wydania w swojej turze.
 * **Przeciwnicy:** W potyczkach mogą występować **Bohaterowie Niezależni (BN)**, którzy zachowują się według prostych algorytmów i są kontrolowani przez osobę prowadzącą grę lub przez samych graczy.
 
-## Podstawowe Akcje (Co Mogę Zrobić za 1 AP?)
+## Podstawowe akcje (co mogę zrobić za 1 AP?)
 
 Oto najczęstsze akcje, które kosztują 1 AP (możesz wykonać dwie różne lub jedną za 2 AP):
 
@@ -44,7 +44,7 @@ Oto najczęstsze akcje, które kosztują 1 AP (możesz wykonać dwie różne lub
 
 *(Pełną listę akcji i zasad znajdziesz w [Podręczniku czasownika](gracz/potyczka.md).)*
 
-## Kluczowe Zasady Walki (Strzelanie i Uniki)
+## Kluczowe zasady walki (strzelanie i uniki)
 
 * **Linia Wzroku (LoS):** Musisz "widzieć" cel, by do niego strzelić (z perspektywy figurki). Teren i inne figurki mogą blokować LoS.
 * **Ukrycie:** Cel częściowo zasłonięty przez krzaki, dym itp. Atakujący dostaje **Utrudnienie**.
@@ -52,7 +52,7 @@ Oto najczęstsze akcje, które kosztują 1 AP (możesz wykonać dwie różne lub
 * **Obrażenia:** Każdy **sukces** w Teście Ataku (po uwzględnieniu Osłony) zadaje **1 PŻ** obrażeń.
 * **Eliminacja:** Postać, której PŻ spadną do **0**, jest eliminowana z potyczki.
 
-## Pula Inicjatywy (Twoja Szansa na Kontrolę Chaosu!)
+## Pula inicjatywy (twoja szansa na kontrolę chaosu!)
 
 To **kluczowa mechanika** TEOHIPHIP, dająca Ci kontrolę nad losowością!
 
@@ -63,7 +63,7 @@ To **kluczowa mechanika** TEOHIPHIP, dająca Ci kontrolę nad losowością!
 
 **Przykład:** Rzucasz Test Ataku (2k6), wynik to `[2]` i `[4]` (porażka). Masz w Puli Inicjatywy `[6]`, `[4]` i `[3]`, a Twoja postać ma 3 PŻ. Decydujesz się na wymianę. Podmieniasz `[4]` z rzutu na `[6]` z puli. Nowy wynik Testu to `[2]` i `[6]` (1 sukces!). W puli zostaje `[4]` i `[3]`, a co za tym idzie, Twoja postać ma 2 PŻ. Innymi słowy: wymiana kosztowała Cię 1 PŻ, ale dała Ci sukces w ataku!
 
-## Kampania i Rozwój (W Skrócie)
+## Kampania i rozwój (w skrócie)
 
 * Możesz grać pojedyncze potyczki lub połączyć je w **kampanię**.
 * Po każdej potyczce PŻ postaci **resetują się do maksimum**, a **ekwipunek jest zwracany** do magazynu INT. Liczą się tylko Cechy!

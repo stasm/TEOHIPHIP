@@ -1,8 +1,8 @@
-# Prowadzenie Potyczki Skirmishowej
+# Prowadzenie potyczki skirmishowej
 
 Ten rozdział skupia się na praktycznych aspektach prowadzenia potyczki skirmishowej w TEOHIPHIP, od zarządzania turą po rozstrzyganie zasad i automatyzację przeciwników.
 
-## Przebieg Rundy i Aktywacja
+## Przebieg rundy i aktywacja
 
 * **Limit Czasu:** Standardowa potyczka trwa **5-6 rund**. Śledzenie upływających rund jest kluczowe dla realizacji celów scenariusza.
 * **Kolejność Aktywacji:** Na początku każdej rundy ustalana jest kolejność aktywacji band (np. rzut k6, stała kolejność, losowanie żetonów).
@@ -10,7 +10,7 @@ Ten rozdział skupia się na praktycznych aspektach prowadzenia potyczki skirmis
 * **Aktywacja Bandy Gracza:** Gracz kontrolujący bandę aktywuje **jedną** ze swoich postaci w swojej kolejce. Po wykonaniu akcji przez tę postać, kolejka przechodzi dalej. Gracz nie może aktywować kolejnej postaci ze swojej bandy, dopóki wszystkie inne jednostki na stole nie miały swojej aktywacji w tej rundzie.
 * **Punkty Akcji (AP):** Każda aktywowana postać dysponuje **2 AP** do wydania na akcje.
 
-## Adjudykacja Zasad Skirmishowych
+## Adjudykacja zasad skirmishowych
 
 Twoją rolą jako Arbitra jest sprawne i spójne rozstrzyganie sytuacji na stole. Pamiętaj o zasadach opisanych w Podręczniku Gracza (Rozdział 3):
 
@@ -19,7 +19,7 @@ Twoją rolą jako Arbitra jest sprawne i spójne rozstrzyganie sytuacji na stole
 * **Osłona (Cover):** Sprawdzaj, czy cel spełnia warunki Osłony (zasłonięty przez solidny teren, blisko niego). Przypominaj graczom o korzyści (**ignorowanie 1 sukcesu**).
 * **Akcje:** Upewnij się, że gracze poprawnie deklarują i opłacają akcje (1 lub 2 AP). Testy przy Interakcji powinny być szybkie i adekwatne do sytuacji.
 
-## Prowadzenie Testów i Puli Inicjatywy
+## Prowadzenie testów i Puli Inicjatywy
 
 * **Kiedy Test?** W sytuacjach ryzykownych lub wymagających umiejętności (Atak, Interakcja, Wspinaczka, użycie niektórych Cech). Unikaj testów na trywialne czynności.
 * **Przewaga/Utrudnienie:** Przyznawaj je śmiało w oparciu o Cechy, sytuację taktyczną (Celowanie, Ukrycie, flankowanie?), stan sprzętu (często daje Utrudnienie!) i kreatywność graczy. Pamiętaj, że się nie kumulują.
@@ -32,13 +32,13 @@ Twoją rolą jako Arbitra jest sprawne i spójne rozstrzyganie sytuacji na stole
     * **Egzekwuj Koszt:** Upewnij się, że gracz odejmuje 1 PŻ za *każdą* wymianę, zanim zastosuje jej efekt.
     * **Obserwuj:** PŻ graczy to wskaźnik ich elastyczności taktycznej. Niskie PŻ oznaczają mniejszą pulę i większe ryzyko.
 
-## Zarządzanie Komplikacjami
+## Zarządzanie komplikacjami
 
 Świat TEOHIPHIP jest niestabilny. Wykorzystuj to!
 * **Planowane Komplikacje:** Scenariusz może zakładać konkretne wydarzenia (np. przybycie posiłków w rundzie 3, awaria generatora w rundzie 4).
 * **Losowe Komplikacje:** Używaj tabel losowych (patrz Rozdział 6) lub własnej inwencji, by wprowadzać nieoczekiwane zdarzenia: chwilowa anomalia temporalna (np. spowolnienie/przyspieszenie czasu w sektorze mapy), awaria sprzętu losowej postaci (Test Techniczny, by naprawić?), pojawienie się lokalnej fauny, absurdalna dyrektywa z centrali zmieniająca cele misji w jej trakcie. Wprowadzaj je np. na początku rundy na rzut k6 (np. na 1).
 
-## Automatyzacja Przeciwników (BN)
+## Automatyzacja przeciwników (BN)
 
 Aby odciążyć MG i przyspieszyć grę, BN-y w TEOHIPHIP działają według prostych algorytmów.
 

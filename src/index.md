@@ -1,6 +1,6 @@
 # Wprowadzenie
 
-> „Przybywam z Epoki Chronotrakcji, Chronomocji i Telechronii.”
+> „Przybywam z Epoki Chronotrakcji, Chronomocji i Telechronii."
 
 ## Czym jest TEOHIPHIP?
 
@@ -28,7 +28,7 @@ Do gry potrzebujesz kilku kości sześciennych (k6), figurek lub znaczników rep
 
 ## Świat gry
 
-> „Dzieje powszechne wyreguluje się, oczyści, naprawi, wyrówna i udoskonali, zgodnie z zasadami humanitaryzmu, racjonalizmu i ogólnej estetyczności; rozumiesz chyba, że mając taką masarnię i jatkę w rodowodzie, wstyd pchać się pomiędzy wysokie kosmiczne cywilizacje!”
+> „Dzieje powszechne wyreguluje się, oczyści, naprawi, wyrówna i udoskonali, zgodnie z zasadami humanitaryzmu, racjonalizmu i ogólnej estetyczności; rozumiesz chyba, że mając taką masarnię i jatkę w rodowodzie, wstyd pchać się pomiędzy wysokie kosmiczne cywilizacje!"
 
 Wkroczyliśmy w świetlaną przyszłość – powiedzmy, okolice XXVII wieku. Ludzkość opanowała podróże w czasie. Powstał wszechmocny **Instytut Temporystyki (INT)**, dysponujący niewyobrażalnymi środkami i technologią: od indywidualnych **chronocykli** po gigantyczne instalacje czasowe. Wszystko to miało służyć szczytnemu celowi: **TEOHIPHIP – Telechronicznej Optymalizacji Historii Powszechnej Hyperputerem**. Chodziło o to, by wyczyścić historię z wojen, cierpienia i błędów, czyniąc ją estetyczną i racjonalną wizytówką ludzkości.
 

@@ -13,7 +13,7 @@ Zanim zaczniesz przydzielać punkty, zastanów się nad ogólnym konceptem Twoje
 
 Następnie stwórz **koncepty poszczególnych członków** Twojej bandy (1, 2 lub 3 postacie): kim są, jakie mają motywacje, jaki archetyp najlepiej ich opisuje?
 
-## System band i Punkty Kreacji (PK)
+## System band i punkty kreacji (PK)
 
 * Każdy gracz tworzy i kontroluje **bandę składającą się z 1 do 3 postaci**.
 * Na stworzenie całej bandy otrzymujesz **12 Punktów Kreacji (PK)**.
@@ -48,7 +48,7 @@ Po wydaniu PK na PŻ i PC:
 
 Celem jest stworzenie postaci z unikalną mieszanką zalet i wad. Posiadanie cechy pozytywnej zwykle daje **przewagę** w odpowiednich Testach, a negatywnej narzuca **utrudnienie** lub inny negatywny efekt. Pełna, podzielona tematycznie lista cech znajduje się w osobnym dodatku: [Cechy postaci](../cechy.md).
 
-## Ekwipunek (Nie przywiązuj się!)
+## Ekwipunek (nie przywiązuj się!)
 
 * **Standardowy i tymczasowy:** Ekwipunek w TEOHIPHIP jest **przydziałowy, często zawodny i nie przechodzi między misjami**. Nie śledzisz listy posiadanych przedmiotów w kampanii.
 * **Przydział na misję:** Przed każdą potyczką MG (lub scenariusz) określi **standardowy zestaw ekwipunku** dostępny dla Twojej bandy (np. "każdy agent ma chronocykl, komunikator i podstawowy zestaw narzędzi/broni energetycznej").

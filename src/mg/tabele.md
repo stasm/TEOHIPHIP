@@ -2,7 +2,7 @@
 
 Ten rozdział zawiera tabele losowe i ściągawki ułatwiające prowadzenie potyczek i kampanii TEOHIPHIP Skirmish.
 
-## Komplikacje w Trakcie Potyczki (Rzut k6 na początku rundy, np. na 1)
+## Komplikacje w trakcie potyczki (Rzut k6 na początku rundy, np. na 1)
 
 1.  **Anomalia Temporalna:** W losowym sektorze mapy czas płynie wolniej (ruch o połowę) lub szybciej (dodatkowy ruch/akcja?) przez 1 rundę.
 2.  **Awiaria Sprzętu:** Losowa postać gracza musi wykonać Test Techniczny (Utrudnienie, jeśli nie ma Cechy *Techniczny Fachowiec*), aby móc używać swojej broni dystansowej/chronocykla w tej turze.
@@ -11,7 +11,7 @@ Ten rozdział zawiera tabele losowe i ściągawki ułatwiające prowadzenie poty
 5.  **Dyrektywa z Centrali:** MG wymyśla absurdalny, nowy (lub sprzeczny z obecnym) cel misji, który gracze *muszą* spróbować zrealizować oprócz głównego celu (np. "Zbadać populację lokalnych motyli!", "Zostawić ulotki reklamowe INT!").
 6.  **Paradoks Rezonansowy:** Wszystkie postacie w promieniu 6" od losowego punktu muszą zdać Test Odporności na Paradoksy lub tracą 1 AP w tej turze.
 
-## Cele Misji Skirmishowej (Rzut k6)
+## Cele misji skirmishowej (Rzut k6)
 
 1.  **Eskorta:** Eskortuj NPC/obiekt do punktu ewakuacji.
 2.  **Obrona:** Utrzymaj punkt/obiekt przez 6 rund.
@@ -20,7 +20,7 @@ Ten rozdział zawiera tabele losowe i ściągawki ułatwiające prowadzenie poty
 5.  **Przejęcie/Zabezpieczenie:** Zdobądź kontrolę nad artefaktem/informacją.
 6.  **"Korekta" Historyczna:** Wykonaj specyficzną interwencję w punkcie zapalnym.
 
-## Przykładowe Lokalizacje/Epoki (Rzut k6)
+## Przykładowe lokalizacje/epoki (Rzut k6)
 
 1.  Prehistoryczna Dżungla (Pełna dinozaurów i niestabilnych roślin?).
 2.  Starożytny Rzym/Grecja (Pole bitwy, forum, świątynia?).

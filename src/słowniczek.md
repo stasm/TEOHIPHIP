@@ -1,4 +1,4 @@
-# Słowniczek Terminów Temporalnych
+# Słowniczek terminów temporalnych
 
 * **Adl:** Funkcjonariusz nadzoru INT, zesłany 65 000 lat wstecz za porwanie dziewczyny z XII wieku; uznawany za protoplastę neandertalczyków. W grze: Przykład agenta, którego nieodpowiedzialne działania miały daleko idące skutki.
 * **AMOREK (Amortyzator Energii Kinechronicznej):** System zabezpieczający, który miał chronić przed awariami generatorów czasowych; niestety, nie zawsze działał. W grze: Symbol zawodności zaawansowanej technologii INT.
