@@ -4,12 +4,12 @@ Ten rozdział zawiera tabele losowe i ściągawki ułatwiające prowadzenie poty
 
 ## Komplikacje w trakcie potyczki (Rzut k6 na początku rundy, np. na 1)
 
-1.  **Anomalia Temporalna:** W losowym sektorze mapy czas płynie wolniej (ruch o połowę) lub szybciej (dodatkowy ruch/akcja?) przez 1 rundę.
-2.  **Awiaria Sprzętu:** Losowa postać gracza musi wykonać Test Techniczny (Utrudnienie, jeśli nie ma Cechy *Techniczny Fachowiec*), aby móc używać swojej broni dystansowej/chronocykla w tej turze.
-3.  **Nieoczekiwani Goście:** Pojawia się dodatkowy, losowy BN (wróg lub neutralny – np. zagubiony turysta czasowy, lokalna fauna).
-4.  **Zmiana Warunków:** Nagła zmiana pogody/oświetlenia (burza, mgła, noc) wpływająca na LoS lub ruch.
+1.  **Anomalia temporalna:** W losowym sektorze mapy czas płynie wolniej (ruch o połowę) lub szybciej (dodatkowy ruch/akcja?) przez 1 rundę.
+2.  **Awiaria sprzętu:** Losowa postać gracza musi wykonać test techniczny (utrudnienie, jeśli nie ma cechy *Techniczny fachowiec*), aby móc używać swojej broni dystansowej/chronocykla w tej turze.
+3.  **Nieoczekiwani goście:** Pojawia się dodatkowy, losowy BN (wróg lub neutralny – np. zagubiony turysta czasowy, lokalna fauna).
+4.  **Zmiana warunków:** Nagła zmiana pogody/oświetlenia (burza, mgła, noc) wpływająca na linię wzroku (LoS) lub ruch.
 5.  **Dyrektywa z Centrali:** MG wymyśla absurdalny, nowy (lub sprzeczny z obecnym) cel misji, który gracze *muszą* spróbować zrealizować oprócz głównego celu (np. "Zbadać populację lokalnych motyli!", "Zostawić ulotki reklamowe INT!").
-6.  **Paradoks Rezonansowy:** Wszystkie postacie w promieniu 6" od losowego punktu muszą zdać Test Odporności na Paradoksy lub tracą 1 AP w tej turze.
+6.  **Paradoks rezonansowy:** Wszystkie postacie w promieniu 6" od losowego punktu muszą zdać test odporności na paradoksy lub tracą 1 AP w tej turze.
 
 ## Cele misji skirmishowej (Rzut k6)
 
@@ -18,7 +18,7 @@ Ten rozdział zawiera tabele losowe i ściągawki ułatwiające prowadzenie poty
 3.  **Neutralizacja:** Wyeliminuj/przejmij kontrolę nad celem (ważny BN/obiekt).
 4.  **Sabotaż/Zniszczenie:** Zniszcz wskazany obiekt i ucieknij.
 5.  **Przejęcie/Zabezpieczenie:** Zdobądź kontrolę nad artefaktem/informacją.
-6.  **"Korekta" Historyczna:** Wykonaj specyficzną interwencję w punkcie zapalnym.
+6.  **"Korekta" historyczna:** Wykonaj specyficzną interwencję w punkcie zapalnym.
 
 ## Przykładowe lokalizacje/epoki (Rzut k6)
 
@@ -31,7 +31,7 @@ Ten rozdział zawiera tabele losowe i ściągawki ułatwiające prowadzenie poty
 
 ## Generator absurdalnych przedmiotów INT (k6+k6)
 
-### Typu przedmiotu (k6)
+### Typ przedmiotu (k6)
 1. Broń
 2. Narzędzie badawcze
 3. Komunikator

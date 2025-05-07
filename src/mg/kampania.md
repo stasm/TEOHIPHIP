@@ -13,19 +13,19 @@ Ten rozdział opisuje zasady łączenia pojedynczych potyczek skirmishowych w d�
 Po każdej potyczce, przed rozpoczęciem następnej, stosuje się następujące zasady:
 
 1.  **Reset PŻ:** Wszystkie postacie w bandzie **odzyskują PŻ do maksimum**.
-2.  **Reset Ekwipunku:** Sprzęt jest **resetowany** do standardowego przydziału na kolejną misję.
-3.  **Zdobywanie Punktów Kreacji (PK):**
+2.  **Reset ekwipunku:** Sprzęt jest **resetowany** do standardowego przydziału na kolejną misję.
+3.  **Zdobywanie punktów kreacji (PK):**
     * **Wygrana:** Banda otrzymuje **3 PK**.
     * **Przegrana / Remis:** Banda otrzymuje **1 PK** (o ile co najmniej 1 postać przetrwała).
-    * **Całkowita Eliminacja Bandy:** Banda otrzymuje **0 PK**.
-4.  **Wydawanie Punktów Kreacji (PK):**
+    * **Całkowita eliminacja bandy:** Banda otrzymuje **0 PK**.
+4.  **Wydawanie punktów kreacji (PK):**
     * Gracz wydaje zgromadzone PK na swoją bandę. Niewydane PK **kumulują się**.
     * **Opcje:**
-        * **Nowa Cecha Pozytywna:** Koszt **1 PK za każde 3 PC** wartości Cechy.
-        * **Nowa Postać (jeśli banda < 3):** Koszt **1 PK za każdy 1 PŻ** nowej postaci (min. 4 PK).
+        * **Nowa cecha pozytywna:** Koszt **1 PK za każde 3 PC** wartości cechy.
+        * **Nowa postać (jeśli banda < 3):** Koszt **1 PK za każdy 1 punkt życia (PŻ)** nowej postaci (min. 4 PK).
     * **Ograniczenie:** **Nie można** kupować PŻ bezpośrednio dla istniejących postaci.
-5.  **(Opcjonalnie) Wykupienie Cechy Negatywnej:** Wymaga zgody MG, uzasadnienia i kosztuje **2 PK za każdy 1 PC**, który Cecha dawała.
-6.  **Konsekwencje Eliminacji Bandy:** Gracz, którego banda została całkowicie wyeliminowana (0 PK za misję), **otrzymuje 12 PK** na stworzenie **nowej bandy** od zera. Traci cały poprzedni postęp.
+5.  **(Opcjonalnie) Wykupienie cechy negatywnej:** Wymaga zgody MG, uzasadnienia i kosztuje **2 PK za każdy 1 PC**, który cecha dawała.
+6.  **Konsekwencje eliminacji bandy:** Gracz, którego banda została całkowicie wyeliminowana (0 PK za misję), **otrzymuje 12 PK** na stworzenie **nowej bandy** od zera. Traci cały poprzedni postęp.
 
 ## Łączenie scenariuszy i konsekwencje
 

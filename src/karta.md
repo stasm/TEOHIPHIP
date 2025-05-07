@@ -6,20 +6,20 @@ Technik Zenon Kowalski (Numer Akt: 734-Zeta-K)
 
 **Archetyp:** Technik/Inżynier Czasu
 
-**Punkty Życia (PŻ):** 4 (Standardowo, bez modyfikacji z cech)
+**Punkty życia (PŻ):** 4 (Standardowo, bez modyfikacji z cech)
 
 **Cechy negatywne (+11 punktów):**
 
-1.  **Chronochoroba (+3 pkt):** Zenon źle znosi skoki czasowe. Po każdej podróży czuje się przez chwilę fatalnie (mdłości, zawroty głowy), co daje mu `utrudnienie` na pierwszy test wykonywany zaraz po przybyciu do nowej epoki.
-2.  **Uszkodzony sprzęt (+2 pkt):** Jego przydziałowy chronocykl to grat, który wiecznie wymaga napraw w najmniej odpowiednich momentach. MG może częściej zarządzać testy jego działania lub po prostu ogłaszać awarie.
-3.  **Biurokratyczny koszmar (+3 pkt):** Zenon notorycznie gubi formularze, myli pieczątki i ma problemy z wypełnianiem nawet najprostszych wniosków. Otrzymuje `utrudnienie` na wszelkie interakcje z biurokracją INT, co często prowadzi do opóźnień, reprymend lub przydziału jeszcze gorszego sprzętu.
-4.  **Piętno czasowe (+3 pkt):** Zenon nieświadomie nuci pod nosem melodie z przyszłości (np. z XXVII wieku), co brzmi skrajnie dziwacznie w większości epok historycznych i może zwrócić na niego niepożądaną uwagę. Daje mu to `utrudnienie` na testy ukrywania swojej prawdziwej natury lub wtapiania się w tłum.
+1.  *Chronochoroba (+3 pkt):* Zenon źle znosi skoki czasowe. Po każdej podróży czuje się przez chwilę fatalnie (mdłości, zawroty głowy), co daje mu utrudnienie na pierwszy test wykonywany zaraz po przybyciu do nowej epoki.
+2.  *Uszkodzony sprzęt (+2 pkt):* Jego przydziałowy chronocykl to grat, który wiecznie wymaga napraw w najmniej odpowiednich momentach. MG może częściej zarządzać testy jego działania lub po prostu ogłaszać awarie.
+3.  *Biurokratyczny koszmar (+3 pkt):* Zenon notorycznie gubi formularze, myli pieczątki i ma problemy z wypełnianiem nawet najprostszych wniosków. Otrzymuje utrudnienie na wszelkie interakcje z biurokracją INT, co często prowadzi do opóźnień, reprymend lub przydziału jeszcze gorszego sprzętu.
+4.  *Piętno czasowe (+3 pkt):* Zenon nieświadomie nuci pod nosem melodie z przyszłości (np. z XXVII wieku), co brzmi skrajnie dziwacznie w większości epok historycznych i może zwrócić na niego niepożądaną uwagę. Daje mu to utrudnienie na testy ukrywania swojej prawdziwej natury lub wtapiania się w tłum.
 
 **Cechy pozytywne (-11 punktów):**
 
-1.  **Techniczny fachowiec (-4 pkt):** Mimo wszystko, Zenon zna się na chronotechnologii. Otrzymuje `przewagę` na testy naprawy sprzętu Instytutu (szczególnie swojego rozklekotanego chronocykla).
-2.  **Pilot chronocykla (-3 pkt):** Chociaż jego sprzęt jest zawodny, Zenon całkiem nieźle radzi sobie ze sterowaniem standardowym chronocyklem, o ile ten akurat działa. Ma `przewagę` na testy pilotowania (start, lądowanie, manewry w trudnym terenie czasowym).
-3.  **Mistrz improwizacji (-4 pkt):** Lata pracy z psującym się sprzętem i w absurdalnych warunkach wyrobiły w Zenonie talent do radzenia sobie w trudnych sytuacjach przy użyciu tego, co ma pod ręką (często w bardzo niekonwencjonalny sposób). Ma `przewagę` na testy kreatywnego wykorzystania przedmiotów w nieprzewidziany sposób.
+1.  *Techniczny fachowiec (-4 pkt):* Mimo wszystko, Zenon zna się na chronotechnologii. Otrzymuje przewagę na testy naprawy sprzętu Instytutu (szczególnie swojego rozklekotanego chronocykla).
+2.  *Pilot chronocykla (-3 pkt):* Chociaż jego sprzęt jest zawodny, Zenon całkiem nieźle radzi sobie ze sterowaniem standardowym chronocyklem, o ile ten akurat działa. Ma przewagę na testy pilotowania (start, lądowanie, manewry w trudnym terenie czasowym).
+3.  *Mistrz improwizacji (-4 pkt):* Lata pracy z psującym się sprzętem i w absurdalnych warunkach wyrobiły w Zenonie talent do radzenia sobie w trudnych sytuacjach przy użyciu tego, co ma pod ręką (często w bardzo niekonwencjonalny sposób). Ma przewagę na testy kreatywnego wykorzystania przedmiotów w nieprzewidziany sposób.
 
 **Ekwipunek:**
 
@@ -30,7 +30,7 @@ Technik Zenon Kowalski (Numer Akt: 734-Zeta-K)
 * Kilka nieaktualnych formularzy i instrukcji.
 * Paczka syntetycznych sucharów (przydział na misję).
 
-**Motywacje i Cele:**
+**Motywacje i cele:**
 
 * **Główna motywacja:** Przetrwać kolejną misję bez spowodowania większej katastrofy temporalnej niż zwykle.
 * **Cel długoterminowy:** Dostać przeniesienie do spokojnego archiwum temporalnego lub innego równie nudnego działu, gdzie nic się nie psuje i nic nie wybucha.

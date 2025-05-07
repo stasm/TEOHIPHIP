@@ -14,15 +14,15 @@ Po każdej potyczce, przed rozpoczęciem następnej, wykonajcie następujące kr
 
 1.  **Reset PŻ:** Wszystkie postacie w bandzie **odzyskują PŻ do maksimum**.
 2.  **Reset ekwipunku:** Sprzęt z poprzedniej misji jest zdawany. Na nową misję otrzymacie standardowy przydział.
-3.  **Zdobywanie Punktów Kreacji (PK):**
+3.  **Zdobywanie punktów kreacji (PK):**
     * **Wygrana:** Banda otrzymuje **3 PK**.
     * **Przegrana / remis:** Banda otrzymuje **1 PK** (pod warunkiem, że co najmniej 1 postać przetrwała).
     * **Całkowita eliminacja bandy:** Banda otrzymuje **0 PK** za tę misję.
-4.  **Wydawanie Punktów Kreacji (PK):**
+4.  **Wydawanie punktów kreacji (PK):**
     * Gracze mogą wydać zgromadzone PK (niewydane kumulują się).
     * **Opcje:**
         * **Nowa cecha pozytywna:** Koszt **1 PK za każde 3 PC** wartości cechy.
-        * **Nowa postać:** Koszt **1 PK za każdy 1 PŻ** nowej postaci (min. 4 PK).
+        * **Nowa postać:** Koszt **1 PK za każdy 1 punkt życia (PŻ)** nowej postaci (min. 4 PK).
     * **Ograniczenie:** Nie można wydawać PK na bezpośrednie zwiększenie PŻ istniejących postaci.
 5.  **(Opcjonalnie) Wykupienie cechy negatywnej:** Wymaga zgody MG, uzasadnienia i kosztuje **1 PK za każdy 1 PC**, który cecha dawała.
 6.  **Konsekwencje eliminacji bandy:** Jeśli cała banda została wyeliminowana (0 PK za misję), gracz **otrzymuje 12 PK** na stworzenie **nowej bandy** od zera na następną potyczkę, tracąc cały poprzedni postęp.

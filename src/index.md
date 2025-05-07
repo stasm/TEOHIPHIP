@@ -6,7 +6,7 @@
 
 TEOHIPHIP to taktyczna gra skirmishowa z elementami RPG, osadzona w absurdalnym świecie podróży w czasie inspirowanym "Podróżą dwudziestą" z "Dzienników gwiazdowych" Stanisława Lema. W grze kontrolujesz małą bandę agentów Instytutu Temporystyki (INT), realizujących misje w różnych epokach historycznych.
 
-Rdzeniem gry są proste zasady systemu tinyd6, wzbogacone o unikalne mechaniki, by skupić się na szybkiej akcji, taktycznych decyzjach i realizacji celów misji. Kluczową rolę odgrywają unikalne Cechy Twoich agentów oraz mechanika Puli Inicjatywy, pozwalająca zarządzać ryzykiem i szczęściem (często kosztem zdrowia!).
+Rdzeniem gry są proste zasady systemu tinyd6, wzbogacone o unikalne mechaniki, by skupić się na szybkiej akcji, taktycznych decyzjach i realizacji celów misji. Kluczową rolę odgrywają unikalne cechy Twoich agentów oraz mechanika puli inicjatywy, pozwalająca zarządzać ryzykiem i szczęściem (często kosztem zdrowia!).
 
 Celem TEOHIPHIP jest połączenie satysfakcjonującej rozgrywki taktycznej z niepowtarzalnym, satyrycznym klimatem prozy Lema, pełnym czarnego humoru, biurokratycznego chaosu, zawodnej technologii i temporalnych paradoksów. Gra oferuje również tryb kampanii, w którym Twoja banda rozwija się między potyczkami, zdobywając doświadczenie i stawiając czoła coraz większym absurdom INT.
 
@@ -24,7 +24,7 @@ TEOHIPHIP jest idealny dla graczy, którzy:
 
 Najlepszym sposobem na rozpoczęcie przygody z TEOHIPHIP jest przejście do rozdziału [Pierwsze kroki](start.md), który wprowadzi Cię w podstawy gry.
 
-Do gry potrzebujesz kilku kości sześciennych (k6), figurek lub znaczników reprezentujących agentów Twojej bandy i przeciwników, miarki (najlepiej calowej), stołu z elementami terenu (pudełka, książki, gotowe makiety) oraz Karty Bandy.
+Do gry potrzebujesz kilku kości sześciennych (k6), figurek lub znaczników reprezentujących agentów Twojej bandy i przeciwników, miarki (najlepiej calowej), stołu z elementami terenu (pudełka, książki, gotowe makiety) oraz karty bandy.
 
 ## Świat gry
 
